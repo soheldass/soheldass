@@ -87,6 +87,12 @@ http://192.168.81.2/hlsHD/GaanBanglaHD/devilBox.m3u8
 #EXTINF:-1,tvg-logo=""group-title="sohel=bangladeshi",movie bangla
 http://alvetv.com/moviebanglatv/8080/index.m3u8
 
+#EXTINF:-1,tvg-logo=""group-title="sohel=bangladeshi",green tv
+http://tv.bdvision.live:8080/play/Fv9Q7rUIs_2IjMLCvGCDNnYC_sFj1xTO0FehFj3FxC0/m3u8
+
+#EXTINF:-1,tvg-logo=""group-title="sohel=bangladeshi",ekhon tv
+http://tv.bdvision.live:8080/play/Fv9Q7rUIs_2IjMLCvGCDNvZ32J12C4yIrmRvlo7sPLM/m3u8
+
 #EXTINF:-1,tvg-logo=""group-title="sohel=bangladeshi",eten tv
 https://iptvbd.live/test/1080.m3u8
 
@@ -126,8 +132,14 @@ http://45.127.56.3:9698/live/Corpus-POL/SRV4/1/SONY-AATH/video.m3u8
 #EXTINF:-1,tvg-logo=""group-title="sohel=kolkata",zee bangla cinema
 http://192.168.81.2/hlsHD/ZeeBanglaCinema/devilBox.m3u8
 
+#EXTINF:-1,tvg-logo=""group-title="sohel=kolkata",zee bangla cinema sd
+http://tv.bdvision.live:8080/play/Fv9Q7rUIs_2IjMLCvGCDNmJt5aI_IblB3u52IfubXxs/m3u8
+
 #EXTINF:-1,tvg-logo=""group-title="sohel=kolkata",colors bangla cinema
 http://tv.bdvision.live:8080/play/chXzkkaPaXkx2-3idfJ3VWRGWpbZdvo-WHZAjMPgYIw/ts
+
+#EXTINF:-1,tvg-logo=""group-title="sohel=kolkata",jalsha movies
+http://tv.bdvision.live:8080/play/Fv9Q7rUIs_2IjMLCvGCDNsuEZ3xjVKuq4h-xbfNx8jk/m3u8
 
 #EXTINF:-1,tvg-logo=""group-title="sohel=kolkata",jalsha movies hd
 http://45.127.56.3:9698/live/Corpus-POL/SRV4/3/STAR-JALSHA-MOVIES-HD/video.m3u8
@@ -137,6 +149,9 @@ http://103.145.48.150:90/laosat23/taratv/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1,tvg-logo=""group-title="sohel=kolkata",sun bangla cinema
 https://live.sunbanglacinema.in/sunbanglacinema/index.m3u8
+
+#EXTINF:-1,tvg-logo=""group-title="sohel=kolkata",sananda tv
+http://tv.bdvision.live:8080/play/Fv9Q7rUIs_2IjMLCvGCDNnGTsl6XW0NyjYeVWgwbSkg/m3u8
 
 #EXTINF:-1,tvg-logo=""group-title="sohel=hindi-movies",sony max hd
 http://192.168.81.2/hlsHD/SonyMaxTV/devilBox.m3u8
