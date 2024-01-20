@@ -1,576 +1,139 @@
 #EXTM3U
-#EXTINF:-1, Powered by SoHeL Ds.
-#EXTINF:-1, soheloffisial@gmail.com
-#EXTINF:-1, whatsapp:01323765321
-#EXTINF:-1, http://102.109.3.45:0000/sohel.m3u
 
-#EXTINF:-1,tvg-id="" tvg-name="BTV HD" tvg-logo="https://i.ibb.co/NtQ4fMf/Picsart-23-06-12-22-23-10-612.png" group-title="SOHEL-BANGLADESHI", BTV  HD
-http://103.230.105.252:1935/live/btv/manifest.mpd
-
-#EXTINF:-1"tvg-logo="https://images.toffeelive.com/images/program/1/logo/240x240/mobile_logo_310000001673183767.png"group-title="SOHEL-BANGLADESHI",BTV NATIONAL HD
+#EXTINF:-1,tvg-logo=""group-title="sohel=bangladeshi",btv world
 http://192.168.81.2/hlsHD/BTVWorld/devilBox.m3u8
 
-
-#EXTINF:-1,tvg-id="" tvg-name="SOMOY TV" tvg-logo="https://i.ibb.co/TW3yQD9/Picsart-23-06-07-11-27-32-538.png" group-title="SOHEL-BANGLADESHI", SOMOY TV
+#EXTINF:-1,tvg-logo=""group-title="sohel=bangladeshi",somoy tv
 http://192.168.81.2/hlsHD/SOMOYTV/devilBox.m3u8
 
-
-#EXTINF:-1,tvg-id="" tvg-name="GAAN BANGLA" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/23/Gaan_Bangla_Logo.png" group-title="SOHEL-BANGLADESHI", GAAN BANGLA TV
-http://cdn01.palki.tv/live/GaanBangla-M/tracks-v2a1/mono.m3u8
-
-#EXTINF:-1 ,tvg-id="" tvg-name="NEXUS TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d3/Nexus_Television_Logo.png" group-title="SOHEL-BANGLADESHI", NEXUS TV HD
+#EXTINF:-1,tvg-logo=""group-title="sohel=bangladeshi",nexus tv
 http://192.168.81.2/hlsHD/NEXUSTV/devilBox.m3u8
 
-#EXTINF:-1 ,tvg-id="" tvg-name="ATN BANGLA" tvg-logo="https://i.ibb.co/D7sMcgj/Picsart-23-06-07-11-27-15-922.png" group-title="SOHEL-BANGLADESHI", ATN BANGLA
+#EXTINF:-1,tvg-logo=""group-title="sohel=bangladeshi",atn bangla
 http://192.168.81.2/hlsHD/ATNBangla/devilBox.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="ATN NEWS" tvg-logo="https://i.ibb.co/wRr7tXc/Picsart-23-06-07-11-32-09-482.png" group-title="SOHEL-BANGLADESHI", ATN NEWS 
-http://192.168.81.2/hlsHD/ATNNews/devilBox.m3u8
-
-EXTINF:-1 tvg-id="" tvg-name="DBC NEWS" tvg-logo="https://i.ibb.co/tQtY9CG/Picsart-23-06-07-11-18-32-725.png" group-title="SOHEL-BANGLADESHI", DBC NEWS 
-http://192.168.81.2/hlsHD/DBCNEWS/devilBox.m3u8
-
-#EXTINF:-1,group-title="SOHEL-BANGLADESHI" tvg-chno="" tvg-id="" tvg-logo="https://images.toffeelive.com/images/program/365/logo/240x240/mobile_logo_731536001673438371.png", Nagorik TV
-http://tv.bdvision.live:8080/play/chXzkkaPaXkx2-3idfJ3VTQITrTavAgk1lrA7n6ACb0/m3u8
-
-#EXTINF:-1 ,tvg-id="" tvg-name="BANGLA TV" tvg-logo="https://i.ibb.co/LnTmZLD/Picsart-23-06-07-10-15-30-064.png" group-title="SOHEL-BANGLADESHI", BANGLA TV
+#EXTINF:-1,tvg-logo=""group-title="sohel=bangladeshi",bangla tv
 http://192.168.81.2/hlsHD/BanglaTVHD/devilBox.m3u8
 
-#EXTINF:-1,tvg-id="" tvg-name="GAZI TV" tvg-logo="https://i.ibb.co/3SBkgWD/Picsart-23-06-19-21-41-04-729.png" group-title="SOHEL-BANGLADESHI",GAZI TV
-http://tv.bdvision.live:8080/play/chXzkkaPaXkx2-3idfJ3VbdIBjrcokGSZiC881bxYBM/m3u8
-
-#EXTINF:-1,tvg-id="1,tvg-name=""GAZI TV" tvg-logo="https://i.ibb.co/3SBkgWD/Picsart-23-06-19-21-41-04-729.png" group-title="SOHEL-BANGLADESHI",GAZI TV bdix
-http://tv.bdvision.live:8080/play/chXzkkaPaXkx2-3idfJ3VbdIBjrcokGSZiC881bxYBM/m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="ANANDA TV" tvg-logo="https://i.ibb.co/0Xhj6yK/Picsart-23-06-07-10-11-58-213.png" group-title="SOHEL-BANGLADESHI",ANANDA TV 
+#EXTINF:-1,tvg-logo=""group-title="sohel=bangladeshi",ananda tv
 http://192.168.81.2/hlsHD/AnandaTV/devilBox.m3u8
 
-#EXTINF:-1 ,tvg-id="" tvg-name="BANGLAVISION" tvg-logo="https://i.ibb.co/59MpX6W/Picsart-23-06-07-11-22-47-756.png" group-title="SOHEL-BANGLADESHI", BANGLAVISION
+#EXTINF:-1,tvg-logo=""group-title="sohel=bangladeshi",bangla vision
 http://192.168.81.2/hlsHD/BanglaVision/devilBox.m3u8
 
-#EXTINF:-1 ,tvg-id="" tvg-name="BOISHAKHI TV" tvg-logo="https://i.ibb.co/w457MWk/Picsart-23-06-07-11-22-28-998.png" group-title="SOHEL-BANGLADESHI", BOISHAKHI TV
+#EXTINF:-1,tvg-logo=""group-title="sohel=bangladeshi",boishakhi tv
 http://192.168.81.2/hlsHD/BoishakhiTV/devilBox.m3u8
 
-#EXTINF:-1 ,tvg-id="" tvg-name="CHANNEL 24" tvg-logo="https://i.ibb.co/cvp9cwR/Picsart-23-06-07-11-34-54-734.png" group-title="SOHEL-BANGLADESHI", CHANNEL 24
+#EXTINF:-1,tvg-logo=""group-title="sohel=bangladeshi",channel 24
 http://192.168.81.2/hlsHD/Channel24HD/devilBox.m3u8
 
-#EXTINF:-1 ,tvg-id="" tvg-name="BIJOY TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/63/BIJOY_TV_Logo_BD.png" group-title="SOHEL-BANGLADESHI", BIJOY TV
+#EXTINF:-1,tvg-logo=""group-title="sohel=bangladeshi",bijoy tv
 http://192.168.81.2/hlsHD/BijoyTV/devilBox.m3u8
 
-#EXTINF:-1,group-title="SOHEL-BANGLADESHI"tvg-logo="https://i.postimg.cc/x1NThgr4/Shobuy-Prime-HD .jpg", SHOBUY PRIME HD
-http://tv.bdvision.live:8080/play/chXzkkaPaXkx2-3idfJ3VXYqStGpAA0jMVpGzs3sWf0/m3u8
-
-#EXTINF:-1 ,group-title="SOHEL-BANGLADESHI" tvg-logo="https://github.com/tamzidazam/dotinternet-iptv/raw/main/tv-logo/channeli.jpg",CHANNEL I
+#EXTINF:-1,tvg-logo=""group-title="sohel=bangladeshi",channel i
 http://192.168.81.2/hlsHD/ChannelIHD/devilBox.m3u8
 
-#EXTINF:-1 ,tvg-id="" tvg-name="EKHON TV" tvg-logo="https://upload.wikimedia.org/wikipedia/bn/2/2c/%E0%A6%8F%E0%A6%96%E0%A6%A8%E0%A7%87%E0%A6%B0_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.png" group-title="SOHEL-BANGLADESHI", EKHON TV
-http://192.168.81.2/hlsHD/EKHONTV/devilBox.m3u8
+#EXTINF:-1,tvg-logo=""group-title_"sohel=bangladeshi",independent
+http://103.109.56.116/live/skyfeed1012/index.m3u8
 
-#EXTINF:-1 ,tvg-id="" tvg-name="GREEN TV" tvg-logo="https://i.ibb.co/JmqQ6p4/Picsart-23-06-07-11-16-53-534.png" group-title="SOHEL-BANGLADESHI",GREEN
-http://tv.bdvision.live:8080/play/chXzkkaPaXkx2-3idfJ3VZj2sR8Ng6YZTr7VPL1WyJo/m3u8
-
-#EXTINF:-1 ,tvg-id="" tvg-name="INDEPENDENT" tvg-logo="https://i.ibb.co/qgQHWnQ/Picsart-23-06-07-11-15-11-409.png" group-title="SOHEL-BANGLADESHI", INDEPENDENT
-https://bdtubelive.xyz/bdix.m3u8?id=independent-tv
-
-#EXTINF:-1 ,tvg-id="" tvg-name="JAMUNA TV" tvg-logo="https://i.ibb.co/7KyTYrM/Picsart-23-06-07-11-13-27-854.png" group-title="SOHEL-BANGLADESHI", JAMUNA TV
+#EXTINF:-1,tvg-logo=""group-title="sohel=bangladeshi",jamuna tv
 http://192.168.81.2/hlsHD/JamunaTelevision/devilBox.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="MY TV" tvg-logo="https://i.ibb.co/WfjvRsn/Picsart-23-06-07-11-07-21-738.png" group-title="SOHEL-BANGLADESHI", MY TV 
+#EXTINF:-1,tvg-logo=""group-title="sohel=bangladeshi",my tv
 http://192.168.81.2/hlsHD/MyTv/devilBox.m3u8
 
-#EXTINF:-1 ,tvg-id="" tvg-name="EKUSHEY TV" tvg-logo="https://i.ibb.co/0rR6nG7/Picsart-23-06-07-10-32-27-069.png" group-title="SOHEL-BANGLADESHI", EKUSHEY TV
+#EXTINF:-1,tvg-logo=""group-title="sohel=bangladeshi",ekushey tv
 http://192.168.81.2/hlsHD/EkusheyTv/devilBox.m3u8
 
-#EXTINF:-1, tvg-id="" tvg-name="BD: DURONTO TV" tvg-link="" tvg-logo="http://ujm.from-in.com/panel/imageicon/40bbf33.png" group-title="SOHEL-BANGLADESHI",DURONTO TV
-http://tv.bdvision.live:8080/play/chXzkkaPaXkx2-3idfJ3VXSwFFPGOanmhSJfcJpjtuY/m3u8
-
-#EXTINF:-1 tvg-logo=""  group-title="SOHEL-KIDS",RONGEEN TV
-https://cdn.smartstream.video/smartstream-us/rongeentv/rongeentv/playlist.m3u8
-
-#EXTINF:-1 ,tvg-id="" tvg-name="MOHONA TV" tvg-logo="https://i.ibb.co/Ln4M5vp/Picsart-23-06-07-11-11-50-301.png" group-title="SOHEL-BANGLADESHI", MOHONA TV
+#EXTINF:-1,tvg-logo=""group-title="sohel=bangladeshi",mohona tv
 http://192.168.81.2/hlsHD/MohonaTV/devilBox.m3u8
 
-#EXTINF:-1 ,tvg-id="" tvg-name="NEWS 24" tvg-logo="https://upload.wikimedia.org/wikipedia/bn/9/95/%E0%A6%A8%E0%A6%BF%E0%A6%89%E0%A6%9C%E0%A7%A8%E0%A7%AA_%28%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE%E0%A6%A6%E0%A7%87%E0%A6%B6%29_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.jpg" group-title="SOHEL-BANGLADESHI", NEWS 24
+#EXTINF:-1,tvg-logo=""group-title="sohel=bangladeshi",news 24
 http://192.168.81.2/hlsHD/News24HD/devilBox.m3u8
 
-#EXTINF:-1 ,tvg-id="" tvg-name="R TV" tvg-logo="https://i.ibb.co/Brrvpht/Picsart-23-06-07-10-20-10-353.png" group-title="SOHEL-BANGLADESHI", R TV
+#EXTINF:-1,tvg-logo=""group-title="sohel=bangladeshi",r tv
 http://192.168.81.2/hlsHD/RtvHD/devilBox.m3u8
 
-#EXTINF:-1 ,tvg-id="" tvg-name="SA TV" tvg-logo="https://i.ibb.co/jhPSkLR/Picsart-23-06-07-10-30-19-289.png" group-title="SOHEL-BANGLADESHI", SA TV
+#EXTINF:-1,tvg-logo=""group-title="sohel=bangladeshi",satv
 http://192.168.81.2/hlsHD/SATVHD/devilBox.m3u8
 
-#EXTINF:-1,tvg-id="" tvg-name="DEEPTO TV" tvg-logo="https://i.ibb.co/bbYQfNr/Picsart-23-06-07-10-24-56-525.png" group-title="SOHEL-BANGLADESHI", DEEPTO TV
+#EXTINF:-1,tvg-logo=""group-title="sohel=bangladeshi",deepto tv
 http://192.168.81.2/hlsHD/DeeptoTVHD/devilBox.m3u8
 
-#EXTINF:-1,group-title="SOHEL-BANGLADESHI" tvg-chno="" tvg-id="" tvg-logo="https://images.toffeelive.com/images/program/53/logo/240x240/mobile_logo_107276001655890949.png", Ekattor TV
+#EXTINF:-1,tvg-logo=""group-title="sohel=bangladeshi",ekattor tv
 http://192.168.81.2/hlsHD/EkattorTVHD/devilBox.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="ASIAN TV" tvg-logo="https://i.ibb.co/BBhfYpX/Picsart-23-06-07-10-23-04-121.png" group-title="SOHEL-BANGLADESHI", ASIAN TV 
+#EXTINF:-1,tvg-logo=""group-title="sohel=bangladeshi",asian tv
 http://192.168.81.2/hlsHD/asiantvHD/devilBox.m3u8
 
-#EXTINF:-1,tvg-id="" tvg-name="Maasranga" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/39/Maasranga_Television_Logo.jpg" group-title="SOHEL-BANGLADESHI", MAASRANGA HD
+#EXTINF:-1,tvg-logo=""group-title="sohel=bangladeshi",masranga
 http://192.168.81.2/hlsHD/MaasrangaTVHD/devilBox.m3u8
 
-#EXTINF:-1,tvg-id="" tvg-name="BD: DESH TV FHD" tvg-link="" tvg-logo="http://ujm.from-in.com/panel/imageicon/cccb3a0.png" group-title="SOHEL-BANGLADESHI" ,DESH TV
+#EXTINF:-1,tvg-logo=""group-title="sohel=bangladeshi",desh tv
 http://192.168.81.2/hlsHD/Deshtv/devilBox.m3u8
 
-#EXTINF:-1,tvg-id="" tvg-name="BD: GLOBAL TV BANGLADESH FHD" tvg-link="" tvg-logo="http://ujm.from-in.com/panel/imageicon/78b4d3f.png" group-title="SOHEL-BANGLADESHI" ,GLOBAL TV
+#EXTINF:-1,tvg-logo=""group-title="sohel=bangladeshi",global tv
 http://192.168.81.2/hlsHD/GLOBALTVHD/devilBox.m3u8
 
-#EXTINF:-1,tvg-id="" tvg-name="BD: CHANNEL 9 FHD" tvg-link="" tvg-logo="http://ujm.from-in.com/panel/imageicon/a4df804.png" group-title="SOHEL-BANGLADESHI" ,CHANNEL 9
+#EXTINF:-1,tvg-logo=""group-title="sohel=bangladeshi",channel 9
 http://192.168.81.2/hlsHD/Channel9BD/devilBox.m3u8
 
-#EXTINF:-1,tvg-id="" tvg-name="BD: NTV BANGLA FHD" tvg-link="" tvg-logo="http://ujm.from-in.com/panel/imageicon/5e80f1e.png" group-title="SOHEL-BANGLADESHI" ,NTV 
+#EXTINF:-1,tvg-logo=""group-title="sohel=bangladeshi",ntv
 http://192.168.81.2/hlsHD/NTV/devilBox.m3u8
 
-#EXTINF:-1,tvg-id="" tvg-name="GAAN BANGLA" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/23/Gaan_Bangla_Logo.png" group-title="SOHEL-BANGLADESHI", GAAN BANGLA TV
+#EXTINF:-1,tvg-logo=""group-title="sohel=bangladeshi",gaan-bangla
 http://192.168.81.2/hlsHD/GaanBanglaHD/devilBox.m3u8
 
-#EXTINF:-1,group-title="SOHEL-MUSIC",BANGLA MUSIC
-http://tv.bdvision.live:8080/play/chXzkkaPaXkx2-3idfJ3VXlKZOBh0w9jXV4C-s8_mIk/m3u8
-
-#EXTINF:-1,tvg-id="" tvg-name="MOVIE BANGLA" tvg-logo="https://i.ibb.co/Tr1FsLp/Picsart-23-06-07-11-09-56-678.png" group-title="SOHEL-BANGLADESHI", MOVIE BANGLA
+#EXTINF:-1,tvg-logo=""group-title="sohel=bangladeshi",movie bangla
 http://alvetv.com/moviebanglatv/8080/index.m3u8
 
-#EXTINF:-1,tvg-id="" tvg-name="STAR JALSHA" tvg-logo="https://i.ibb.co/ZKvL8QG/Picsart-23-07-13-01-14-17-172.png" group-title="SOHEL-KOLKATA", STAR JALSHA SD
+#EXTINF:-1,tvg-logo=""group-title="sohel=bangladeshi",eten tv
+https://iptvbd.live/test/1080.m3u8
+
+#EXTINF:-1,tvg-logo=""group-title="sohel=bangladeshi",duronto tv
+http://192.168.81.2/hlsHD/DurontoTV/devilBox.m3u8
+
+#EXTINF:-1,tvg-logo=""group-title="sohel=bangladeshi",gazi tv
+http://103.141.2.37:25461/live/web/web/592.m3u8
+
+#EXTINF:-1,tvg-logo=""group-title="sohel=bangladeshi",gtv hd
+http://192.168.81.2/hlsHD/GaziTv/devilBox.m3u8
+
+#EXTINF:-1,tvg-logo=""group-title="sohel=kolkata",star jalsha
 http://45.127.56.3:9698/live/Corpus-POL/SRV4/3/STAR-JALSHA/video.m3u8
 
-#EXTINF:-1,tvg-id="" tvg-name="STAR JALSHA" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/STJHD_Thumbnail-v3/STJHD_Thumbnail.png" group-title="SOHEL-KOLKATA", STAR JALSHA HD
+#EXTINF:-1,tvg-logo=""group-title="sohel=kolkata",star jalsha hd
 http://45.127.56.3:9698/live/Corpus-POL/SRV4/3/STAR-JALSHA-HD/video.m3u8
 
-#EXTINF:-1,tvg-id="" tvg-name="STAR JALSHA" tvg-logo="https://i.ibb.co/ZKvL8QG/Picsart-23-07-13-01-14-17-172.png" group-title="SOHEL-KOLKATA",STAR JALSHA FHD
-http://tv.bdvision.live:8080/play/chXzkkaPaXkx2-3idfJ3VWDt7eWHtQM-QHfUTvIUt5E/m3u8
-
-#EXTINF:-1,tvg-id="" tvg-name="ZEE BANGLA" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11970-j9luk5ag-v1/imageContent-11970-j9luk5ag-m1.png" group-title="SOHEL-KOLKATA", ZEE BANGLA SD
+#EXTINF:-1,tvg-logo=""group-title="sohel=kolkata",zee bangla hd
 http://192.168.81.2/hlsHD/ZEEBANGLAHD/devilBox.m3u8
 
-#EXTINF:-1,tvg-id="" tvg-name="ZEE BANGLA" tvg-logo="https://i.ibb.co/YLmSMgN/Picsart-23-07-13-01-08-01-670.png" group-title="SOHEL-KOLKATA",ZEE BANGLA HD
-http://tv.bdvision.live:8080/play/chXzkkaPaXkx2-3idfJ3VX1m38e3Utts7Nu-vCsbjQw/m3u8
+#EXTINF:-1,tvg-logo=""group-title="sohel=kolkata",colors bangla
+http://103.141.2.37:25461/live/web/web/587.m3u8
 
-#EXTINF:-1,tvg-id="" tvg-name="COLORS BANGLA HD" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11287-j9j4tl2w-v2/imageContent-11287-j9j4tl2w-m3.png"group-title="SOHEL-KOLKATA", COLORS BANGLA SD
-http://tv.bdvision.live:8080/play/chXzkkaPaXkx2-3idfJ3VTsLDwtae9r6p-Bfm7JQusE/ts
-
-#EXTINF:-1,tvg-id="" tvg-name="COLORS BANGLA HD" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11287-j9j4tl2w-v2/imageContent-11287-j9j4tl2w-m3.png"group-title="SOHEL-KOLKATA", COLORS BANGLA HD
+#EXTINF:-1,tvg-logo=""group-title="sohel=kolkata",colors bangla hd
 http://192.168.81.2/hlsHD/ColorsBanglaHD/devilBox.m3u8
 
-#EXTINF:-1,"group-title="SOHEL-KOLKATA",SUN BANGLA
+#EXTINF:-1,tvg-logo=""group-title="sohel=kolkata",enter 10 bangla
+http://192.168.81.2/hlsHD/Enterr10Bangla/devilBox.m3u8
+
+#EXTINF:-1,tvg-logo=""group-title="sohel=kolkata",sun bangla
 http://192.168.81.2/hlsHD/SUNBANGLA/devilBox.m3u8
 
-#EXTINF:-1,"group-title="SOHEL-KOLKATA", ENTER 10 BANGLA
-http://tv.bdvision.live:8080/play/chXzkkaPaXkx2-3idfJ3VTyy-vgwLCgHqtlJmA7fJWI/m3u8
-
-#EXTINF:-1,tvg-id="" tvg-name="SONY AATH" tvg-logo="https://i.ibb.co/G7h2tj2/Picsart-23-06-07-12-58-40-084.png" group-title="SOHEL-KOLKATA", SONY AATH
+#EXTINF:-1,tvg-logo=""group-title="sohel=kolkata",sony aath
 http://45.127.56.3:9698/live/Corpus-POL/SRV4/1/SONY-AATH/video.m3u8
 
-#EXTINF:-1,tvg-id="" tvg-name="SONY AATH" tvg-logo="https://i.ibb.co/G7h2tj2/Picsart-23-06-07-12-58-40-084.png" group-title="SOHEL-KOLKATA", SONY AATH HD
-http://192.168.81.2/hlsHD/SonyAath/devilBox.m3u8
+#EXTINF:-1,tvg-logo=""group-title="sohel=kolkata",zee bangla cinema
+http://192.168.81.2/hlsHD/ZeeBanglaCinema/devilBox.m3u8
 
-#EXTINF:-1,"tvg-logo="https://images.toffeelive.com/images/program/18834/logo/240x240/mobile_logo_267398001683804913.png""group-title="SOHEL-KOLKATA",JALSHA MOVIES SD
-http://tv.bdvision.live:8080/play/chXzkkaPaXkx2-3idfJ3Vf1dWLTgqxpK1X04Qak8m_o/m3u8
+#EXTINF:-1,tvg-logo=""group-title="sohel=kolkata",colors bangla cinema
+http://tv.bdvision.live:8080/play/chXzkkaPaXkx2-3idfJ3VWRGWpbZdvo-WHZAjMPgYIw/ts
 
-#EXTINF:-1,tvg-id="" tvg-name="JALSHA MOVIES HD" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11514-j9jtp5tk-v1/imageContent-11514-j9jtp5tk-m2.png" group-title="SOHEL-KOLKATA", JALSHA MOVIES HD
+#EXTINF:-1,tvg-logo=""group-title="sohel=kolkata",jalsha movies hd
 http://45.127.56.3:9698/live/Corpus-POL/SRV4/3/STAR-JALSHA-MOVIES-HD/video.m3u8
 
-#EXTINF:-1,tvg-id="" tvg-name="ZEE BANGLA CINEMA" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f6/Zee_Bangla_Cinema_2022.png/revision/latest?cb=20230706222511" group-title="SOHEL-KOLKATA",ZEE BANGLA CINEMA
-http://tv.bdvision.live:8080/play/chXzkkaPaXkx2-3idfJ3VWQiVY74puNtVvwzOPirprA/ts
-
-#EXTINF:-1,tvg-id="" tvg-name="ZEE BANGLA CINEMA" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f6/Zee_Bangla_Cinema_2022.png/revision/latest?cb=20230706222511" group-title="SOHEL-KOLKATA", ZEE BANGLA CINEMA
-https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeebanglacinema/default/zeebanglacinema-audio_208482_und=208000-video=2137600.m3u8
-
-#EXTINF:-1,group-title="SOHEL-KOLKATA" tvg-chno="" tvg-id="" tvg-logo="https://images.toffeelive.com/images/program/10157/logo/240x240/mobile_logo_151189001655892087.png", Colors Bangla Cinema bdix
-http://tv.bdvision.live:8080/play/chXzkkaPaXkx2-3idfJ3VWRGWpbZdvo-WHZAjMPgYIw/m3u8
-
-#EXTINF:-1,group-title="SOHEL-KOLKATA" tvg-chno="" tvg-id="" tvg-logo="https://images.toffeelive.com/images/program/10157/logo/240x240/mobile_logo_151189001655892087.png", Colors Bangla Cinema
-http://tv.bdvision.live:8080/play/chXzkkaPaXkx2-3idfJ3VWRGWpbZdvo-WHZAjMPgYIw/m3u8
-
-#EXTINF:-1, "group-title="SOHEL-KOLKATA",TARA TV
+#EXTINF:-1,tvg-logo=""group-title="sohel=kolkata",tara
 http://103.145.48.150:90/laosat23/taratv/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1,tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11027-j8yjr8k0-v1/imageContent-11027-j8yjr8k0-m1.png"group-title="SOHEL-HINDI-MOVIES",ZEE CINEMA SD
-http://103.120.172.74:4100/
-
-#EXTINF:-1,tvg-id="zeeindia@0-9-zeecinemahd" tvg-name="Zee Cinema India HD" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11915-j9l5clzs-v1/imageContent-11915-j9l5clzs-m1.png" group-title="SOHEL-HINDI-MOVIES",Zee Cinema HD
-http://tv.bdvision.live:8080/play/chXzkkaPaXkx2-3idfJ3VZylYH3pEBd-H5JmLPqA9u0/m3u8
-
-#EXTINF:-1,tvg-id="zeeindia@0-9-tvpictureshd" tvg-name="& Pictures India HD" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11173-j9hth720-v1/imageContent-11173-j9hth720-m1.png" group-title="SOHEL-HINDI-MOVIES",& Pictures HD
-https://pubads.g.doubleclick.net/ssai/event/GvxJH26zQU2K26dScVna1A/master.m3u8
-
-#EXTINF:-1,tvg-id="zeeindia@0-9-tvpictureshd" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-499-j5jydp7s-v1/imageContent-499-j5jydp7s-m1.png" group-title="SOHEL-HINDI-MOVIES",& Pictures HD
-https://nayeem-parvez.pw/api/bongo.m3u8?id=pictures-hd
-
-#EXTINF:-1,tvg-id="" tvg-name="SONY MAX" tvg-logo="https://i.ibb.co/q9Nwjh0/Picsart-23-06-07-12-58-14-641.png" group-title="SOHEL-HINDI-MOVIES", SONY MAX HD
-http://tv.bdvision.live:8080/play/chXzkkaPaXkx2-3idfJ3Vbo5v2mg5L3M_5IW44dsmAw/m3u8
-
-#EXTINF:-1,tvg-id="" tvg-name="SONY MAX" tvg-logo="https://i.ibb.co/q9Nwjh0/Picsart-23-06-07-12-58-14-641.png" group-title="SOHEL-HINDI-MOVIES", SONY MAX HD
-http://103.120.172.74:1150
-
-#EXTINF:-1,tvg-id="" tvg-name="SONY MAX 2" tvg-logo="https://i.ibb.co/pXNNWYD/Picsart-23-06-07-12-52-23-332.png" group-title="SOHEL-HINDI-MOVIES", SONY MAX 2
-https://bdtubelive.xyz/bdix.m3u8?id=max-2
-
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="http://i.ibb.co/n02XXG4/Picsart-23-06-07-18-25-44-626.png" group-title="SOHEL-HINDI-MOVIES", STAR GOLD HD
-http://45.127.56.3:9698/live/Corpus-POL/SRV4/1/STAR-GOLD-HD/video.m3u8
-
-#EXTINF:-1,tvg-logo="https://i.ibb.co/kJCTGhg/CC-20221111-203447.png"group-title="SOHEL-HINDI-MOVIES",STAR GOLD 2HD
-http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:61:4F:5D&stream=1112132&extension=ts
-
-#EXTINF:-1,tvg-id="" tvg-name="STAR GOLD SELECT" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2f/Star_Gold_Select_HD.svg/revision/latest/scale-to-width-down/250?cb=20211216003639" group-title="SOHEL-HINDI-MOVIES", STAR GOLD SELECT HD
-http://45.127.56.3:9698/live/Corpus-POL/SRV4/1/STAR-GOLD-SELECT-HD/video.m3u8
-
-#EXTINF:-1, "group-title="SOHEL-HINDI-MOVIES",STAR GOLD ROMANCE
-http://192.168.81.2/hlsHD/STARGOLDTHRILLS/devilBox.m3u8
-
-#EXTINF:-1,"group-title="SOHEL-HINDI-MOVIES",&XPOLER HD
-http://103.141.2.37:25461/web/web/570
-
-#EXTINF:-1,tvg-id="ts61" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-183-j5fsqz5c-v2/imageContent-183-j5fsqz5c-m2.png" group-title="SOHEL-HINDI-MOVIES", Colors Cineplex FHD
-http://tv.bdvision.live:8080/play/chXzkkaPaXkx2-3idfJ3VQKaI5g1GU75wzAiSS6HXhw/m3u8
-
-#EXTINF:-1,tvg-id="" tvg-name="B4U MOVIES" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1b/B4U_MOVIES_2014.png/revision/latest?cb=20150308151545" group-title="SOHEL-HINDI-MOVIES", B4U MOVIES
-http://192.168.81.2/hlsHD/B4UMovies/devilBox.m3u8
-
-#EXTINF:-1,tvg-id="" tvg-name="IN: B4U Kadak" tvg-link="" tvg-logo="http://ujm.from-in.com/panel/imageicon/27cf79e.png" group-title="SOHEL-HINDI-MOVIES",  B4U Kadak
-http://192.168.81.2/hlsHD/B4UKADAK/devilBox.m3u8
-
-#EXTINF:-1,tvg-id="" tvg-name="ZEE ACTION" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/83/Zee_Action_new.png/revision/latest?cb=20200113074207" group-title="SOHEL-HINDI-MOVIES", ZEE ACTION
-http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:61:4F:5D&stream=156139&extension=ts
-
-#EXTINF:-1,tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-66705-kuqnqhwg-v1/imageContent-66705-kuqnqhwg-m1.png"group-title="SOHEL-TAMIL",STAR MAA HD
-http://45.127.56.3:6699/live/Corpus-POL1/SRV5/3/STAR-MAA-HD/live.mpd
-
-#EXTINF:-1,tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/DHAMB4U_Thumbnail-v2/DHAMB4U_Thumbnail.png"group-title="SOHEL-HINDI-MOVIES",DHAMAKA MOVIES
-http://192.168.81.2/hlsHD/DhamakaMoviesB4U/devilBox.m3u8
-
-#EXTINF:-1 tvg-logo=""  group-title="SOHEL-HINDI-MOVIES",GOLDMINES BOLLYWOOD
-http://192.168.81.2/hlsHD/GoldminesBollywood/devilBox.m3u8
-
-#EXTINF:-1tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-53943-kblsqraw-v3/imageContent-53943-kblsqraw-m4.png",group-title="SOHEL-HINDI-MOVIES",GOLDMINES MOVIES
-http://192.168.81.2/hlsHD/GOLDMINESMOVIES/devilBox.m3u8
-
-#EXTINF:-1tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11263-j9j1tch4-v2/imageContent-11263-j9j1tch4-m5.png",group-title="SOHEL-HINDI-MOVIES",BFLIX MOVIES
-http://192.168.81.2/hlsHD/CineplexBollywood/devilBox.m3u8
-
-#EXTINF:-1 tvg-logo=""  group-title="SOHEL-HINDI-MOVIES",DHINCHAAK
-http://192.168.81.2/hlsHD/Dhinchaak2/devilBox.m3u8
-
-#EXTINF:-1,tvg-id="" tvg-name="SONY PIX HD" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-93-j5fjv614-v3/imageContent-93-j5fjv614-m3.png" group-title="SOHEL-HINDI-MOVIES", SONY PIX HD
-https://bdtubelive.xyz/bdix.m3u8?id=sony-pix-live
-
-#EXTINF:-1,tvg-id="" tvg-name="STAR MOVIES HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3b/Star_Movies_India.jpg" group-title="SOHEL-HINDI-MOVIES", STAR MOVIES HD
-http://45.127.56.3:9698/live/Corpus-POL/SRV4/1/STAR-MOVIES-HD/video.m3u8
-
-#EXTINF:-1,"group-title="SOHEL-HINDI-MOVIES",STAR MOVIES SELECT HD
-http://103.141.2.37:25461/web/web/575
-
-#EXTINF:-1,tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12095-j9ooixfs-v1/imageContent-12095-j9ooixfs-m1.png"group-title="SOHEL-HINDI-MOVIES",MOVIES NOW HD
-http://tv.bdvision.live:8080/play/chXzkkaPaXkx2-3idfJ3Ve7eHc9yNwEN0Ztc26bUNTg/m3u8
-
-#EXTINF:-1,tvg-id="" tvg-name="ZEE ANMOL CINEMA" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ae/Zee_Anmol_Cinema.png/revision/latest?cb=20210826143243" group-title="SOHEL-HINDI-MOVIES", ZEE ANMOL CINEMA
-https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeeanmolcinema/default/index.m3u8
-
-#EXTINF:-1,tvg-id="ts52" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-155-j5frd2uo-v1/imageContent-155-j5frd2uo-m1.png" group-title="SOHEL-ENTERTAINMENT ", Colors HD
-http://103.120.172.74:1070/
-
-#EXTINF:-1, tvg-id=" indianchannels@" tvg-name="Star Plus India HD" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-25307-jhrhflww-v1/imageContent-25307-jhrhflww-m1.png" group-title="SOHEL-ENTERTAINMENT",STAR PLUS FHD
-http://tv.bdvision.live:8080/play/chXzkkaPaXkx2-3idfJ3VZFW1IpCQJn-ZBPYz5ClcmA/m3u8
-
-#EXTINF:-1,tvg-id=" indianchannels@" tvg-name="Star Plus India HD" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-25307-jhrhflww-v1/imageContent-25307-jhrhflww-m1.png" group-title="SOHEL-ENTERTAINMENT",Star Plus HD
-http://192.168.81.2/hlsHD/StarPlusHD/devilBox.m3u8
-
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-6895-j6vqhqnc-v2/imageContent-6895-j6vqhqnc-m2.png" group-title="SOHEL-ENTERTAINMENT", STAR BHARAT HD
-http://watchindia.net:8880/live/dharm23/qVir1fHdBn/780.m3u8
-
-#EXTINF:-1,tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11807-j9kyzle8-v1/imageContent-11807-j9kyzle8-m1.png"group-title="SOHEL-ENTERTAINMENT",STAR PRAVAH HD
-http://103.120.172.74:1060
-
-#EXTINF:-1,tvg-id=" zeeindia@0-9-zeetvhd" tvg-name="Zee Tv India HD" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11073-j95e7nyo-v1/imageContent-11073-j95e7nyo-m1.png" group-title="SOHEL-ENTERTAINMENT",Zee Tv HD
-http://tv.bdvision.live:8080/play/chXzkkaPaXkx2-3idfJ3Ve_jdge1hvfQ9G3UMXo5jOQ/ts
-
-#EXTINF:-1,tvg-id="zeeindia@0-9-tvhd_0" tvg-name="& Tv India HD" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-117-j5fl7440-v1/imageContent-117-j5fl7440-m1.png" group-title="SOHEL-ENTERTAINMENT",& Tv HD
-http://tv.bdvision.live:8080/play/chXzkkaPaXkx2-3idfJ3VYZHbSG7qWt2Icq8i-H92Vg/ts
-
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-43-j5fca4k0-v3/imageContent-43-j5fca4k0-m4.png" group-title="SOHEL-ENTERTAINMENT", SONY HD
-https://bdtubelive.xyz/bdix.m3u8?id=sony-hd-live
-
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-43-j5fca4k0-v3/imageContent-43-j5fca4k0-m4.png" group-title="SOHEL-ENTERTAINMENT", SONY FHD
-http://tv.bdvision.live:8080/play/chXzkkaPaXkx2-3idfJ3Vf2yPBn3TVIXAKEcClOeakA/m3u8
-
-#EXTINF:-1,tvg-id="" tvg-name="SONY SAB" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-141-j5fpeji0-v3/imageContent-141-j5fpeji0-m3.png" group-title="SOHEL-ENTERTAINMENT", SONY SAB
-http://tv.bdvision.live:8080/play/chXzkkaPaXkx2-3idfJ3Ve_cfzMV03DYRn60wOCRfog/ts
-
-#EXTINF:-1,tvg-id="" tvg-name="IN: Discovery HD Hindi FHD" tvg-link="" tvg-logo="http://ujm.from-in.com/panel/imageicon/1ae366e.png" group-title="SOHEL-DOCUMENT" ,Discovery BANGLA
-http://tv.bdvision.live:8080/play/chXzkkaPaXkx2-3idfJ3VU_gg_gizpxojGvE4XCsF90/m3u8
-
-#EXTINF:-1,tvg-id="" tvg-name="Discovery" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11396-j9jq7jg0-v1/imageContent-11396-j9jq7jg0-m1.png" group-title="SOHEL-DOCUMENT", DISCOVERY HD
-http://192.168.81.2/hlsHD/DiscoveryChannelHD/devilBox.m3u8
-
-#EXTINF:-1,tvg-id="" tvg-name="IN: Nat Geo Hindi" tvg-link="" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12234-j9qoqc54-v1/imageContent-12234-j9qoqc54-m1.png" group-title="SOHEL-DOCUMENT",Nat Geo Hindi
-http://tv.bdvision.live:8080/play/chXzkkaPaXkx2-3idfJ3VeyTpBZsjRkEVePNCuwhf8Q/m3u8
-
-#EXTINF:-1,tvg-id="" tvg-name="IN: Nat Geo Wild Hindi" tvg-link="" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11631-j9k0ndjc-v1/imageContent-11631-j9k0ndjc-m1.png" group-title="SOHEL-DOCUMENT", Nat Geo Wild Hindi
-http://192.168.81.2/hlsHD/NATIONALGEOGRAPHICHD/devilBox.m3u8
-
-#EXTINF:-1,tvg-id="" tvg-name="IN: Nat Geo Wild Hindi" tvg-link="" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11631-j9k0ndjc-v1/imageContent-11631-j9k0ndjc-m1.png" group-title="SOHEL-DOCUMENT", Nat Geo Wild hd
-http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:61:4F:5D&stream=155989&extension=ts
-
-#EXTINF:-1,tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11779-j9kx7rk0-v3/imageContent-11779-j9kx7rk0-m4.png"group-title="SOHEL-DOCUMENT",SONY BBC ERTH HD
-https://bdtubelive.xyz/bdix.m3u8?id=bbc-earth-hd-live
-
-#EXTINF:-1,tvg-id="ts923" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-63764-kr1kzw28-v2/imageContent-63764-kr1kzw28-m2.png" group-title="SOHEL-DOCUMENT",TravelXP 4K HDR
-http://tv.bdvision.live:8080/play/chXzkkaPaXkx2-3idfJ3VfnoR2ch0oX5s_T_p6icEko/m3u8
-
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-44915-jzuyh3w0-v1/imageContent-44915-jzuyh3w0-m1.png" group-title="SOHEL-DOCUMENT", ANIMAL PLANET HD
-http://tv.bdvision.live:8080/play/chXzkkaPaXkx2-3idfJ3Vaj0n8QPcZakFFJ58sb9GTw/m3u8
-
-#EXTINF:-1,tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11858-j9l1v6k8-v3/imageContent-11858-j9l1v6k8-m4.png"group-title="SOHEL-DOCUMENT",TLC HD
-http://tv.bdvision.live:8080/play/chXzkkaPaXkx2-3idfJ3VYefpj67OaW62y7nmTC3pMs/m3u8
-
-#EXTINF:-1,tvg-id="ts138" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-465-j5jw9va0-v1/imageContent-465-j5jw9va0-m1.png" group-title="SOHEL-KIDS",Nick
-https://bdtubelive.xyz/bdix.m3u8?id=nickelodeon
-
-#EXTINF:-1,tvg-id="" tvg-name="SONIC HINDI" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2b/Nickelodeon_Sonic_logo.png" group-title="SOHEL-KIDS", SONIC HINDI
-https://bdtubelive.xyz/bdix.m3u8?id=sonic
-
-#EXTINF:-1,tvg-id="" tvg-name="KID: Sony YAY!" tvg-link="" tvg-logo="http://ujm.from-in.com/panel/imageicon/065352c.png" group-title="SOHEL-KIDS" ,Sony YAY!
-https://bdtubelive.xyz/bdix.m3u8?id=sony-yay-live
-
-#EXTINF:-1,tvg-id="" tvg-name="KID: Sony YAY!" tvg-link="" tvg-logo="http://ujm.from-in.com/panel/imageicon/065352c.png" group-title="SOHEL-KIDS" ,Sony YAY!HD
-http://tv.bdvision.live:8080/play/chXzkkaPaXkx2-3idfJ3VTPJmchl28MbpbTCV1-x1xo/m3u8
-
-#EXTINF:-1,tvg-id="ts681" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-34164-jok06xoo-v1/imageContent-34164-jok06xoo-m1.png" group-title="SOHEL-KIDS",Cartoon Network HD+
-https://bdtubelive.xyz/bdix.m3u8?id=nick-junior
-
-#EXTINF:-1,tvg-id="" tvg-name="KID: Cartoon Network UK FHD" tvg-link="" tvg-logo="http://ujm.from-in.com/imageicon/cartoonnetwork.jpg" group-title="SOHEL-KIDS" ,Cartoon Network
-http://192.168.81.2/hlsHD/CartoonNetwork/devilBox.m3u8
-
-#EXTINF:-1 tvg-logo=""  group-title="SOHEL-KIDS",Discovery Kids
-http://192.168.81.2/hlsHD/Nick/devilBox.m3u8
-
-#EXTINF:-1,"tvg-logo="https://images.toffeelive.com/images/program/27159/logo/240x240/mobile_logo_740957001679201029.png"group-title="SOHEL-KIDS",POGO
-http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:61:4F:5D&stream=156128&extension=ts
-
-#EXTINF:-1,tvg-id="" tvg-name="9XM" tvg-logo="https://i.ibb.co/Hr1Pprs/Picsart-23-06-07-12-07-02-565.png" group-title="SOHEL-MUSIC", 9XM
-https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/9XM-audio_208482_und=208000-video=562400.m3u8
-
-#EXTINF:-1,tvg-id="" tvg-name="9XM" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-468-j5jwdbi8-v1/imageContent-468-j5jwdbi8-m1.png" group-title="SOHEL-MUSIC", 9XM 2
-http://192.168.81.2/hlsHD/9XM/devilBox.m3u8
-
-#EXTINF:-1,"group-title="SOHEL-MUSIC",B4U MUSIC
-http://192.168.81.2/hlsHD/B4UMusic/devilBox.m3u8
-
-#EXTINF:-1,"group-title="SOHEL-MUSIC",SHOW-BOX MUSIC
-http://192.168.81.2/hlsHD/SHOWBOX/devilBox.m3u8
-
-#EXTINF:-1,tvg-id="ts236" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-1018-j5nhzme0-v1/imageContent-1018-j5nhzme0-m1.png" group-title="SOHEL-MUSIC", MTV BEATS
-http://192.168.81.2/hlsHD/MTVBeats/devilBox.m3u8
-
-#EXTINF:-1,"group-title="SOHEL-MUSIC",BDVISION MUSIC
-http://tv.bdvision.live:8080/play/chXzkkaPaXkx2-3idfJ3VYt6rT1bQ5hKe6uFALwrWWo/m3u8
-
-#EXTINF:-1,tvg-id="" tvg-name="IN: 9x Jalwa" tvg-link="" tvg-logo="http://ujm.from-in.com/panel/imageicon/923856a.png" group-title="SOHEL-MUSIC" , 9x Jalwa
-http://longstream-03.ajaah.com/PlayBoxTV/9XJalwa/playlist.m3u8
-
-#EXTINF:-1 tvg-id=""tvg-name="SANGEET BANGLA"tvg-logo="https://i.ibb.co/4JKq09m/Picsart-23-06-07-11-49-33-298.png"group-title="SOHEL-MUSIC",SANGEET BANGLA
-http://longstream-03.ajaah.com/PlayBoxTV/SangeetBangla/playlist.m3u8
-
-#EXTINF:-1,tvg-id="" tvg-name="MUSIC INDIA" tvg-logo="https://i.ibb.co/8B1Kz9C/Picsart-23-06-07-12-14-34-590.png" group-title="SOHEL-MUSIC", MUSIC INDIA
-https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Musicindia/default/index.m3u8
-
-#EXTINF:-1,tvg-id="" tvg-name="MASTIII" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-57-j5fdr2f4-v1/imageContent-57-j5fdr2f4-m1.png",group-title="SOHEL-MUSIC",MASTI MUSIC
-http://192.168.81.2/hlsHD/Masti/devilBox.m3u8
-
-#EXTINF:-1,tvg-id="" tvg-name="ZOOM" tvg-logo="https://i.ibb.co/dr16d02/Picsart-23-06-30-23-39-14-937.png" group-title="SOHEL-MUSIC", ZOOM
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/zoom/master.m3u8
-
-#EXTINF:-1,tvg-id="" tvg-name="ZOOM" tvg-logo="https://i.ibb.co/dr16d02/Picsart-23-06-30-23-39-14-937.png" group-title="SOHEL-MUSIC", ZOOM HD
-http://tv.bdvision.live:8080/play/chXzkkaPaXkx2-3idfJ3VSnTMI1qQ__DbqNcC5TQh64/m3u8
-
-#EXTINF:-1,tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-946-j5mip6a0-v1/imageContent-946-j5mip6a0-m1.png"group-title="SOHEL-MUSIC",E24 MUSIC
-http://longstream-04.ajaah.com/PlayBoxTV/E24/playlist.m3u8
-
-#EXTINF:-1,tvg-id="BrazzersTVAdult" tvg-name="Zing Music UK" tvg-logo="http://go.justflix.tv/images/india/Zing.png" group-title="SOHEL-MUSIC",Zing Music
-https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zing/default/index.m3u8
-
-#EXTINF:-1,tvg-id="78" tvg-name="Star JUSTFLIX 1 India HD" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-8301-j7hc0820-v1/imageContent-8301-j7hc0820-m1.png" group-title="SOHEL-SPORTS",STAR SPORTS 1HD
-http://192.168.81.2/hlsHD/StarSports1HD/devilBox.m3u8
-
-#EXTINF:-1,tvg-id="" tvg-name="Star JUSTFLIX 2 India HD" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-1021-j5nj3c68-v1/imageContent-1021-j5nj3c68-m1.png" group-title="SOHEL-SPORTS",STAR SPORTS 2HD
-http://192.168.81.2/hlsHD/StarSports2HD/devilBox.m3u8
-
-#EXTINF:-1,tvg-id="" tvg-name="STAR SPORTS 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b5/Star_Sports_Network.png" group-title="SOHEL-SPORTS", STAR SPORTS 3 HD
-http://tv.bdvision.live:8080/play/chXzkkaPaXkx2-3idfJ3VXBmsFXJhsrDDKLUju-sqXc/ts
-
-#EXTINF:-1,tvg-id="" tvg-name="Star Sport Select 1 India HD" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-7891-j75vq7k0-v1/imageContent-7891-j75vq7k0-m1.PNG"group-title="SOHEL-SPORTS",Star Sport Select 1 HD
-http://192.168.81.2/hlsHD/StarSportsSelect1HD/devilBox.m3u8
-
-#EXTINF:-1,tvg-id="" tvg-name="Star Sport Select 2 India HD" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11791-j9kyqpy8-v1/imageContent-11791-j9kyqpy8-m1.png" group-title="SOHEL-SPORTS",Star Sport Select 2 HD
-http://192.168.81.2/hlsHD/StarSportsSelect2HD/devilBox.m3u8
-
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="http://i.ibb.co/nwLphg7/Picsart-23-06-07-12-47-37-348.png" group-title="SOHEL-SPORTS", SONY SPORTS 1 FHD
-https://bdtubelive.xyz/bdix.m3u8?id=sony-ten-1-live
-
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="http://i.ibb.co/nwLphg7/Picsart-23-06-07-12-47-37-348.png" group-title="SOHEL-SPORTS", SONY SPORTS 1 HD
-http://103.120.172.74:4800
-
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="http://i.ibb.co/ZcksfGS/Picsart-23-06-07-12-47-16-858.png" group-title="SOHEL-SPORTS",SONY SPORTS 2HD
-http://tv.bdvision.live:8080/play/chXzkkaPaXkx2-3idfJ3VXS6HzqS3vR6ZoUapmz8PEY/m3u8
-
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11787-j9kynnm0-v3/imageContent-11787-j9kynnm0-m3.png" group-title="SOHEL-SPORTS", SONY SPORTS 3 HD
-http://tv.bdvision.live:8080/play/chXzkkaPaXkx2-3idfJ3Vfs0SGCFVNsy_IOWX9XV7SE/m3u8
-
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-108-j5fl5wwg-v3/imageContent-108-j5fl5wwg-m3.png" group-title="SOHEL-SPORTS", SONY SPORTS 5HD
-http://103.2.153.38/trans1sd/smil:tensports5.smil/chunklist.m3u8
-
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-261-j5fz9bvk-v4/imageContent-261-j5fz9bvk-m4.png"group-title="SOHEL-SPORTS", SONY SPORTS 1 SD
-http://103.2.153.38/trans1sd/smil:tensports1.smil/chunklist.m3u8
-
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11784-j9kylfd4-v2/imageContent-11784-j9kylfd4-m3.png"group-title="SOHEL-SPORTS", SONY SPORTS 2SD
-http://103.2.153.38/trans1sd/smil:tensports2.smil/chunklist.m3u8
-
-#EXTINF:-1,tvg-id="" tvg-name="T SPORTS HD" tvg-logo="https://i.ibb.co/2v2G8R2/Picsart-23-06-14-13-38-02-379.png" group-title="SOHEL-SPORTS", T SPORTS HD
-http://113.212.111.246:8080/hls/col12.m3u8
-
-#EXTINF:-1,tvg-id="" tvg-name="T SPORTS HD" tvg-logo="https://i.ibb.co/2v2G8R2/Picsart-23-06-14-13-38-02-379.png" group-title="SOHEL-SPORTS", T SPORTS HD
-http://tv.bdvision.live:8080/play/chXzkkaPaXkx2-3idfJ3VWVh7lrd8FaUrUEJZ2WPErQ/m3u8
-
-#EXTINF:-1,tvg-logo="https://iili.io/JJYPOuf.md.png" group-title="SOHEL-SPORTS", Sports 18 Khel
-http://192.168.81.2/hlsHD/Sports18Khel/devilBox.m3u8
-
-#EXTINF:-1,tvg-id="ts1033" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-74232-la6z41u8-v3/imageContent-74232-la6z41u8-m5.png" group-title="SOHEL-SPORTS", SPORTS 18HD
-http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:61:4F:5D&stream=1057243&extension=ts
-
-#EXTINF:-1,tvg-id="" tvg-name="SP: A SPORTS FHD" tvg-link="" tvg-logo="http://tv.cloudcdn.me/images/de06576.png" group-title="SOHEL-SPORTS",A SPORTS HD
-http://tv.bdvision.live:8080/play/chXzkkaPaXkx2-3idfJ3VcKxUXh-WxhXqX85MVKhkcI/m3u8
-
-#EXTINF:-1,tvg-id="" tvg-name="SP: PTV Sports FHD" tvg-link="" tvg-logo="http://ujm.from-in.com/panel/imageicon/2c9c5c5.png" group-title="SOHEL-SPORTS" ,PTV Sports HD
-http://192.168.81.2/hlsHD/PTVSportsHD/devilBox.m3u8
-
-#EXTINF:-1,"group-title="SOHEL-SPORTS",TNT SPORTS 1HD
-https://247c.mrgamingstreams.com/mrgamingbtsport1.m3u8
-
-#EXTINF:-1,"group-title="SOHEL-SPORTS",TNT SPORTS 2HD
-https://247c.mrgamingstreams.com/mrgamingbtsport2.m3u8
-
-#EXTINF:-1,"group-title="SOHEL-SPORTS",TNT SPORTS 3HD
-https://247c.mrgamingstreams.com/mrgamingbtsport3.m3u8
-
-#EXTINF:-1,"group-title="SOHEL-SPORTS",TNT SPORTS 4HD
-https://247c.mrgamingstreams.com/mrgamingbtsport4.m3u8
-
-#EXTINF:-1,tvg-id="skysportscricket.uk" tvg-name="SP: SKY Sports Cricket FHD" tvg-link="http://iptvtree.net:8080/xmltv.php?username=umerzia660&password=bde56e335d&type=m3u&output=m3u" tvg-logo="http://ujm.from-in.com/imageicon/skysportscricket.png" group-title="SOHEL-SPORTS",SKY Sports Cricket HD
-https://247c.mrgamingstreams.com/mrgamingcricket.m3u8
-
-#EXTINF:-1,"tvg-logo="https://images.toffeelive.com/images/program/4388/logo/240x240/mobile_logo_422191001674119624.png"group-title="SOHEL-SPORTS",FAST SPORTS HD
-http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:61:4F:5D&stream=156027&extension=ts
-
-#EXTINF:-1,"group-title="SOHEL-SPORTS", TYC SPORTS HD
-https://247b.mrgamingstreams.com/mrgamingtyc.m3u8
-
-#EXTINF:-1,"group-title="SOHEL-SPORTS",DUBAI SPORTS 1HD
-http://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
-
-#EXTINF:-1,"group-title="SOHEL-SPORTS",DUBAI SPORTS 2HD
-http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8
-
-#EXTINF:-1,"group-title="SOHEL-SPORTS",DUBAI SPORTS 3HD
-http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/index.m3u8
-
-#EXTINF:-1,"group-title="SOHEL-SPORTS",DD SPORTS HD
-http://192.168.81.2/hlsHD/DDSPORTSHD/devilBox.m3u8
-
-#EXTINF:-1,tvg-id="" tvg-name="WILLOW HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQu-zt4VBIOrE4dWL932Qp3oer2NepKmBIdRA&usqp=CAU" group-title="SOHEL-SPORTS",Willow Cricket HD
-https://247b.mrgamingstreams.com/mrgamingwillow.m3u8
-
-#EXTINF:-1,tvg-id="" tvg-name="SP: PREMIER SPORTS 1 FHD" tvg-link="" tvg-logo="http://tv.cloudcdn.me/images/premiersports1.png" group-title="SOHEL-SPORTS" ,PREMIER SPORTS HD
-https://hls.streambtw.com/live/stream_1.m3u8
-
-#EXTINF:-1,tvg-id="78" tvg-name="Star JUSTFLIX 1 India HD" tvg-logo="http://go.justflix.tv/images/india/starsp1.png" group-title="SOHEL-SPORTS",STAR SPORTS 1
-http://103.2.153.38/trans1sd/smil:starsports1.smil/chunklist.m3u8
-
-#EXTINF:-1,tvg-id="" tvg-name="Star JUSTFLIX 2 India HD" tvg-logo="http://go.justflix.tv/images/india/starsp2.png" group-title="SOHEL-SPORTS",STAR SPORTS 2
-https://edge3-moblive.yuppcdn.net/trans1sd/smil:starsports2.smil/chunklist.m3u8
-
-#EXTINF:-1,tvg-id="78" tvg-name="Star JUSTFLIX 1 India HD"tvg-logo="https://watchindia.net/images/channels/sports/Star_Sports_1_HD.png" group-title="SOHEL-SPORTS",STAR SPORTS 1HD
-http://tv.bdvision.live:8080/play/chXzkkaPaXkx2-3idfJ3VelhIcn8wWAh6qS4A5OECfo/m3u8
-
-#EXTINF:-1,tvg-id="" tvg-name="Star JUSTFLIX 2 India HD"tvg-logo="https://watchindia.net/images/channels/sports/Star_Sports_2_HD.png" group-title="SOHEL-SPORTS",STAR SPORTS 2HD
-http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:61:4F:5D&stream=282673&extension=ts
-
-#EXTINF:-1,tvg-id="" tvg-name="Star Sport Select 1 India HD"tvg-logo="https://watchindia.net/images/channels/sports/Star_Sports_Select_1_HD.png" group-title="SOHEL-SPORTS",STAR SPORTS SELECT  1HD
-http://tv.bdvision.live:8080/play/chXzkkaPaXkx2-3idfJ3VTCFPXMI6T0R-VSL60RM6-Y/m3u8
-
-#EXTINF:-1,tvg-id="tvg-name="Star Sport Select 2 India"tvg-logo="https://watchindia.net/images/channels/sports/Star_Sports_Select_2_HD.png" group-title="SOHEL-SPORTS",Star Sport Select 2 HD
-http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:61:4F:5D&stream=1114584&extension=ts
-
-#EXTINF:-1,tvg-id="78" tvg-name="Star JUSTFLIX 1 India HD" tvg-logo="http://go.justflix.tv/images/india/starsp1.png" group-title="SOHEL-SPORTS",STAR SPORTS HINDI
-http://tv.bdvision.live:8080/play/chXzkkaPaXkx2-3idfJ3VQK9Q09u_dIWq7JRUpbaZ6I/m3u8
-
-#EXTINF:-1,tvg-id="" tvg-name="SP: Astro Cricket" tvg-link="" tvg-logo="http://tv.cloudcdn.me/images/31821ce.png" group-title="SOHEL-SPORTS",Astro Cricket
-http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:61:4F:5D&stream=315181&extension=ts
-
-#EXTINF:-1,"tvg-logo="https://images.toffeelive.com/images/program/692/logo/240x240/mobile_logo_317599001655891632.png",group-title="SOHEL-BDIX",ANANDA BDIX
-http://cdn01.palki.tv/live/AnandaTV-M/index.m3u8
-
-#EXTINF:-1,"tvg-logo="https://images.toffeelive.com/images/program/38/logo/240x240/mobile_logo_483871001656610198.png",group-title="SOHEL-BDIX",ATN BANGLA BDIX
-http://cdn01.palki.tv/live/ATNBangla-M/index.m3u8
-
-#EXTINF:-1,"tvg-logo="https://images.toffeelive.com/images/program/42/logo/240x240/mobile_logo_554709001657185722.png",group-title="SOHEL-BDIX",ATN NEWS BDIX
-http://cdn01.palki.tv/live/ATNNews-M/index.m3u8
-
-#EXTINF:-1,"tvg-logo="https://images.toffeelive.com/images/program/337/logo/240x240/mobile_logo_519481001656610377.png",group-title="SOHEL-BDIX",BANGLA-VISION BDIX
-http://cdn01.palki.tv/live/BanglaVision-M/index.m3u8
-
-#EXTINF:-1,"tvg-logo="https://images.toffeelive.com/images/program/374/logo/240x240/mobile_logo_179345001655891258.png",group-title="SOHEL-BDIX",BIJOY TV BDIX
-http://cdn01.palki.tv/live/BijoyTV-M/index.m3u8
-
-#EXTINF:-1,"tvg-logo="https://images.toffeelive.com/images/program/418/logo/240x240/mobile_logo_799556001673182578.png",group-title="SOHEL-BDIX",BTV CHATTOGRAM
-http://cdn01.palki.tv/live/BTVChattogram-M/index.m3u8
-
-#EXTINF:-1,"tvg-logo="https://images.toffeelive.com/images/program/9/logo/240x240/mobile_logo_363996001656610763.png",group-title="SOHEL-BDIX",CHANNEL 9 BDIX
-http://cdn01.palki.tv/live/Channel9-M/index.m3u8
-
-#EXTINF:-1,"tvg-logo""https://images.toffeelive.com/images/program/3/logo/240x240/mobile_logo_694865001655890816.png",group-title="SOHEL-BDIX",CHANNEL I BDIX
-http://cdn01.palki.tv/live/Channeli-M/index.m3u8
-
-
-#EXTINF:-1,"tvg-logo="https://images.toffeelive.com/images/program/53/logo/240x240/mobile_logo_107276001655890949.png",group-title="SOHEL-BDIX",EKATTOR TV BDIX
-http://cdn01.palki.tv/live/EkattorTV-M/index.m3u8
-
-#EXTINF:-1,"tvg-logo="https://images.toffeelive.com/images/program/334/logo/240x240/mobile_logo_355998001673183662.png",group-title="SOHEL-BDIX",EKUSHEY TV BDIX
-http://cdn01.palki.tv/live/EkusheyTV-M/index.m3u8
-
-#EXTINF:-1,"tvg-id=""tvg-name="GAAN -BANGLA" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/23/Gaan_Bangla_Logo.png" group-title="SOHEL-BDIX", GAAN BANGLA TV
-http://cdn01.palki.tv/live/GaanBangla-M/index.m3u8
-
-#EXTINF:-1,"tvg-logo="https://images.toffeelive.com/images/program/11841/logo/240x240/mobile_logo_456366001662385216.png",group-title="SOHEL-BDIX",GLOBAL TV BDIX
-http://cdn01.palki.tv/live/GlobalTV-M/index.m3u8
-
-#EXTINF:-1,"tvg-logo="https://images.toffeelive.com/images/program/40/logo/240x240/mobile_logo_819689001655890845.png",group-title="SOHEL-BDIX",INDEPENDENT BDIX
-http://cdn01.palki.tv/live/Independent-M/index.m3u8
-
-#EXTINF:-1,"tvg-logo="https://images.toffeelive.com/images/program/368/logo/240x240/mobile_logo_784215001656610543.png",group-title="SOHEL-BDIX",MOHONA TV BDIX
-http://cdn01.palki.tv/live/MohonaTV-M/index.m3u8
-
-#EXTINF:-1,"tvg-logo="https://images.toffeelive.com/images/program/233/logo/240x240/mobile_logo_146142001655891039.png",group-title="SOHEL-BDIX",NEWS 24 BDIX
-http://cdn01.palki.tv/live/News24-M/index.m3u8
-
-#EXTINF:-1,"tvg-logo="https://images.toffeelive.com/images/program/10908/logo/240x240/mobile_logo_027712001655892101.png",group-title="SOHEL-BDIX",NEXUS BDIX
-http://cdn01.palki.tv/live/NexusTV-M/index.m3u8
-
-#EXTINF:-1,"tvg-logo="https://images.toffeelive.com/images/program/41/logo/240x240/mobile_logo_811238001673183089.png",group-title="SOHEL-BDIX",NTV BDIX
-http://cdn01.palki.tv/live/NTV-M/index.m3u8
-
-#EXTINF:-1,"group-title="SOHEL-BDIX",সংগীত বাংলা 
-https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Sangeetbangla/default/sangeetbangla/index.m3u8
-
-#EXTINF:-1,"tvg-logo="https://images.toffeelive.com/images/program/64/logo/240x240/mobile_logo_760805001655890979.png",group-title="SOHEL-BDIX",SANGSAD TV BDIX
-http://cdn01.palki.tv/live/SangsadTV-M/index.m3u8
-
-#EXTINF:-1,group-title="SOHEL-BDIX"tvg-logo="https://i.postimg.cc/x1NThgr4/Shobuy-Prime-HD .jpg", Shobuy Prime HD
-http://tv.bdvision.live:8080/play/chXzkkaPaXkx2-3idfJ3VXYqStGpAA0jMVpGzs3sWf0/m3u8
-
-#EXTINF:-1,tvg-id=""tvg-name="SOMOY TV" tvg-logo="https://i.ibb.co/TW3yQD9/Picsart-23-06-07-11-27-32-538.png" group-title="SOHEL-BDIX", SOMOY TV
-http://cdn01.palki.tv/live/SomoyTV-M/index.m3u8
-
-#EXTINF:-1,tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-59401-kjudpa1c-v2/imageContent-59401-kjudpa1c-m3.png" group-title="SOHEL-BDIX",TV9 Bangla
-https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9banaen8yq/liveabr/playlist.m3u8
-
+#EXTINF:-1,tvg-logo=""group-title="sohel=kolkata",sun bangla cinema
+https://live.sunbanglacinema.in/sunbanglacinema/index.m3u8
