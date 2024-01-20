@@ -342,3 +342,92 @@ http://tv.bdvision.live:8080/play/Fv9Q7rUIs_2IjMLCvGCDNjpv2GMR2tscEjMJLVcxGGQ/m3
 
 #EXTINF:-1,tvg-logo=""group-title="sohel=music",bangla music
 http://tv.bdvision.live:8080/play/Fv9Q7rUIs_2IjMLCvGCDNo14TWaqXYUa6E8zcrOE8A0/m3u8
+
+#EXTINF:-1,tvg-logo=""group-title="sohel=sports",star sports1
+http://103.2.153.38/trans1sd/smil:starsports1.smil/chunklist.m3u8
+
+#EXTINF:-1,tvg-logo=""group-title="sohel=sports",star sports 1hd
+http://192.168.81.2/hlsHD/StarSports1HD/devilBox.m3u8
+
+#EXTINF:-1,tvg-logo=""group-title="sohel=sports",star sports 2
+http://103.2.153.38/trans1sd/smil:starsports2.smil/chunklist.m3u8
+
+#EXTINF:-1,tvg-logo=""group-title="sohel=sports",star sports 2hd
+http://192.168.81.2/hlsHD/StarSports2HD/devilBox.m3u8
+
+#EXTINF:-1,tvg-logo=""group-title="sohel=sports",star sports 3
+http://tv.bdvision.live:8080/play/Fv9Q7rUIs_2IjMLCvGCDNvlP1jYR-QfSzpZimPTc1ks/m3u8
+
+#EXTINF:-1,tvg-logo=""group-title="sohel=sports",star sport select 1
+http://103.109.56.116/live/skyfeed1004/index.m3u8
+
+#EXTINF:-1,tvg-logo=""group-title="sohel=sports",star sports select 1hd
+http://192.168.81.2/hlsHD/StarSportsSelect1HD/devilBox.m3u8
+
+#EXTINF:-1,tvg-logo=""group-title="sohel=sports",star sports select 2
+http://192.168.81.2/hlsHD/StarSportsSelect2HD/devilBox.m3u8
+
+
+#EXTINF:-1,tvg-logo=""group-title="sohel=sports",star sports 1bdix
+http://103.109.56.116/live/skyfeed1002/index.m3u8
+
+
+#EXTINF:-1,tvg-logo=""group-title="sohel=sports",star sports 2bdix
+http://103.109.56.116/live/skyfeed1003/index.m3u8
+
+
+#EXTINF:-1,tvg-logo=""group-title="sohel=sports",sony sports 1bdix
+http://103.109.56.116/live/skyfeed1007/index.m3u8
+
+#EXTINF:-1,tvg-logo=""group-title="sohel=sports",sony sports 2bdix
+http://103.109.56.116/live/skyfeed1008/index.m3u8
+
+#EXTINF:-1,tvg-logo=""group-title="sohel=sports",sony sports 1
+http://103.2.153.38/trans1sd/smil:tensports1.smil/chunklist.m3u8
+
+#EXTINF:-1,tvg-logo=""group-title="sohel=sports",sony sports 2
+http://103.2.153.38/trans1sd/smil:tensports2.smil/chunklist.m3u8
+
+#EXTINF:-1,tvg-logo=""group-title="sohel=sports",sony sports 5
+http://103.2.153.38/trans1sd/smil:tensports5.smil/chunklist.m3u8
+
+#EXTINF:-1,tvg-logo=""group-title="sohel=sports",sony sports 3hd
+http://tv.bdvision.live:8080/play/Fv9Q7rUIs_2IjMLCvGCDNqa3TjIkJ9tXHqW3dCd5JeQ/m3u8
+
+#EXTINF:-1,tvg-logo=""group-title="sohel=sports",star sports hindi
+http://tv.bdvision.live:8080/play/Fv9Q7rUIs_2IjMLCvGCDNkvSyM0REZTVH8gsO0aQAfY/m3u8
+
+#EXTINF:-1,tvg-logo=""group-title="sohel=sports",t-sport
+http://113.212.111.246:8080/hls/col12.m3u8
+
+#EXTINF:-1,tvg-logo=""group-title="sohel=sports",t-sports hd
+http://tv.bdvision.live:8080/play/Fv9Q7rUIs_2IjMLCvGCDNvw4cs2H4wblVU8VVeIpYs8/m3u8
+
+#EXTINF:-1,tvg-logo=""group-title="sohel=sports",t-sports bdix
+http://103.109.56.116/live/skyfeed1005/index.m3u8
+
+#EXTINF:-1,tvg-logo=""group-title="sohel=sports",bpl hd
+http://103.109.56.116/live/skyfeed1006/index.m3u8
+
+#EXTINF:-1,tvg-logo=""group-title="sohel=sports",ilt t20
+http://38.96.178.201/live/ZEETV/index.m3u8
+
+#EXTINF:-1,tvg-logo=""group-title="sohel=sports",sports 18khel
+http://192.168.81.2/hlsHD/Sports18Khel/devilBox.m3u8
+
+#EXTINF:-1,tvg-logo=""group-title="sohel=sports",dd sports hd
+http://192.168.81.2/hlsHD/DDSPORTSHD/devilBox.m3u8
+
+#EXTINF:-1,tvg-logo=""group-title="sohel=sports",ptv sports
+http://192.168.81.2/hlsHD/sasaSA/devilBox.m3u8
+
+#EXTINF:-1,tvg-logo=""group-title="sohel=sports",premier sports hd
+https://hls.streambtw.com/live/stream_1.m3u8
+
+#EXTINF:-1,tvg-logo=""group-title="sohel=sports",
+
+
+#EXTINF:-1,tvg-logo=""group-title="sohel=sports",
+
+
+#EXTINF:-1,tvg-logo=""group-title="sohel=sports",
