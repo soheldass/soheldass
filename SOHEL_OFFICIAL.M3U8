@@ -448,69 +448,66 @@ https://freehdgames.lol/chunklist/hlsch20.m3u8
 #EXTINF:-1,tvg-logo=""group-title="sohel=sports",bein sports 2
 https://freehdgames.lol/chunklist/hlsch21.m3u8
 
-#EXTINF:-1,"tvg-logo="https://images.toffeelive.com/images/program/692/logo/240x240/mobile_logo_317599001655891632.png",group-title="SOHEL-BDIX",ANANDA BDIX
+#EXTINF:-1,"tvg-logo="https://images.toffeelive.com/images/program/692/logo/240x240/mobile_logo_317599001655891632.png",group-title="sohel=bdix",ANANDA BDIX
 http://cdn01.palki.tv/live/AnandaTV-M/index.m3u8
 
-#EXTINF:-1,"tvg-logo="https://images.toffeelive.com/images/program/38/logo/240x240/mobile_logo_483871001656610198.png",group-title="SOHEL-BDIX",ATN BANGLA BDIX
+#EXTINF:-1,"tvg-logo="https://images.toffeelive.com/images/program/38/logo/240x240/mobile_logo_483871001656610198.png",group-title="sohel=bdix",ATN BANGLA BDIX
 http://cdn01.palki.tv/live/ATNBangla-M/index.m3u8
 
-#EXTINF:-1,"tvg-logo="https://images.toffeelive.com/images/program/42/logo/240x240/mobile_logo_554709001657185722.png",group-title="SOHEL-BDIX",ATN NEWS BDIX
+#EXTINF:-1,"tvg-logo="https://images.toffeelive.com/images/program/42/logo/240x240/mobile_logo_554709001657185722.png",group-title="sohel=bdix",ATN NEWS BDIX
 http://cdn01.palki.tv/live/ATNNews-M/index.m3u8
 
-#EXTINF:-1,"tvg-logo="https://images.toffeelive.com/images/program/337/logo/240x240/mobile_logo_519481001656610377.png",group-title="SOHEL-BDIX",BANGLA-VISION BDIX
+#EXTINF:-1,"tvg-logo="https://images.toffeelive.com/images/program/337/logo/240x240/mobile_logo_519481001656610377.png",group-title="sohel=bdix",BANGLA-VISION BDIX
 http://cdn01.palki.tv/live/BanglaVision-M/index.m3u8
 
-#EXTINF:-1,"tvg-logo="https://images.toffeelive.com/images/program/374/logo/240x240/mobile_logo_179345001655891258.png",group-title="SOHEL-BDIX",BIJOY TV BDIX
+#EXTINF:-1,"tvg-logo="https://images.toffeelive.com/images/program/374/logo/240x240/mobile_logo_179345001655891258.png",group-title="sohel=bdix",BIJOY TV BDIX
 http://cdn01.palki.tv/live/BijoyTV-M/index.m3u8
 
-#EXTINF:-1,"tvg-logo="https://images.toffeelive.com/images/program/418/logo/240x240/mobile_logo_799556001673182578.png",group-title="SOHEL-BDIX",BTV CHATTOGRAM
+#EXTINF:-1,"tvg-logo="https://images.toffeelive.com/images/program/418/logo/240x240/mobile_logo_799556001673182578.png",group-title="sohel=bdix",BTV CHATTOGRAM
 http://cdn01.palki.tv/live/BTVChattogram-M/index.m3u8
 
-#EXTINF:-1,"tvg-logo="https://images.toffeelive.com/images/program/9/logo/240x240/mobile_logo_363996001656610763.png",group-title="SOHEL-BDIX",CHANNEL 9 BDIX
+#EXTINF:-1,"tvg-logo="https://images.toffeelive.com/images/program/9/logo/240x240/mobile_logo_363996001656610763.png",group-title="sohel=bdix",CHANNEL 9 BDIX
 http://cdn01.palki.tv/live/Channel9-M/index.m3u8
 
-#EXTINF:-1,"tvg-logo""https://images.toffeelive.com/images/program/3/logo/240x240/mobile_logo_694865001655890816.png",group-title="SOHEL-BDIX",CHANNEL I BDIX
+#EXTINF:-1,"tvg-logo""https://images.toffeelive.com/images/program/3/logo/240x240/mobile_logo_694865001655890816.png",group-title="sohel=bdix",CHANNEL I BDIX
 http://cdn01.palki.tv/live/Channeli-M/index.m3u8
 
 
-#EXTINF:-1,"tvg-logo="https://images.toffeelive.com/images/program/53/logo/240x240/mobile_logo_107276001655890949.png",group-title="SOHEL-BDIX",EKATTOR TV BDIX
+#EXTINF:-1,"tvg-logo="https://images.toffeelive.com/images/program/53/logo/240x240/mobile_logo_107276001655890949.png",group-title="sohel=bdix",EKATTOR TV BDIX
 http://cdn01.palki.tv/live/EkattorTV-M/index.m3u8
 
-#EXTINF:-1,"tvg-logo="https://images.toffeelive.com/images/program/334/logo/240x240/mobile_logo_355998001673183662.png",group-title="SOHEL-BDIX",EKUSHEY TV BDIX
+#EXTINF:-1,"tvg-logo="https://images.toffeelive.com/images/program/334/logo/240x240/mobile_logo_355998001673183662.png",group-title="sohel=bdix",EKUSHEY TV BDIX
 http://cdn01.palki.tv/live/EkusheyTV-M/index.m3u8
 
-#EXTINF:-1,"tvg-id=""tvg-name="GAAN -BANGLA" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/23/Gaan_Bangla_Logo.png" group-title="SOHEL-BDIX", GAAN BANGLA TV
+#EXTINF:-1,"tvg-id=""tvg-name="GAAN -BANGLA" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/23/Gaan_Bangla_Logo.png" group-title="sohel=bdix", GAAN BANGLA TV
 http://cdn01.palki.tv/live/GaanBangla-M/index.m3u8
 
-#EXTINF:-1,"tvg-logo="https://images.toffeelive.com/images/program/11841/logo/240x240/mobile_logo_456366001662385216.png",group-title="SOHEL-BDIX",GLOBAL TV BDIX
+#EXTINF:-1,"tvg-logo="https://images.toffeelive.com/images/program/11841/logo/240x240/mobile_logo_456366001662385216.png",group-title="sohel=bdix",GLOBAL TV BDIX
 http://cdn01.palki.tv/live/GlobalTV-M/index.m3u8
 
-#EXTINF:-1,"tvg-logo="https://images.toffeelive.com/images/program/40/logo/240x240/mobile_logo_819689001655890845.png",group-title="SOHEL-BDIX",INDEPENDENT BDIX
+#EXTINF:-1,"tvg-logo="https://images.toffeelive.com/images/program/40/logo/240x240/mobile_logo_819689001655890845.png",group-title="sohel=bdix",INDEPENDENT BDIX
 http://cdn01.palki.tv/live/Independent-M/index.m3u8
 
-#EXTINF:-1,"tvg-logo="https://images.toffeelive.com/images/program/368/logo/240x240/mobile_logo_784215001656610543.png",group-title="SOHEL-BDIX",MOHONA TV BDIX
+#EXTINF:-1,"tvg-logo="https://images.toffeelive.com/images/program/368/logo/240x240/mobile_logo_784215001656610543.png",group-title="sohel=bdix",MOHONA TV BDIX
 http://cdn01.palki.tv/live/MohonaTV-M/index.m3u8
 
-#EXTINF:-1,"tvg-logo="https://images.toffeelive.com/images/program/233/logo/240x240/mobile_logo_146142001655891039.png",group-title="SOHEL-BDIX",NEWS 24 BDIX
+#EXTINF:-1,"tvg-logo="https://images.toffeelive.com/images/program/233/logo/240x240/mobile_logo_146142001655891039.png",group-title="sohel=bdix",NEWS 24 BDIX
 http://cdn01.palki.tv/live/News24-M/index.m3u8
 
-#EXTINF:-1,"tvg-logo="https://images.toffeelive.com/images/program/10908/logo/240x240/mobile_logo_027712001655892101.png",group-title="SOHEL-BDIX",NEXUS BDIX
+#EXTINF:-1,"tvg-logo="https://images.toffeelive.com/images/program/10908/logo/240x240/mobile_logo_027712001655892101.png",group-title="sohel=bdix",NEXUS BDIX
 http://cdn01.palki.tv/live/NexusTV-M/index.m3u8
 
-#EXTINF:-1,"tvg-logo="https://images.toffeelive.com/images/program/41/logo/240x240/mobile_logo_811238001673183089.png",group-title="SOHEL-BDIX",NTV BDIX
+#EXTINF:-1,"tvg-logo="https://images.toffeelive.com/images/program/41/logo/240x240/mobile_logo_811238001673183089.png",group-title="sohel=bdix",NTV BDIX
 http://cdn01.palki.tv/live/NTV-M/index.m3u8
 
-#EXTINF:-1,"group-title="SOHEL-BDIX",সংগীত বাংলা 
-https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Sangeetbangla/default/sangeetbangla/index.m3u8
-
-#EXTINF:-1,"tvg-logo="https://images.toffeelive.com/images/program/64/logo/240x240/mobile_logo_760805001655890979.png",group-title="SOHEL-BDIX",SANGSAD TV BDIX
+#EXTINF:-1,"tvg-logo="https://images.toffeelive.com/images/program/64/logo/240x240/mobile_logo_760805001655890979.png",group-title="sohel=bdix",SANGSAD TV BDIX
 http://cdn01.palki.tv/live/SangsadTV-M/index.m3u8
 
-#EXTINF:-1,group-title="SOHEL-BDIX"tvg-logo="https://i.postimg.cc/x1NThgr4/Shobuy-Prime-HD .jpg", Shobuy Prime HD
+#EXTINF:-1,group-title="sohel=bdix"tvg-logo="https://i.postimg.cc/x1NThgr4/Shobuy-Prime-HD .jpg",Shobuy Prime HD
 http://tv.bdvision.live:8080/play/chXzkkaPaXkx2-3idfJ3VXYqStGpAA0jMVpGzs3sWf0/m3u8
 
-#EXTINF:-1,tvg-id=""tvg-name="SOMOY TV" tvg-logo="https://i.ibb.co/TW3yQD9/Picsart-23-06-07-11-27-32-538.png" group-title="SOHEL-BDIX", SOMOY TV
+#EXTINF:-1,tvg-id=""tvg-name="SOMOY TV" tvg-logo="https://i.ibb.co/TW3yQD9/Picsart-23-06-07-11-27-32-538.png"group-title="sohel=bdix", SOMOY TV
 http://cdn01.palki.tv/live/SomoyTV-M/index.m3u8
 
-#EXTINF:-1,tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-59401-kjudpa1c-v2/imageContent-59401-kjudpa1c-m3.png" group-title="SOHEL-BDIX",TV9 Bangla
+#EXTINF:-1,tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-59401-kjudpa1c-v2/imageContent-59401-kjudpa1c-m3.png"group-title="sohel=bdix",TV9 Bangla
 https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9banaen8yq/liveabr/playlist.m3u8
