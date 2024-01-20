@@ -137,3 +137,208 @@ http://103.145.48.150:90/laosat23/taratv/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1,tvg-logo=""group-title="sohel=kolkata",sun bangla cinema
 https://live.sunbanglacinema.in/sunbanglacinema/index.m3u8
+
+#EXTINF:-1,tvg-logo=""group-title="sohel=hindi-movies",sony max hd
+http://192.168.81.2/hlsHD/SonyMaxTV/devilBox.m3u8
+
+#EXTINF:-1,tvg-logo=""group-title="sohel=hindi-movies",sony max
+http://103.120.172.74:1150/
+
+#EXTINF:-1,tvg-logo=""group-title="sohel=hindi-movies",zee cinema hd
+http://192.168.81.2/hlsHD/ZeeCinemaHD/devilBox.m3u8
+
+#EXTINF:-1,tvg-logo=""group-title="sohel=hindi-movies",and pictures hd
+http://192.168.81.2/hlsHD/AndPicturesHD/devilBox.m3u8
+
+#EXTINF:-1,tvg-logo=""group-title="sohel=hindi-movies",star gold hd
+http://45.127.56.3:9698/live/Corpus-POL/SRV4/1/STAR-GOLD-HD/video.m3u8
+
+#EXTINF:-1,tvg-logo=""group-title="sohel=hindi-movies",star gold 2
+http://mag.premiumplus.tv/play/live.php?mac=00:1A:79:61:4F:5D&stream=1112132&extension=ts
+
+#EXTINF:-1,tvg-logo=""group-title="sohel=hindi-movies",star gold select
+http://45.127.56.3:9698/live/Corpus-POL/SRV4/1/STAR-GOLD-SELECT-HD/video.m3u8
+
+#EXTINF:-1,tvg-logo=""group-title="sohel=hindi-movies",star gold thrills
+http://192.168.81.2/hlsHD/STARGOLDTHRILLS/devilBox.m3u8
+
+#EXTINF:-1,tvg-logo=""group-title="sohel=hindi-movies",utv movies hd
+http://192.168.81.2/hlsHD/UTVMoviesHD/devilBox.m3u8
+
+#EXTINF:-1,tvg-logo=""group-title="sohel=hindi-movies",b4u movies
+http://192.168.81.2/hlsHD/B4UMovies/devilBox.m3u8
+
+#EXTINF:-1,tvg-logo=""group-title="sohel=hindi-movies",b4u kadak
+http://192.168.81.2/hlsHD/B4UKADAK/devilBox.m3u8
+
+#EXTINF:-1,tvg-logo=""group-title="sohel=hindi-movies",sony wah
+http://192.168.81.2/hlsHD/SonyWah/devilBox.m3u8
+
+#EXTINF:-1,tvg-logo=""group-title="sohel=hindi-movies",goldmines
+http://192.168.81.2/hlsHD/Goldmines/devilBox.m3u8
+
+#EXFINF:-1,tvg-logo=""group-title="sohel=hindi-movies",goldmines movies
+http://192.168.81.2/hlsHD/GOLDMINESMOVIES/devilBox.m3u8
+
+#EXTINF:-1,tvg-logo=""group-title="sohel=hindi-movies",goldmines bollywood
+http://192.168.81.2/hlsHD/GoldminesBollywood/devilBox.m3u8
+
+#EXTINF:-1,tvg-logo=""group-title="sohel=hindi-movies",star utsav movies
+http://192.168.81.2/hlsHD/StarUtsavMovies/devilBox.m3u8
+
+#EXTINF:-1,tvg-logo=""group-title="sohel=hindi-movies",dhamaka movies
+http://192.168.81.2/hlsHD/DhamakaMoviesB4U/devilBox.m3u8
+
+#EXTINF:-1,tvg-logo=""group-title="sohel=hindi-movies",cineplex bollywood
+http://192.168.81.2/hlsHD/CineplexBollywood/devilBox.m3u8
+
+#EXTINF:-1,tvg-logo=""group-title="sohel=hindi-movies",rishtey cineplex
+http://192.168.81.2/hlsHD/RISHTEYCINEPLEX/devilBox.m3u8
+
+#EXTINF:-1,tvg-logo=""group-title="sohel=hindi-movies",zee anmol cinema
+http://192.168.81.2/hlsHD/ZEEANMOLCINEMA/devilBox.m3u8
+
+#EXTINF:-1,tvg-logo=""group-title="sohel=hindi-movies",dhinchaaka
+http://192.168.81.2/hlsHD/Dhinchaak2/devilBox.m3u8
+
+#EXTINF:-1,tvg-logo=""group-title="sohel=hindi-movies",hollywood hd
+http://192.168.81.2/hlsHD/HollywoodHD/devilBox.m3u8
+
+#EXTINF:-1,tvg-logo=""group-title="sohel=hindi-movies",dd national hd
+http://192.168.81.2/hlsHD/DDNATIONALHD/devilBox.m3u8
+
+#EXTINF:-1,tvg-logo=""group-title="sohel=hindi-movies",star movies hd
+http://45.127.56.3:9698/live/Corpus-POL/SRV4/1/STAR-MOVIES-HD/video.m3u8
+
+#EXTINF:-1,tvg-logo=""group-title="sohel=hindi-movies",star maa movies
+http://45.127.56.3:6699/live/Corpus-POL1/SRV5/3/STAR-MAA-HD/live.mpd
+
+#EXTINF:-1,tvg-logo=""group-title="sohel=hindi-movies",zee action
+http://tv.bdvision.live:8080/play/Fv9Q7rUIs_2IjMLCvGCDNkipqOlvhnAGa3vJ18Sf0ME/m3u8
+
+#EXTINF:-1,tvg-logo=""group-title="sohel=hindi-movies",sony pix hd
+http://tv.bdvision.live:8080/play/Fv9Q7rUIs_2IjMLCvGCDNgPFqWASJUHBsH7Zsedf1-Q/m3u8
+
+#EXTINF:-1,tvg-logo=""group-title="sohel=hindi-movies",movies now
+http://tv.bdvision.live:8080/play/Fv9Q7rUIs_2IjMLCvGCDNr0oKVjry6ZqR9I7GlVvB1A/m3u8
+
+#EXTINF:-1,tvg-logo=""group-title="sohel=hindi-movies",biflix
+http://idvd.multitvsolution.com/idvo/bflixmovies.m3u8
+
+#EXTINF:-1,tvg-logo=""group-title="sohel=entertainment",colors tv
+http://192.168.81.2/hlsHD/ColorsTVHD/devilBox.m3u8
+
+#EXTINF:-1,tvg-logo=""group-title="sohel=entertainment",colors hd
+http://103.120.172.74:1070/
+
+#EXTINF:-1,tvg-logo=""group-title="sohel=entertainment",star plus hd
+http://192.168.81.2/hlsHD/StarPlusHD/devilBox.m3u8
+
+#EXTINF:-1,tvg-logo=""group-title="sohel=entertainment",star plus
+http://tv.bdvision.live:8080/play/Fv9Q7rUIs_2IjMLCvGCDNrNwkTkwKVkAz4_po22InVc/m3u8
+
+#EXTINF:-1,tvg-logo=""group-title="sohel=entertainment",zee tv hd
+http://192.168.81.2/hlsHD/ZeeTVHD/devilBox.m3u8
+
+#EXTINF:-1,tvg-logo=""group-title="sohel=entertainment",zee tv
+http://tv.bdvision.live:8080/play/Fv9Q7rUIs_2IjMLCvGCDNgkN6UIuZF4dRPKo6lXGmAw/m3u8
+
+#EXTINF:-1,tvg-logo=""group-title="sohel=entertainment",star bharat
+http://103.120.172.74:5200/
+
+#EXTINF:-1,tvg-logo=""group-title="sohel=entertainment",star pravah
+http://103.120.172.74:1060/
+
+#EXTINF:-1,tvg-logo=""group-title="sohel=entertainment",and tv hd
+http://tv.bdvision.live:8080/play/Fv9Q7rUIs_2IjMLCvGCDNgpOzFVf0R8I19Dm8fdiDc0/m3u8
+
+#EXTINF:-1,tvg-logo=""group-title="sohel=entertainment",sony tv
+http://192.168.81.2/hlsHD/SonyEntertainmentHD/devilBox.m3u8
+
+#EXTINF:-1,tvg-logo=""group-title="sohel=entertainment",sony hd
+http://tv.bdvision.live:8080/play/Fv9Q7rUIs_2IjMLCvGCDNp68ke9SJM9XA7vnL2fy3Y4/m3u8
+
+#EXTINF:-1,tvg-logo=""group-title="sohel=entertainment",sony sab hd
+http://tv.bdvision.live:8080/play/Fv9Q7rUIs_2IjMLCvGCDNoAUK2Hm1DyNV9yHA052FuY/m3u8
+
+
+#EXTINF:-1,tvg-logo=""group-title="sohel=kids",rongeen tv
+https://cdn.smartstream.video/smartstream-us/rongeentv/rongeentv/playlist.m3u8
+
+#EXTINF:-1,tvg-logo=""group-title="sohel=kids",nick hd
+http://192.168.81.2/hlsHD/NickHD/devilBox.m3u8
+
+#EXTINF:-1,tvg-logo=""group-title="sohel=kids",sony yay
+http://tv.bdvision.live:8080/play/Fv9Q7rUIs_2IjMLCvGCDNmewyDdgG6OdDhueBSm48hw/m3u8
+
+#EXTINF:-1,tvg-logo=""group-title="sohel=kids",cartiin network
+http://192.168.81.2/hlsHD/CartoonNetwork/devilBox.m3u8
+
+#EXTINF:-1,tvg-logo=""group-title="sohel=kids",pogo
+http://103.109.56.116/live/skyfeed1019/index.m3u8
+
+#EXTINF:-1,tvg-logo=""group-title="sohel=kids",pogo hd
+http://tv.bdvision.live:8080/play/Fv9Q7rUIs_2IjMLCvGCDNstd8stVQGekFPXKtmJwQMI/m3u8
+
+#EXTINF:-1,tvg-logo=""group-title="sohel=kids",khushboo bangla
+http://idvd.multitvsolution.com/idvo/khushboo.m3u8
+
+#EXTINF:-1,tvg-logo=""group-title="sohel=ducoment",discovery hd
+http://192.168.81.2/hlsHD/DiscoveryChannelHD/devilBox.m3u8
+
+#EXTINF:-1,tvg-logo=""group-title="sohel=ducoment",animal panelt hd
+https://dplus.gammacdn.workers.dev/videos/99.m3u8
+
+#EXTINF:-1,tvg-logo=""group-title="sohel=ducoment",national Geographic hd
+http://192.168.81.2/hlsHD/NATIONALGEOGRAPHICHD/devilBox.m3u8
+
+#EXTINF:-1,tvg-logo=""group-title="sohel=ducoment",wild hd
+http://mag.premiumplus.tv/play/live.php?mac=00:1A:79:61:4F:5D&stream=155989&extension=ts
+
+#EXTINF:-1,tvg-logo=""group-title="sohel=ducoment",sony bbc earth
+http://tv.bdvision.live:8080/play/Fv9Q7rUIs_2IjMLCvGCDNiV9WAM1z0KFae7DKCBpvSw/m3u8
+
+#EXTINF:-1,tvg-logo=""group-title="sohel=ducoment",travelxp
+http://tv.bdvision.live:8080/play/Fv9Q7rUIs_2IjMLCvGCDNqj4LKp9Be46JBjolGcKpUo/m3u8
+
+#EXTINF:-1,tvg-logo=""group-title="sohel=music",9xm
+https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/9XM-audio_208482_und=208000-video=562400.m3u8
+
+#EXTINF:-1,tvg-logo=""group-title="sohel=music",9xm 2
+http://192.168.81.2/hlsHD/9XM/devilBox.m3u8
+
+#EXTINF:-1,tvg-logo=""group-title="sohel=music",masti music
+http://192.168.81.2/hlsHD/Masti/devilBox.m3u8
+
+#EXTINF:-1,tvg-logo=""group-title="sohel=music",mtv beats
+http://192.168.81.2/hlsHD/MTVBeats/devilBox.m3u8
+
+#EXTINF:-1,tvg-logo=""group-title="sohel=music",b4u music
+http://192.168.81.2/hlsHD/B4UMusic/devilBox.m3u8
+
+#EXTINF:-1,tvg-logo=""group-title="sohel=music",show box
+http://192.168.81.2/hlsHD/SHOWBOX/devilBox.m3u8
+
+#EXTINF:-1,tvg-logo=""group-title="sohel=music",zoom
+http://tv.bdvision.live:8080/play/Fv9Q7rUIs_2IjMLCvGCDNiBt4HfCT_SxydPi1j9AW8M/m3u8
+
+#EXTINF:-1,tvg-logo=""group-title="sohel=music",sangeet bangla
+http://longstream-03.ajaah.com/PlayBoxTV/SangeetBangla/playlist.m3u8
+
+#EXTINF:-1,tvg-logo=""group-title="sohel=music",zing
+http://192.168.81.2/hlsHD/Zing/devilBox.m3u8
+
+#EXTINF:-1,tvg-logo=""group-title="sohel=music",music india
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Musicindia/default/index.m3u8
+
+#EXTINF:-1,tvg-logo=""group-title="sohel=music",e24 music
+http://longstream-04.ajaah.com/PlayBoxTV/E24/playlist.m3u8
+
+#EXTINF:-1,tvg-logo=""group-title="sohel=music",9x jalwa
+http://tv.bdvision.live:8080/play/Fv9Q7rUIs_2IjMLCvGCDNt_wHBZgFRn3H0FuVr0AsfI/m3u8
+
+#EXTINF:-1,tvg-logo=""group-title="sohel=music",bdvision music
+http://tv.bdvision.live:8080/play/Fv9Q7rUIs_2IjMLCvGCDNjpv2GMR2tscEjMJLVcxGGQ/m3u8
+
+#EXTINF:-1,tvg-logo=""group-title="sohel=music",bangla music
+http://tv.bdvision.live:8080/play/Fv9Q7rUIs_2IjMLCvGCDNo14TWaqXYUa6E8zcrOE8A0/m3u8
