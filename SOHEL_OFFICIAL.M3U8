@@ -424,6 +424,9 @@ http://tv.bdvision.live:8080/play/Fv9Q7rUIs_2IjMLCvGCDNvw4cs2H4wblVU8VVeIpYs8/m3
 #EXTINF:-1,tvg-logo=""group-title="sohel=sports",t-sports bdix
 http://103.109.56.116/live/skyfeed1005/index.m3u8
 
+#EXTINF:-1,tvg-logo=""group-title="sohel=sports",T-SPORTS FHD
+http://157.119.239.210:8099/tsports/index.m3u8
+
 #EXTINF:-1,tvg-logo=""group-title="sohel=sports",bpl hd
 http://103.109.56.116/live/skyfeed1006/index.m3u8
 
