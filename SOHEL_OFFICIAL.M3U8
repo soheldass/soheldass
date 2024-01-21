@@ -105,6 +105,9 @@ http://103.141.2.37:25461/live/web/web/592.m3u8
 #EXTINF:-1,tvg-logo="https://m3u-editor.com/storage/channel-logos/da14b440-b6ba-11ee-a370-b72d30e3f5e7/6075785/1057630427.png"group-title="sohel=bangladeshi",gtv hd
 http://192.168.81.2/hlsHD/GaziTv/devilBox.m3u8
 
+#EXTINF:-1,tvg-logo=""group-title="sohel=bangladeshi",amar bangla
+https://live-stream.utkalbongo.com/utkalbongo/stream10/hls/amarbangla.m3u8
+
 #EXTINF:-1,tvg-logo="https://m3u-editor.com/storage/channel-logos/da14b440-b6ba-11ee-a370-b72d30e3f5e7/6075785/1057657887.png"group-title="sohel=kolkata",star jalsha
 http://45.127.56.3:9698/live/Corpus-POL/SRV4/3/STAR-JALSHA/video.m3u8
 
@@ -462,6 +465,9 @@ https://freehdgames.lol/chunklist/hlsch12.m3u8
 
 #EXTINF:-1,tvg-logo=""group-title="sohel=sports",sports 2
 https://freehdgames.lol/chunklist/hlsch17.m3u8
+
+#EXTINF:-1,tvg-logo=""group-title="sohel=sports",sky sports cricket
+https://streambanglaapp.xyz/proximity/auto/skyscric&e.m3u8
 
 #EXTINF:-1,tvg-logo=""group-title="sohel=sports",bein sports hd
 https://freehdgames.lol/chunklist/hlsch20.m3u8
