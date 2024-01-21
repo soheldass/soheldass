@@ -388,14 +388,14 @@ http://192.168.81.2/hlsHD/StarSportsSelect1HD/devilBox.m3u8
 #EXTINF:-1,tvg-logo=""group-title="sohel=sports",star sports select 2
 http://192.168.81.2/hlsHD/StarSportsSelect2HD/devilBox.m3u8
 
-
 #EXTINF:-1,tvg-logo=""group-title="sohel=sports",star sports 1bdix
 http://103.109.56.116/live/skyfeed1002/index.m3u8
-
 
 #EXTINF:-1,tvg-logo=""group-title="sohel=sports",star sports 2bdix
 http://103.109.56.116/live/skyfeed1003/index.m3u8
 
+#EXTINF:-1,tvg-logo=""group-title="sohel=sports",star sports hd
+http://41.205.93.154/STARSPORTS1/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1,tvg-logo=""group-title="sohel=sports",sony sports 1bdix
 http://103.109.56.116/live/skyfeed1007/index.m3u8
