@@ -105,55 +105,55 @@ http://103.141.2.37:25461/live/web/web/592.m3u8
 #EXTINF:-1,tvg-logo="https://m3u-editor.com/storage/channel-logos/da14b440-b6ba-11ee-a370-b72d30e3f5e7/6075785/1057630427.png"group-title="sohel=bangladeshi",gtv hd
 http://192.168.81.2/hlsHD/GaziTv/devilBox.m3u8
 
-#EXTINF:-1,tvg-logo="https://m3u-editor.com/storage/channel-logos/da14b440-b6ba-11ee-a370-b72d30e3f5e7/6075785/1057007300.jpg"group-title="sohel=kolkata",star jalsha
+#EXTINF:-1,tvg-logo="https://m3u-editor.com/storage/channel-logos/da14b440-b6ba-11ee-a370-b72d30e3f5e7/6075785/1057657887.png"group-title="sohel=kolkata",star jalsha
 http://45.127.56.3:9698/live/Corpus-POL/SRV4/3/STAR-JALSHA/video.m3u8
 
-#EXTINF:-1,tvg-logo="https://m3u-editor.com/storage/channel-logos/da14b440-b6ba-11ee-a370-b72d30e3f5e7/6075785/1057007300.jpg"group-title="sohel=kolkata",star jalsha hd
+#EXTINF:-1,tvg-logo="https://m3u-editor.com/storage/channel-logos/da14b440-b6ba-11ee-a370-b72d30e3f5e7/6075785/1057657888.png"group-title="sohel=kolkata",star jalsha hd
 http://45.127.56.3:9698/live/Corpus-POL/SRV4/3/STAR-JALSHA-HD/video.m3u8
 
-#EXTINF:-1,tvg-logo="https://m3u-editor.com/storage/channel-logos/da14b440-b6ba-11ee-a370-b72d30e3f5e7/6075785/1057007300.jpg"group-title="sohel=kolkata",zee bangla bdix
+#EXTINF:-1,tvg-logo="https://m3u-editor.com/storage/channel-logos/da14b440-b6ba-11ee-a370-b72d30e3f5e7/6075785/1057657892.png"group-title="sohel=kolkata",zee bangla bdix
 http://tv.bdvision.live:8080/play/Fv9Q7rUIs_2IjMLCvGCDNqE6oc60sjoV-6BYM786cR4/m3u8
 
-#EXTINF:-1,tvg-logo=""group-title="sohel=kolkata",zee bangla hd
+#EXTINF:-1,tvg-logo="https://m3u-editor.com/storage/channel-logos/da14b440-b6ba-11ee-a370-b72d30e3f5e7/6075785/1057657889.png"group-title="sohel=kolkata",zee bangla hd
 http://192.168.81.2/hlsHD/ZEEBANGLAHD/devilBox.m3u8
 
-#EXTINF:-1,tvg-logo="https://m3u-editor.com/storage/channel-logos/da14b440-b6ba-11ee-a370-b72d30e3f5e7/6075785/1057007300.jpg"group-title="sohel=kolkata",colors bangla
+#EXTINF:-1,tvg-logo="https://m3u-editor.com/storage/channel-logos/da14b440-b6ba-11ee-a370-b72d30e3f5e7/6075785/1057657893.png"group-title="sohel=kolkata",colors bangla
 http://103.141.2.37:25461/live/web/web/587.m3u8
 
-#EXTINF:-1,tvg-logo=""group-title="sohel=kolkata",colors bangla hd
+#EXTINF:-1,tvg-logo="https://m3u-editor.com/storage/channel-logos/da14b440-b6ba-11ee-a370-b72d30e3f5e7/6075785/1057657894.png"group-title="sohel=kolkata",colors bangla hd
 http://192.168.81.2/hlsHD/ColorsBanglaHD/devilBox.m3u8
 
-#EXTINF:-1,tvg-logo=""group-title="sohel=kolkata",enter 10 bangla
+#EXTINF:-1,tvg-logo="https://m3u-editor.com/storage/channel-logos/da14b440-b6ba-11ee-a370-b72d30e3f5e7/6075785/1057657895.png"group-title="sohel=kolkata",enter 10 bangla
 http://192.168.81.2/hlsHD/Enterr10Bangla/devilBox.m3u8
 
 #EXTINF:-1,tvg-logo="https://m3u-editor.com/storage/channel-logos/da14b440-b6ba-11ee-a370-b72d30e3f5e7/6075785/1057632892.png"group-title="sohel=kolkata",sun bangla
 http://192.168.81.2/hlsHD/SUNBANGLA/devilBox.m3u8
 
-#EXTINF:-1,tvg-logo=""group-title="sohel=kolkata",sony aath
+#EXTINF:-1,tvg-logo="https://m3u-editor.com/storage/channel-logos/da14b440-b6ba-11ee-a370-b72d30e3f5e7/6075785/1057658613.png"group-title="sohel=kolkata",sony aath
 http://45.127.56.3:9698/live/Corpus-POL/SRV4/1/SONY-AATH/video.m3u8
 
-#EXTINF:-1,tvg-logo=""group-title="sohel=kolkata",zee bangla cinema
+#EXTINF:-1,tvg-logo="https://m3u-editor.com/storage/channel-logos/da14b440-b6ba-11ee-a370-b72d30e3f5e7/6075785/1057658614.png"group-title="sohel=kolkata",zee bangla cinema
 http://192.168.81.2/hlsHD/ZeeBanglaCinema/devilBox.m3u8
 
-#EXTINF:-1,tvg-logo=""group-title="sohel=kolkata",zee bangla cinema sd
+#EXTINF:-1,tvg-logo="https://m3u-editor.com/storage/channel-logos/da14b440-b6ba-11ee-a370-b72d30e3f5e7/6075785/1057658614.png"group-title="sohel=kolkata",zee bangla cinema sd
 http://tv.bdvision.live:8080/play/Fv9Q7rUIs_2IjMLCvGCDNmJt5aI_IblB3u52IfubXxs/m3u8
 
-#EXTINF:-1,tvg-logo=""group-title="sohel=kolkata",colors bangla cinema
+#EXTINF:-1,tvg-logo="https://m3u-editor.com/storage/channel-logos/da14b440-b6ba-11ee-a370-b72d30e3f5e7/6075785/1057658615.png"group-title="sohel=kolkata",colors bangla cinema
 http://tv.bdvision.live:8080/play/chXzkkaPaXkx2-3idfJ3VWRGWpbZdvo-WHZAjMPgYIw/ts
 
-#EXTINF:-1,tvg-logo=""group-title="sohel=kolkata",jalsha movies
+#EXTINF:-1,tvg-logo="https://m3u-editor.com/storage/channel-logos/da14b440-b6ba-11ee-a370-b72d30e3f5e7/6075785/1057658616.png"group-title="sohel=kolkata",jalsha movies
 http://tv.bdvision.live:8080/play/Fv9Q7rUIs_2IjMLCvGCDNsuEZ3xjVKuq4h-xbfNx8jk/m3u8
 
-#EXTINF:-1,tvg-logo=""group-title="sohel=kolkata",jalsha movies hd
+#EXTINF:-1,tvg-logo="https://m3u-editor.com/storage/channel-logos/da14b440-b6ba-11ee-a370-b72d30e3f5e7/6075785/1057658617.png"group-title="sohel=kolkata",jalsha movies hd
 http://45.127.56.3:9698/live/Corpus-POL/SRV4/3/STAR-JALSHA-MOVIES-HD/video.m3u8
 
-#EXTINF:-1,tvg-logo=""group-title="sohel=kolkata",tara
+#EXTINF:-1,tvg-logo="https://m3u-editor.com/storage/channel-logos/da14b440-b6ba-11ee-a370-b72d30e3f5e7/6075785/1057658618.png"group-title="sohel=kolkata",tara
 http://103.145.48.150:90/laosat23/taratv/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1,tvg-logo="https://m3u-editor.com/storage/channel-logos/da14b440-b6ba-11ee-a370-b72d30e3f5e7/6075785/1057632893.png"group-title="sohel=kolkata",sun bangla cinema
 https://live.sunbanglacinema.in/sunbanglacinema/index.m3u8
 
-#EXTINF:-1,tvg-logo=""group-title="sohel=kolkata",sananda tv
+#EXTINF:-1,tvg-logo="https://m3u-editor.com/storage/channel-logos/da14b440-b6ba-11ee-a370-b72d30e3f5e7/6075785/1057658619.png"group-title="sohel=kolkata",sananda tv
 http://tv.bdvision.live:8080/play/Fv9Q7rUIs_2IjMLCvGCDNnGTsl6XW0NyjYeVWgwbSkg/m3u8
 
 #EXTINF:-1,tvg-logo=""group-title="sohel=hindi-movies",sony max hd
