@@ -282,26 +282,25 @@ http://tv.bdvision.live:8080/play/Fv9Q7rUIs_2IjMLCvGCDNp68ke9SJM9XA7vnL2fy3Y4/m3
 #EXTINF:-1,tvg-logo="https://m3u-editor.com/storage/channel-logos/da14b440-b6ba-11ee-a370-b72d30e3f5e7/6075785/1058298530.png"group-title="sohel=entertainment",sony sab hd
 http://tv.bdvision.live:8080/play/Fv9Q7rUIs_2IjMLCvGCDNoAUK2Hm1DyNV9yHA052FuY/m3u8
 
-
-#EXTINF:-1,tvg-logo=""group-title="sohel=kids",rongeen tv
+#EXTINF:-1,tvg-logo="https://m3u-editor.com/storage/channel-logos/da14b440-b6ba-11ee-a370-b72d30e3f5e7/6075785/1058338116.png"group-title="sohel=kids",rongeen tv
 https://cdn.smartstream.video/smartstream-us/rongeentv/rongeentv/playlist.m3u8
 
-#EXTINF:-1,tvg-logo=""group-title="sohel=kids",nick hd
+#EXTINF:-1,tvg-logo="https://m3u-editor.com/storage/channel-logos/da14b440-b6ba-11ee-a370-b72d30e3f5e7/6075785/1058349759.png"group-title="sohel=kids",nick hd
 http://192.168.81.2/hlsHD/NickHD/devilBox.m3u8
 
-#EXTINF:-1,tvg-logo=""group-title="sohel=kids",sony yay
+#EXTINF:-1,tvg-logo="https://m3u-editor.com/storage/channel-logos/da14b440-b6ba-11ee-a370-b72d30e3f5e7/6075785/1058360330.png"group-title="sohel=kids",sony yay
 http://tv.bdvision.live:8080/play/Fv9Q7rUIs_2IjMLCvGCDNmewyDdgG6OdDhueBSm48hw/m3u8
 
-#EXTINF:-1,tvg-logo=""group-title="sohel=kids",cartiin network
+#EXTINF:-1,tvg-logo="https://m3u-editor.com/storage/channel-logos/da14b440-b6ba-11ee-a370-b72d30e3f5e7/6075785/1058369761.png"group-title="sohel=kids",cartoon network
 http://192.168.81.2/hlsHD/CartoonNetwork/devilBox.m3u8
 
-#EXTINF:-1,tvg-logo=""group-title="sohel=kids",pogo
+#EXTINF:-1,tvg-logo="https://m3u-editor.com/storage/channel-logos/da14b440-b6ba-11ee-a370-b72d30e3f5e7/6075785/1058369822.png"group-title="sohel=kids",pogo
 http://103.109.56.116/live/skyfeed1019/index.m3u8
 
-#EXTINF:-1,tvg-logo=""group-title="sohel=kids",pogo hd
+#EXTINF:-1,tvg-logo="https://m3u-editor.com/storage/channel-logos/da14b440-b6ba-11ee-a370-b72d30e3f5e7/6075785/1058369822.png"group-title="sohel=kids",pogo hd
 http://tv.bdvision.live:8080/play/Fv9Q7rUIs_2IjMLCvGCDNstd8stVQGekFPXKtmJwQMI/m3u8
 
-#EXTINF:-1,tvg-logo=""group-title="sohel=kids",khushboo bangla
+#EXTINF:-1,tvg-logo="https://m3u-editor.com/storage/channel-logos/da14b440-b6ba-11ee-a370-b72d30e3f5e7/6075785/1058379823.png"group-title="sohel=kids",khushboo bangla
 http://idvd.multitvsolution.com/idvo/khushboo.m3u8
 
 #EXTINF:-1,tvg-logo=""group-title="sohel=ducoment",discovery hd
