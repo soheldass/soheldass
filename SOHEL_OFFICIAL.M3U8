@@ -198,7 +198,7 @@ http://192.168.81.2/hlsHD/SonyWah/devilBox.m3u8
 #EXTINF:-1,tvg-logo="https://m3u-editor.com/storage/channel-logos/da14b440-b6ba-11ee-a370-b72d30e3f5e7/6075785/1057987409.png"group-title="sohel=hindi-movies",goldmines
 http://192.168.81.2/hlsHD/Goldmines/devilBox.m3u8
 
-#EXFINF:-1,tvg-logo="https://m3u-editor.com/storage/channel-logos/da14b440-b6ba-11ee-a370-b72d30e3f5e7/6075785/1057987410.png"group-title="sohel=hindi-movies",goldmines movies
+#EXTINF:-1,tvg-logo="https://m3u-editor.com/storage/channel-logos/da14b440-b6ba-11ee-a370-b72d30e3f5e7/6075785/1057987410.png"group-title="sohel=hindi-movies",goldmines movies
 http://192.168.81.2/hlsHD/GOLDMINESMOVIES/devilBox.m3u8
 
 #EXTINF:-1,tvg-logo="https://m3u-editor.com/storage/channel-logos/da14b440-b6ba-11ee-a370-b72d30e3f5e7/6075785/1057987411.png"group-title="sohel=hindi-movies",goldmines bollywood
