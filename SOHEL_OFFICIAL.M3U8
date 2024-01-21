@@ -363,82 +363,82 @@ http://tv.bdvision.live:8080/play/Fv9Q7rUIs_2IjMLCvGCDNjpv2GMR2tscEjMJLVcxGGQ/m3
 #EXTINF:-1,tvg-logo="https://m3u-editor.com/storage/channel-logos/da14b440-b6ba-11ee-a370-b72d30e3f5e7/6075785/1058468828.png"group-title="sohel=music",bangla music
 http://tv.bdvision.live:8080/play/Fv9Q7rUIs_2IjMLCvGCDNo14TWaqXYUa6E8zcrOE8A0/m3u8
 
-#EXTINF:-1,tvg-logo=""group-title="sohel=sports",star sports1
+#EXTINF:-1,tvg-logo="https://m3u-editor.com/storage/channel-logos/da14b440-b6ba-11ee-a370-b72d30e3f5e7/6075785/1058627555.png"group-title="sohel=sports",star sports1
 http://103.2.153.38/trans1sd/smil:starsports1.smil/chunklist.m3u8
 
-#EXTINF:-1,tvg-logo=""group-title="sohel=sports",star sports 1hd
+#EXTINF:-1,tvg-logo="https://m3u-editor.com/storage/channel-logos/da14b440-b6ba-11ee-a370-b72d30e3f5e7/6075785/1058627368.png"group-title="sohel=sports",star sports 1hd
 http://192.168.81.2/hlsHD/StarSports1HD/devilBox.m3u8
 
-#EXTINF:-1,tvg-logo=""group-title="sohel=sports",star sports 2
+#EXTINF:-1,tvg-logo="https://m3u-editor.com/storage/channel-logos/da14b440-b6ba-11ee-a370-b72d30e3f5e7/6075785/1058627554.png"group-title="sohel=sports",star sports 2
 http://103.2.153.38/trans1sd/smil:starsports2.smil/chunklist.m3u8
 
-#EXTINF:-1,tvg-logo=""group-title="sohel=sports",star sports 2hd
+#EXTINF:-1,tvg-logo="https://m3u-editor.com/storage/channel-logos/da14b440-b6ba-11ee-a370-b72d30e3f5e7/6075785/1058627386.png"group-title="sohel=sports",star sports 2hd
 http://192.168.81.2/hlsHD/StarSports2HD/devilBox.m3u8
 
-#EXTINF:-1,tvg-logo=""group-title="sohel=sports",star sports 3
+#EXTINF:-1,tvg-logo="https://m3u-editor.com/storage/channel-logos/da14b440-b6ba-11ee-a370-b72d30e3f5e7/6075785/1058627383.png"group-title="sohel=sports",star sports 3
 http://tv.bdvision.live:8080/play/Fv9Q7rUIs_2IjMLCvGCDNvlP1jYR-QfSzpZimPTc1ks/m3u8
 
-#EXTINF:-1,tvg-logo=""group-title="sohel=sports",star sport select 1
+#EXTINF:-1,tvg-logo="https://m3u-editor.com/storage/channel-logos/da14b440-b6ba-11ee-a370-b72d30e3f5e7/6075785/1058627382.png"group-title="sohel=sports",star sport select 1
 http://103.109.56.116/live/skyfeed1004/index.m3u8
 
-#EXTINF:-1,tvg-logo=""group-title="sohel=sports",star sports select 1hd
+#EXTINF:-1,tvg-logo="https://m3u-editor.com/storage/channel-logos/da14b440-b6ba-11ee-a370-b72d30e3f5e7/6075785/1058627381.png"group-title="sohel=sports",star sports select 1hd
 http://192.168.81.2/hlsHD/StarSportsSelect1HD/devilBox.m3u8
 
-#EXTINF:-1,tvg-logo=""group-title="sohel=sports",star sports select 2
+#EXTINF:-1,tvg-logo="https://m3u-editor.com/storage/channel-logos/da14b440-b6ba-11ee-a370-b72d30e3f5e7/6075785/1058627379.png"group-title="sohel=sports",star sports select 2hd
 http://192.168.81.2/hlsHD/StarSportsSelect2HD/devilBox.m3u8
 
-#EXTINF:-1,tvg-logo=""group-title="sohel=sports",star sports 1bdix
+#EXTINF:-1,tvg-logo="https://m3u-editor.com/storage/channel-logos/da14b440-b6ba-11ee-a370-b72d30e3f5e7/6075785/1058627378.png"group-title="sohel=sports",star sports 1bdix
 http://103.109.56.116/live/skyfeed1002/index.m3u8
 
-#EXTINF:-1,tvg-logo=""group-title="sohel=sports",star sports 2bdix
+#EXTINF:-1,tvg-logo="https://m3u-editor.com/storage/channel-logos/da14b440-b6ba-11ee-a370-b72d30e3f5e7/6075785/1058627376.png"group-title="sohel=sports",star sports 2bdix
 http://103.109.56.116/live/skyfeed1003/index.m3u8
 
-#EXTINF:-1,tvg-logo=""group-title="sohel=sports",star sports hd
+#EXTINF:-1,tvg-logo="https://m3u-editor.com/storage/channel-logos/da14b440-b6ba-11ee-a370-b72d30e3f5e7/6075785/1058627368.png"group-title="sohel=sports",star sports hd
 http://41.205.93.154/STARSPORTS1/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1,tvg-logo=""group-title="sohel=sports",sony sports 1bdix
+#EXTINF:-1,tvg-logo="https://m3u-editor.com/storage/channel-logos/da14b440-b6ba-11ee-a370-b72d30e3f5e7/6075785/1058617367.png"group-title="sohel=sports",sony sports 1bdix
 http://103.109.56.116/live/skyfeed1007/index.m3u8
 
-#EXTINF:-1,tvg-logo=""group-title="sohel=sports",sony sports 2bdix
+#EXTINF:-1,tvg-logo="https://m3u-editor.com/storage/channel-logos/da14b440-b6ba-11ee-a370-b72d30e3f5e7/6075785/1058617366.png"group-title="sohel=sports",sony sports 2bdix
 http://103.109.56.116/live/skyfeed1008/index.m3u8
 
-#EXTINF:-1,tvg-logo=""group-title="sohel=sports",sony sports 1
+#EXTINF:-1,tvg-logo="https://m3u-editor.com/storage/channel-logos/da14b440-b6ba-11ee-a370-b72d30e3f5e7/6075785/1058617367.png"group-title="sohel=sports",sony sports 1
 http://103.2.153.38/trans1sd/smil:tensports1.smil/chunklist.m3u8
 
-#EXTINF:-1,tvg-logo=""group-title="sohel=sports",sony sports 2
+#EXTINF:-1,tvg-logo="https://m3u-editor.com/storage/channel-logos/da14b440-b6ba-11ee-a370-b72d30e3f5e7/6075785/1058617366.png"group-title="sohel=sports",sony sports 2
 http://103.2.153.38/trans1sd/smil:tensports2.smil/chunklist.m3u8
 
-#EXTINF:-1,tvg-logo=""group-title="sohel=sports",sony sports 5
+#EXTINF:-1,tvg-logo="https://m3u-editor.com/storage/channel-logos/da14b440-b6ba-11ee-a370-b72d30e3f5e7/6075785/1058617365.png"group-title="sohel=sports",sony sports 5
 http://103.2.153.38/trans1sd/smil:tensports5.smil/chunklist.m3u8
 
-#EXTINF:-1,tvg-logo=""group-title="sohel=sports",sony sports 3hd
+#EXTINF:-1,tvg-logo="https://m3u-editor.com/storage/channel-logos/da14b440-b6ba-11ee-a370-b72d30e3f5e7/6075785/1058617364.png"group-title="sohel=sports",sony sports 3hd
 http://tv.bdvision.live:8080/play/Fv9Q7rUIs_2IjMLCvGCDNqa3TjIkJ9tXHqW3dCd5JeQ/m3u8
 
-#EXTINF:-1,tvg-logo=""group-title="sohel=sports",star sports hindi
+#EXTINF:-1,tvg-logo="https://m3u-editor.com/storage/channel-logos/da14b440-b6ba-11ee-a370-b72d30e3f5e7/6075785/1058617363.png"group-title="sohel=sports",star sports hindi
 http://tv.bdvision.live:8080/play/Fv9Q7rUIs_2IjMLCvGCDNkvSyM0REZTVH8gsO0aQAfY/m3u8
 
-#EXTINF:-1,tvg-logo=""group-title="sohel=sports",t-sport
+#EXTINF:-1,tvg-logo="https://m3u-editor.com/storage/channel-logos/da14b440-b6ba-11ee-a370-b72d30e3f5e7/6075785/1058617227.png"group-title="sohel=sports",t-sport
 http://113.212.111.246:8080/hls/col12.m3u8
 
-#EXTINF:-1,tvg-logo=""group-title="sohel=sports",t-sports hd
+#EXTINF:-1,tvg-logo="https://m3u-editor.com/storage/channel-logos/da14b440-b6ba-11ee-a370-b72d30e3f5e7/6075785/1058617227.png"group-title="sohel=sports",t-sports hd
 http://tv.bdvision.live:8080/play/Fv9Q7rUIs_2IjMLCvGCDNvw4cs2H4wblVU8VVeIpYs8/m3u8
 
-#EXTINF:-1,tvg-logo=""group-title="sohel=sports",t-sports bdix
+#EXTINF:-1,tvg-logo="https://m3u-editor.com/storage/channel-logos/da14b440-b6ba-11ee-a370-b72d30e3f5e7/6075785/1058617227.png"group-title="sohel=sports",t-sports bdix
 http://103.109.56.116/live/skyfeed1005/index.m3u8
 
-#EXTINF:-1,tvg-logo=""group-title="sohel=sports",T-SPORTS FHD
+#EXTINF:-1,tvg-logo="https://m3u-editor.com/storage/channel-logos/da14b440-b6ba-11ee-a370-b72d30e3f5e7/6075785/1058617226.png"group-title="sohel=sports",T-SPORTS FHD
 http://157.119.239.210:8099/tsports/index.m3u8
 
-#EXTINF:-1,tvg-logo=""group-title="sohel=sports",bpl hd
+#EXTINF:-1,tvg-logo="https://m3u-editor.com/storage/channel-logos/da14b440-b6ba-11ee-a370-b72d30e3f5e7/6075785/1058612520.png"group-title="sohel=sports",bpl hd
 http://103.109.56.116/live/skyfeed1006/index.m3u8
 
-#EXTINF:-1,tvg-logo=""group-title="sohel=sports",ilt t20
+#EXTINF:-1,tvg-logo="https://m3u-editor.com/storage/channel-logos/da14b440-b6ba-11ee-a370-b72d30e3f5e7/6075785/1058612519.png"group-title="sohel=sports",ilt t20
 https://anya-playlist.saqlainhaider.workers.dev/wanda.m3u8?id=95
 
-#EXTINF:-1,tvg-logo=""group-title="sohel=sports",sports 18khel
+#EXTINF:-1,tvg-logo="https://m3u-editor.com/storage/channel-logos/da14b440-b6ba-11ee-a370-b72d30e3f5e7/6075785/1058612518.png"group-title="sohel=sports",sports 18khel
 http://192.168.81.2/hlsHD/Sports18Khel/devilBox.m3u8
 
-#EXTINF:-1,tvg-logo=""group-title="sohel=sports",dd sports hd
+#EXTINF:-1,tvg-logo="https://m3u-editor.com/storage/channel-logos/da14b440-b6ba-11ee-a370-b72d30e3f5e7/6075785/1058612515.png"group-title="sohel=sports",dd sports hd
 http://192.168.81.2/hlsHD/DDSPORTSHD/devilBox.m3u8
 
 #EXTINF:-1,tvg-logo="https://m3u-editor.com/storage/channel-logos/da14b440-b6ba-11ee-a370-b72d30e3f5e7/6075785/1058608227.png"group-title="sohel=sports",ptv sports
