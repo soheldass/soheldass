@@ -453,8 +453,8 @@ http://192.168.81.2/hlsHD/sasaSA/devilBox.m3u8
 #EXTINF:-1,tvg-logo="https://m3u-editor.com/storage/channel-logos/da14b440-b6ba-11ee-a370-b72d30e3f5e7/6075785/1058608068.png"group-title="sohel=sports",premier sports hd
 https://hls.streambtw.com/live/stream_1.m3u8
 
-#EXTINF:-1,tvg-logo="https://m3u-editor.com/storage/channel-logos/da14b440-b6ba-11ee-a370-b72d30e3f5e7/6075785/1058608068.png"group-title="sohel=sports",premier sports 2 hd
-https://nl.score806.cc/uk_premiersports2/tracks-v1a1/mono.m3u8
+#EXTINF:-1,tvg-logo="https://m3u-editor.com/storage/channel-logos/da14b440-b6ba-11ee-a370-b72d30e3f5e7/6075785/1058608068.png"group-title="sohel=sports",willow sports hd
+https://hls.streambtw.com/live/stream_e1.m3u8
 
 #EXTINF:-1,tvg-logo="https://m3u-editor.com/storage/channel-logos/da14b440-b6ba-11ee-a370-b72d30e3f5e7/6075785/1058608067.png"group-title="sohel=sports",tnt sports 1hd
 https://freehdgames.lol/chunklist/hlsch1.m3u8
