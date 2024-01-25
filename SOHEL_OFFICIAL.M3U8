@@ -75,6 +75,9 @@ http://192.168.81.2/hlsHD/Deshtv/devilBox.m3u8
 #EXTINF:-1,tvg-logo="https://m3u-editor.com/storage/channel-logos/da14b440-b6ba-11ee-a370-b72d30e3f5e7/6075785/1057630383.png"group-title="sohel=bangladeshi",global tv
 http://192.168.81.2/hlsHD/GLOBALTVHD/devilBox.m3u8
 
+#EXTINF:-1,tvg-logo="https://m3u-editor.com/storage/channel-logos/da14b440-b6ba-11ee-a370-b72d30e3f5e7/6075785/1063340857.png"group-title="sohel=bangladeshi",dbc news
+http://192.168.81.2/hlsHD/DBCNEWS/devilBox.m3u8
+
 #EXTINF:-1,tvg-logo="https://m3u-editor.com/storage/channel-logos/da14b440-b6ba-11ee-a370-b72d30e3f5e7/6075785/1057630384.png"group-title="sohel=bangladeshi",channel 9
 http://192.168.81.2/hlsHD/Channel9BD/devilBox.m3u8
 
@@ -507,9 +510,8 @@ http://cdn01.palki.tv/live/BTVChattogram-M/index.m3u8
 #EXTINF:-1,"tvg-logo="https://images.toffeelive.com/images/program/9/logo/240x240/mobile_logo_363996001656610763.png",group-title="sohel=bdix",CHANNEL 9 BDIX
 http://cdn01.palki.tv/live/Channel9-M/index.m3u8
 
-#EXTINF:-1,"tvg-logo""https://images.toffeelive.com/images/program/3/logo/240x240/mobile_logo_694865001655890816.png",group-title="sohel=bdix",CHANNEL I BDIX
+#EXTINF:-1,tvg-logo="https://m3u-editor.com/storage/channel-logos/da14b440-b6ba-11ee-a370-b72d30e3f5e7/6075785/1057010833.png",group-title="sohel=bdix",CHANNEL I BDIX
 http://cdn01.palki.tv/live/Channeli-M/index.m3u8
-
 
 #EXTINF:-1,"tvg-logo="https://images.toffeelive.com/images/program/53/logo/240x240/mobile_logo_107276001655890949.png",group-title="sohel=bdix",EKATTOR TV BDIX
 http://cdn01.palki.tv/live/EkattorTV-M/index.m3u8
@@ -528,6 +530,9 @@ http://cdn01.palki.tv/live/Independent-M/index.m3u8
 
 #EXTINF:-1,"tvg-logo="https://images.toffeelive.com/images/program/368/logo/240x240/mobile_logo_784215001656610543.png",group-title="sohel=bdix",MOHONA TV BDIX
 http://cdn01.palki.tv/live/MohonaTV-M/index.m3u8
+
+#EXTINF:-1,tvg-logo="https://m3u-editor.com/storage/channel-logos/da14b440-b6ba-11ee-a370-b72d30e3f5e7/6075785/1057010830.png"group-title="sohel=bdix",boishakhi tv bdix
+https://boishakhi.sonarbanglatv.com/boishakhi/boishakhitv/index.m3u8
 
 #EXTINF:-1,"tvg-logo="https://images.toffeelive.com/images/program/233/logo/240x240/mobile_logo_146142001655891039.png",group-title="sohel=bdix",NEWS 24 BDIX
 http://cdn01.palki.tv/live/News24-M/index.m3u8
