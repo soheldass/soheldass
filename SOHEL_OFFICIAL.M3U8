@@ -546,8 +546,32 @@ http://cdn01.palki.tv/live/News24-M/index.m3u8
 #EXTINF:-1,"tvg-logo="https://images.toffeelive.com/images/program/10908/logo/240x240/mobile_logo_027712001655892101.png",group-title="sohel=bdix",NEXUS BDIX
 http://cdn01.palki.tv/live/NexusTV-M/index.m3u8
 
+#EXTINF:-1,tvg-logo="https://m3u-editor.com/storage/channel-logos/630599c0-bc73-11ee-9124-2510a949dcf6/6122739/1066731548.png"group-title="sohel=bdix",maasranga tv bdix
+http://cdn01.palki.tv/live/MaasrangaTV-M/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1,tvg-logo="https://m3u-editor.com/storage/channel-logos/da14b440-b6ba-11ee-a370-b72d30e3f5e7/6075785/1057010843.png"group-title="sohel=bdix",satv bdix
+http://cdn01.palki.tv/live/SATV-M/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1,"tvg-logo="https://images.toffeelive.com/images/program/41/logo/240x240/mobile_logo_811238001673183089.png",group-title="sohel=bdix",NTV BDIX
 http://cdn01.palki.tv/live/NTV-M/index.m3u8
+
+#EXTINF:-1,tvg-logo="https://m3u-editor.com/storage/channel-logos/da14b440-b6ba-11ee-a370-b72d30e3f5e7/6075785/1057010830.png"group-title="sohel=bdix",boishakhi tv bdix
+http://cdn01.palki.tv/live/BoishakhiTV-M/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1,tvg-logo="https://m3u-editor.com/storage/channel-logos/da14b440-b6ba-11ee-a370-b72d30e3f5e7/6075785/1057010846.png"group-title="sohel=bdix",asian tv bdix
+http://cdn01.palki.tv/live/AsianTV-M/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1,tvg-logo="https://m3u-editor.com/storage/channel-logos/da14b440-b6ba-11ee-a370-b72d30e3f5e7/6075785/1057010844.png"group-title="sohel=bdix",deepto tv bdix
+http://cdn01.palki.tv/live/DeeptoTV-M/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1,tvg-logo="https://m3u-editor.com/storage/channel-logos/da14b440-b6ba-11ee-a370-b72d30e3f5e7/6075785/1057010835.png"group-title="sohel=bdix",jamuna tv bdix
+http://cdn01.palki.tv/live/JamunaTV-M/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1,tvg-logo="https://m3u-editor.com/storage/channel-logos/da14b440-b6ba-11ee-a370-b72d30e3f5e7/6075785/1057010827.png"group-title="sohel=bdix",bangla tv bdix
+http://cdn01.palki.tv/live/BanglaTV-M/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1,tvg-logo="https://m3u-editor.com/storage/channel-logos/da14b440-b6ba-11ee-a370-b72d30e3f5e7/6075785/1057630389.png"group-title="sohel=bdix",ekhon tv bdix
+http://cdn01.palki.tv/live/EkhonTV-M/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1,"tvg-logo="https://images.toffeelive.com/images/program/64/logo/240x240/mobile_logo_760805001655890979.png",group-title="sohel=bdix",SANGSAD TV BDIX
 http://cdn01.palki.tv/live/SangsadTV-M/index.m3u8
