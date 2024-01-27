@@ -234,6 +234,9 @@ http://192.168.81.2/hlsHD/Dhinchaak2/devilBox.m3u8
 #EXTINF:-1,tvg-logo="https://m3u-editor.com/storage/channel-logos/da14b440-b6ba-11ee-a370-b72d30e3f5e7/6075785/1058015391.png"group-title="sohel=hindi-movies",hollywood hd
 http://192.168.81.2/hlsHD/HollywoodHD/devilBox.m3u8
 
+#EXTINF:-1,tvg-logo="https://m3u-editor.com/storage/channel-logos/630599c0-bc73-11ee-9124-2510a949dcf6/6122739/1066276328.png"group-title="sohel=hindi-movies",enter 10hd
+http://longstream-04.ajaah.com/PlayBoxTV/Enter10/Enter10_1/stream.m3u8
+
 #EXTINF:-1,tvg-logo="https://m3u-editor.com/storage/channel-logos/da14b440-b6ba-11ee-a370-b72d30e3f5e7/6075785/1058015525.png"group-title="sohel=hindi-movies",dd national hd
 http://192.168.81.2/hlsHD/DDNATIONALHD/devilBox.m3u8
 
