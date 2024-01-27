@@ -570,6 +570,9 @@ http://cdn01.palki.tv/live/JamunaTV-M/tracks-v1a1/mono.m3u8
 #EXTINF:-1,tvg-logo="https://m3u-editor.com/storage/channel-logos/da14b440-b6ba-11ee-a370-b72d30e3f5e7/6075785/1057010827.png"group-title="sohel=bdix",bangla tv bdix
 http://cdn01.palki.tv/live/BanglaTV-M/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1,tvg-logo="https://m3u-editor.com/storage/channel-logos/da14b440-b6ba-11ee-a370-b72d30e3f5e7/6075785/1057010831.png"group-title="sohel=bdix",channel 24 bdix
+http://cdn01.palki.tv/live/Channel24-M/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1,tvg-logo="https://m3u-editor.com/storage/channel-logos/da14b440-b6ba-11ee-a370-b72d30e3f5e7/6075785/1057630389.png"group-title="sohel=bdix",ekhon tv bdix
 http://cdn01.palki.tv/live/EkhonTV-M/tracks-v1a1/mono.m3u8
 
