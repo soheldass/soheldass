@@ -492,7 +492,7 @@ https://freehdgames.lol/chunklist/hlsch20.m3u8
 #EXTINF:-1,tvg-logo="https://m3u-editor.com/storage/channel-logos/da14b440-b6ba-11ee-a370-b72d30e3f5e7/6075785/1058587795.png"group-title="sohel=sports",bein sports 2
 https://freehdgames.lol/chunklist/hlsch21.m3u8
 
-#EXTINF:-1,tvg-logo=""group-title="sohel=sports",bein sports extra
+#EXTINF:-1,tvg-logo="https://m3u-editor.com/storage/channel-logos/630599c0-bc73-11ee-9124-2510a949dcf6/6122739/1067394587.png"group-title="sohel=sports",bein sports extra
 http://136.175.8.181:18000/c25390e50e2b4849bc34ed742f92175a/hls/playlist.m3u8
 
 #EXTINF:-1,"tvg-logo="https://images.toffeelive.com/images/program/692/logo/240x240/mobile_logo_317599001655891632.png",group-title="sohel=bdix",ANANDA BDIX
@@ -578,6 +578,9 @@ http://cdn01.palki.tv/live/EkhonTV-M/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1,"tvg-logo="https://images.toffeelive.com/images/program/64/logo/240x240/mobile_logo_760805001655890979.png",group-title="sohel=bdix",SANGSAD TV BDIX
 http://cdn01.palki.tv/live/SangsadTV-M/index.m3u8
+
+#EXTINF:-1,tvg-logo="https://m3u-editor.com/storage/channel-logos/630599c0-bc73-11ee-9124-2510a949dcf6/6122739/1067384264.png"group-title="sohel=bdix",nagorik tv bdix
+http://cdn01.palki.tv/live/NagorikTV-M/index.m3u8
 
 #EXTINF:-1,group-title="sohel=bdix"tvg-logo="https://i.postimg.cc/x1NThgr4/Shobuy-Prime-HD .jpg",Shobuy Prime HD
 http://tv.bdvision.live:8080/play/chXzkkaPaXkx2-3idfJ3VXYqStGpAA0jMVpGzs3sWf0/m3u8
