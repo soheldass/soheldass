@@ -210,6 +210,9 @@ http://192.168.81.2/hlsHD/Goldmines/devilBox.m3u8
 #EXTINF:-1,tvg-logo="https://m3u-editor.com/storage/channel-logos/da14b440-b6ba-11ee-a370-b72d30e3f5e7/6075785/1057987410.png"group-title="sohel=hindi-movies",goldmines movies
 http://192.168.81.2/hlsHD/GOLDMINESMOVIES/devilBox.m3u8
 
+#EXTINF:-1,tvg-logo="https://m3u-editor.com/storage/channel-logos/630599c0-bc73-11ee-9124-2510a949dcf6/6122739/1067993803.png"group-title="sohel=hindi-movies",star gold romance
+http://103.132.181.118:82/play/a00m
+
 #EXTINF:-1,tvg-logo="https://m3u-editor.com/storage/channel-logos/da14b440-b6ba-11ee-a370-b72d30e3f5e7/6075785/1057987411.png"group-title="sohel=hindi-movies",goldmines bollywood
 http://192.168.81.2/hlsHD/GoldminesBollywood/devilBox.m3u8
 
