@@ -514,7 +514,7 @@ https://freehdgames.lol/chunklist/hlsch21.m3u8
 #EXTINF:-1,tvg-logo="https://m3u-editor.com/storage/channel-logos/630599c0-bc73-11ee-9124-2510a949dcf6/6122739/1067394587.png"group-title="sohel=sports",bein sports extra
 http://136.175.8.181:18000/c25390e50e2b4849bc34ed742f92175a/hls/playlist.m3u8
 
-#EXTINF:-1,tvg-logo="https://m3u-editor.com/storage/channel-logos/da14b440-b6ba-11ee-a370-b72d30e3f5e7/6075785/1057007300.jpg"group-title="sohel=bangladeshi",btv world
+#EXTINF:-1,tvg-logo="https://m3u-editor.com/storage/channel-logos/da14b440-b6ba-11ee-a370-b72d30e3f5e7/6075785/1057007300.jpg"group-title="sohel=bdix",btv world
 http://cdn01.palki.tv/live/BTVWorld-M/index.m3u8
 
 #EXTINF:-1,"tvg-logo="https://images.toffeelive.com/images/program/692/logo/240x240/mobile_logo_317599001655891632.png",group-title="sohel=bdix",ANANDA BDIX
