@@ -439,7 +439,7 @@ http://tv.bdvision.live:8080/play/chXzkkaPaXkx2-3idfJ3Vfs0SGCFVNsy_IOWX9XV7SE/m3
 http://tv.bdvision.live:8080/play/chXzkkaPaXkx2-3idfJ3VQK9Q09u_dIWq7JRUpbaZ6I/m3u8
 
 #EXTINF:-1,tvg-logo="https://m3u-editor.com/storage/channel-logos/da14b440-b6ba-11ee-a370-b72d30e3f5e7/6075785/1058617227.png"group-title="sohel=sports",t-sport
-http://113.212.111.246:8080/hls/col12.m3u8
+http://192.168.81.2/hlsHD/TSPORTS/devilBox.m3u8
 
 #EXTINF:-1,tvg-logo="https://m3u-editor.com/storage/channel-logos/da14b440-b6ba-11ee-a370-b72d30e3f5e7/6075785/1058617227.png"group-title="sohel=sports",t-sports hd
 http://tv.bdvision.live:8080/play/chXzkkaPaXkx2-3idfJ3VWVh7lrd8FaUrUEJZ2WPErQ/m3u8
