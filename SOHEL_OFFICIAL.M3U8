@@ -123,7 +123,7 @@ http://tv.bdvision.live:8080/play/chXzkkaPaXkx2-3idfJ3VZQfNg8RL-JiaCLA3lMwras/m3
 #EXTINF:-1,tvg-logo="https://m3u-editor.com/storage/channel-logos/630599c0-bc73-11ee-9124-2510a949dcf6/6122739/1071280920.png"grouo-title="sohel=bangladeshi",m movies
 http://tv.bdvision.live:8080/play/chXzkkaPaXkx2-3idfJ3VabHDMJc1sQfW5HdlN3XJoE/m3u8
 
-EXTINF:-1,tgv-logo="https://m3u-editor.com/storage/channel-logos/630599c0-bc73-11ee-9124-2510a949dcf6/6122739/1071500730.png"group-title="sohel=bangladeshi",T play tv
+#EXTINF:-1,tgv-logo="https://m3u-editor.com/storage/channel-logos/630599c0-bc73-11ee-9124-2510a949dcf6/6122739/1071500730.png"group-title="sohel=bangladeshi",T play tv
 https://live-global-cdn-v02.afreecatv.com/live-stm-15/auth_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.klc6tCFVoybuoFT1hf9h7Sx5DAv4Nv4sSKtBSMGnNja8cdor0BFhl_hcR0FWRc0Sl8C12ZULTTaecm23EBB2HA.m3u8
 
 #EXTINF:-1,tvg-logo="https://m3u-editor.com/storage/channel-logos/da14b440-b6ba-11ee-a370-b72d30e3f5e7/6075785/1057657887.png"group-title="sohel=kolkata",star jalsha
