@@ -120,6 +120,9 @@ https://live-stream.utkalbongo.com/utkalbongo/stream10/hls/amarbangla.m3u8
 #EXTINF:-1,tvg-logo="https://m3u-editor.com/storage/channel-logos/630599c0-bc73-11ee-9124-2510a949dcf6/6122739/1069256296.png"group-title="sohel=bangladeshi",bongo cinema
 http://tv.bdvision.live:8080/play/chXzkkaPaXkx2-3idfJ3VZQfNg8RL-JiaCLA3lMwras/m3u8
 
+#EXTINF:-1,tvg-logo="https://m3u-editor.com/storage/channel-logos/630599c0-bc73-11ee-9124-2510a949dcf6/6122739/1071280920.png"grouo-title="sohel=bangladeshi",m movies
+http://tv.bdvision.live:8080/play/chXzkkaPaXkx2-3idfJ3VabHDMJc1sQfW5HdlN3XJoE/m3u8
+
 #EXTINF:-1,tvg-logo="https://m3u-editor.com/storage/channel-logos/da14b440-b6ba-11ee-a370-b72d30e3f5e7/6075785/1057657887.png"group-title="sohel=kolkata",star jalsha
 http://45.127.56.3:9698/live/Corpus-POL/SRV4/3/STAR-JALSHA/video.m3u8
 
@@ -144,8 +147,14 @@ http://192.168.81.2/hlsHD/ColorsBanglaHD/devilBox.m3u8
 #EXTINF:-1,tvg-logo="https://m3u-editor.com/storage/channel-logos/da14b440-b6ba-11ee-a370-b72d30e3f5e7/6075785/1057657895.png"group-title="sohel=kolkata",enter 10 bangla
 http://192.168.81.2/hlsHD/Enterr10Bangla/devilBox.m3u8
 
+#EXTINF:-1,tvg-logo="https://m3u-editor.com/storage/channel-logos/da14b440-b6ba-11ee-a370-b72d30e3f5e7/6075785/1057657895.png"group-title="sohel=kolkata",enter 10 bangla bdix
+http://tv.bdvision.live:8080/play/chXzkkaPaXkx2-3idfJ3VTyy-vgwLCgHqtlJmA7fJWI/m3u8
+
 #EXTINF:-1,tvg-logo="https://m3u-editor.com/storage/channel-logos/da14b440-b6ba-11ee-a370-b72d30e3f5e7/6075785/1057632892.png"group-title="sohel=kolkata",sun bangla
 http://192.168.81.2/hlsHD/SUNBANGLA/devilBox.m3u8
+
+#EXTINF:-1,tvg-logo="https://m3u-editor.com/storage/channel-logos/da14b440-b6ba-11ee-a370-b72d30e3f5e7/6075785/1057632892.png"group-title="sohel=kolkata",sun bangla bdix
+http://tv.bdvision.live:8080/play/chXzkkaPaXkx2-3idfJ3VY47hjCheXDCp813RMBOXiU/m3u8
 
 #EXTINF:-1,tvg-logo="https://m3u-editor.com/storage/channel-logos/da14b440-b6ba-11ee-a370-b72d30e3f5e7/6075785/1057658613.png"group-title="sohel=kolkata",sony aath
 http://45.127.56.3:9698/live/Corpus-POL/SRV4/1/SONY-AATH/video.m3u8
