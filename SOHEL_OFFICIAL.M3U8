@@ -579,6 +579,9 @@ http://cdn01.palki.tv/live/NexusTV-M/index.m3u8
 #EXTINF:-1,tvg-logo="https://m3u-editor.com/storage/channel-logos/630599c0-bc73-11ee-9124-2510a949dcf6/6122739/1066731548.png"group-title="sohel=bdix",maasranga tv bdix
 http://cdn01.palki.tv/live/MaasrangaTV-M/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1,tvg-logo="https://m3u-editor.com/storage/channel-logos/c1f143e0-c249-11ee-b1d1-a7d47c91dad0/6178699/1074376847.png"group-title="sohel=bdix",Duronto bdix
+http://cdn01.palki.tv/live/Duronto-M/index.m3u8
+
 #EXTINF:-1,tvg-logo="https://m3u-editor.com/storage/channel-logos/da14b440-b6ba-11ee-a370-b72d30e3f5e7/6075785/1057010843.png"group-title="sohel=bdix",satv bdix
 http://cdn01.palki.tv/live/SATV-M/tracks-v1a1/mono.m3u8
 
