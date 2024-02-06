@@ -163,7 +163,7 @@ http://tv.bdvision.live:8080/play/chXzkkaPaXkx2-3idfJ3VY47hjCheXDCp813RMBOXiU/m3
 http://45.127.56.3:9698/live/Corpus-POL/SRV4/1/SONY-AATH/video.m3u8
 
 #EXTINF:-1,tvg-logo="https://m3u-editor.com/storage/channel-logos/da14b440-b6ba-11ee-a370-b72d30e3f5e7/6075785/1057658614.png"group-title="sohel=kolkata",zee bangla cinema
-http://192.168.81.2/hlsHD/ZeeBanglaCinema/devilBox.m3u8
+http://tv.digitalliveonly.xyz:8880/live/arjun068/arjun068/2351.m3u8
 
 #EXTINF:-1,tvg-logo="https://m3u-editor.com/storage/channel-logos/da14b440-b6ba-11ee-a370-b72d30e3f5e7/6075785/1057658614.png"group-title="sohel=kolkata",zee bangla cinema sd
 http://tv.bdvision.live:8080/play/chXzkkaPaXkx2-3idfJ3VWQiVY74puNtVvwzOPirprA/m3u8
@@ -181,7 +181,7 @@ http://45.127.56.3:9698/live/Corpus-POL/SRV4/3/STAR-JALSHA-MOVIES-HD/video.m3u8
 http://103.145.48.150:90/laosat23/taratv/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1,tvg-logo="https://m3u-editor.com/storage/channel-logos/da14b440-b6ba-11ee-a370-b72d30e3f5e7/6075785/1057632893.png"group-title="sohel=kolkata",sun bangla cinema
-http://tv.bdvision.live:8080/play/chXzkkaPaXkx2-3idfJ3VYHACOko6SB8ePetHtCOAHI/m3u8
+http://tv.digitalliveonly.xyz:8880/live/arjun068/arjun068/15182.m3u8
 
 #EXTINF:-1,tvg-logo="https://m3u-editor.com/storage/channel-logos/da14b440-b6ba-11ee-a370-b72d30e3f5e7/6075785/1057658619.png"group-title="sohel=kolkata",sananda tv
 http://tv.bdvision.live:8080/play/chXzkkaPaXkx2-3idfJ3Vfx5NDZU1ACtWF-aZyyXN8g/m3u8
@@ -229,7 +229,7 @@ http://192.168.81.2/hlsHD/Goldmines/devilBox.m3u8
 http://192.168.81.2/hlsHD/GOLDMINESMOVIES/devilBox.m3u8
 
 #EXTINF:-1,tvg-logo="https://m3u-editor.com/storage/channel-logos/630599c0-bc73-11ee-9124-2510a949dcf6/6122739/1067993803.png"group-title="sohel=hindi-movies",star gold romance
-http://tv.bdvision.live:8080/play/chXzkkaPaXkx2-3idfJ3VeA30G30juPFB9ikJLO8QP0/m3u8
+http://tv.digitalliveonly.xyz:8880/live/arjun068/arjun068/3436.m3u8
 
 #EXTINF:-1,tvg-logo="https://m3u-editor.com/storage/channel-logos/da14b440-b6ba-11ee-a370-b72d30e3f5e7/6075785/1057987411.png"group-title="sohel=hindi-movies",goldmines bollywood
 http://192.168.81.2/hlsHD/GoldminesBollywood/devilBox.m3u8
@@ -257,6 +257,15 @@ http://192.168.81.2/hlsHD/Dhinchaak2/devilBox.m3u8
 
 #EXTINF:-1,tvg-logo="https://m3u-editor.com/storage/channel-logos/da14b440-b6ba-11ee-a370-b72d30e3f5e7/6075785/1058015391.png"group-title="sohel=hindi-movies",hollywood hd
 http://192.168.81.2/hlsHD/HollywoodHD/devilBox.m3u8
+
+#EXTINF:-1,tvg-logo="https://m3u-editor.com/storage/channel-logos/c1f143e0-c249-11ee-b1d1-a7d47c91dad0/6178699/1077673893.png"group-title="sohel=hindi-movies",mn+ hd
+http://tv.digitalliveonly.xyz:8880/live/arjun068/arjun068/4649.m3u8
+
+#EXTINF:-1,tvg-logo="https://m3u-editor.com/storage/channel-logos/c1f143e0-c249-11ee-b1d1-a7d47c91dad0/6178699/1077673897.png"group-title="sohel=hindi-movies",mnx hd
+http://tv.digitalliveonly.xyz:8880/live/arjun068/arjun068/4605.m3u8
+
+#EXTINF:-1,tvg-logo="https://m3u-editor.com/storage/channel-logos/c1f143e0-c249-11ee-b1d1-a7d47c91dad0/6178699/1077673905.png"group-title="sohel=hindi-movies", and prive hd
+http://tv.digitalliveonly.xyz:8880/live/arjun068/arjun068/1431.m3u8
 
 #EXTINF:-1,tvg-logo="https://m3u-editor.com/storage/channel-logos/630599c0-bc73-11ee-9124-2510a949dcf6/6122739/1066276328.png"group-title="sohel=hindi-movies",enter 10hd
 http://longstream-04.ajaah.com/PlayBoxTV/Enter10/Enter10_1/stream.m3u8
@@ -295,7 +304,7 @@ http://tv.bdvision.live:8080/play/chXzkkaPaXkx2-3idfJ3Vd67wbo5FqRtEGztZnRIIS4/m3
 http://192.168.81.2/hlsHD/StarPlusHD/devilBox.m3u8
 
 #EXTINF:-1,tvg-logo="https://m3u-editor.com/storage/channel-logos/da14b440-b6ba-11ee-a370-b72d30e3f5e7/6075785/1058269416.png"group-title="sohel=entertainment",star plus
-http://tv.bdvision.live:8080/play/chXzkkaPaXkx2-3idfJ3VZFW1IpCQJn-ZBPYz5ClcmA/m3u8
+http://tv.digitalliveonly.xyz:8880/live/arjun068/arjun068/1485.m3u8
 
 #EXTINF:-1,tvg-logo="https://m3u-editor.com/storage/channel-logos/da14b440-b6ba-11ee-a370-b72d30e3f5e7/6075785/1058275007.png"group-title="sohel=entertainment",zee tv hd
 http://192.168.81.2/hlsHD/ZeeTVHD/devilBox.m3u8
@@ -439,7 +448,7 @@ http://103.109.56.116/live/skyfeed1002/index.m3u8
 http://103.109.56.116/live/skyfeed1003/index.m3u8
 
 #EXTINF:-1,tvg-logo="https://m3u-editor.com/storage/channel-logos/da14b440-b6ba-11ee-a370-b72d30e3f5e7/6075785/1058627368.png"group-title="sohel=sports",star sports hd
-https://lamsom.co.uk/crichd/crichd.php?e=.m3u8&id=starhindi8
+http://tv.digitalliveonly.xyz:8880/live/arjun068/arjun068/4527.m3u8
 
 #EXTINF:-1,tvg-logo="https://m3u-editor.com/storage/channel-logos/da14b440-b6ba-11ee-a370-b72d30e3f5e7/6075785/1058617367.png"group-title="sohel=sports",sony sports 1bdix
 http://103.109.56.116/live/skyfeed1007/index.m3u8
