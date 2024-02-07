@@ -391,7 +391,7 @@ http://192.168.81.2/hlsHD/B4UMusic/devilBox.m3u8
 http://192.168.81.2/hlsHD/SHOWBOX/devilBox.m3u8
 
 #EXTINF:-1,tvg-logo="https://m3u-editor.com/storage/channel-logos/da14b440-b6ba-11ee-a370-b72d30e3f5e7/6075785/1058471691.png"group-title="sohel=music",zoom
-http://tv.bdvision.live:8080/play/chXzkkaPaXkx2-3idfJ3VSnTMI1qQ__DbqNcC5TQh64/m3u8
+http://tv.digitalliveonly.xyz:8880/live/arjun068/arjun068/4245.m3u8
 
 #EXTINF:-1,tvg-logo="https://m3u-editor.com/storage/channel-logos/da14b440-b6ba-11ee-a370-b72d30e3f5e7/6075785/1058471690.png"group-title="sohel=music",sangeet bangla
 http://longstream-03.ajaah.com/PlayBoxTV/SangeetBangla/playlist.m3u8
@@ -406,7 +406,7 @@ https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Musicindia/default/index.m3u8
 http://longstream-04.ajaah.com/PlayBoxTV/E24/playlist.m3u8
 
 #EXTINF:-1,tvg-logo="https://m3u-editor.com/storage/channel-logos/da14b440-b6ba-11ee-a370-b72d30e3f5e7/6075785/1058468830.png"group-title="sohel=music",9x jalwa
-http://tv.bdvision.live:8080/play/chXzkkaPaXkx2-3idfJ3VdK98s-sjRAUkvUUINgcyvU/m3u8
+http://tv.digitalliveonly.xyz:8880/live/arjun068/arjun068/1359.m3u8
 
 #EXTINF:-1,tvg-logo="https://m3u-editor.com/storage/channel-logos/da14b440-b6ba-11ee-a370-b72d30e3f5e7/6075785/1058468829.png"group-title="sohel=music",bdvision music
 http://tv.digitalliveonly.xyz:8880/live/arjun068/arjun068/15745.m3u8
