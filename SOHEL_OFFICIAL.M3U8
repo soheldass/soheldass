@@ -123,7 +123,7 @@ http://tv.bdvision.live:8080/play/chXzkkaPaXkx2-3idfJ3VZQfNg8RL-JiaCLA3lMwras/m3
 #EXTINF:-1,tvg-logo="https://m3u-editor.com/storage/channel-logos/630599c0-bc73-11ee-9124-2510a949dcf6/6122739/1071280920.png"group-title="sohel=bangladeshi",m movies
 http://tv.bdvision.live:8080/play/chXzkkaPaXkx2-3idfJ3VabHDMJc1sQfW5HdlN3XJoE/m3u8
 
-#EXTINF:-1,tgv-logo="https://m3u-editor.com/storage/channel-logos/630599c0-bc73-11ee-9124-2510a949dcf6/6122739/1071500730.png"group-title="sohel=bangladeshi",T-play tv 
+#EXTINF:-1,tvg-logo="https://m3u-editor.com/storage/channel-logos/630599c0-bc73-11ee-9124-2510a949dcf6/6122739/1071500730.png"group-title="sohel=bangladeshi",T-play tv 
 http://tv.digitalliveonly.xyz:8880/live/arjun068/arjun068/14614.m3u8
 
 #EXTINF:-1,tvg-logo="https://m3u-editor.com/storage/channel-logos/da14b440-b6ba-11ee-a370-b72d30e3f5e7/6075785/1057657887.png"group-title="sohel=kolkata",star jalsha
@@ -660,10 +660,10 @@ http://line.tivi-one.net/live/RLHNCDE/N0iE82ur6Z/373204.m3u8
 #EXTINF:-1,tvg-logo="https://m3u-editor.com/storage/channel-logos/c1f143e0-c249-11ee-b1d1-a7d47c91dad0/6178699/1079565613.png"group-title="sohel=ipl",STAR SPORTS 3 AIRTEL
 http://line.tivi-one.net/live/RLHNCDE/N0iE82ur6Z/373203.m3u8
 
-#EXTINF:-1,tgv-logo="https://m3u-editor.com/storage/channel-logos/c1f143e0-c249-11ee-b1d1-a7d47c91dad0/6178699/1079571171.png"group-title="sohel=ipl",STAR SPORTS SELECT HD AIRTEL 
+#EXTINF:-1,tvg-logo="https://m3u-editor.com/storage/channel-logos/c1f143e0-c249-11ee-b1d1-a7d47c91dad0/6178699/1079571171.png"group-title="sohel=ipl",STAR SPORTS SELECT HD AIRTEL 
 http://line.tivi-one.net/live/RLHNCDE/N0iE82ur6Z/373202.m3u8
 
-#EXTINF:-1,tgv-logo="https://m3u-editor.com/storage/channel-logos/c1f143e0-c249-11ee-b1d1-a7d47c91dad0/6178699/1079575676.png"group-title="sohel=ipl",STAR SPORTS SELECT 2HD AIRTEL
+#EXTINF:-1,tvg-logo="https://m3u-editor.com/storage/channel-logos/c1f143e0-c249-11ee-b1d1-a7d47c91dad0/6178699/1079575676.png"group-title="sohel=ipl",STAR SPORTS SELECT 2HD AIRTEL
 http://line.tivi-one.net/live/RLHNCDE/N0iE82ur6Z/373201.m3u8
 
 #EXTINF:-1,tvg-logo="https://m3u-editor.com/storage/channel-logos/da14b440-b6ba-11ee-a370-b72d30e3f5e7/6075785/1058617367.png"group-title="sohel=ipl",SONY SPORTS 1 HD AIRTEL 
@@ -699,13 +699,13 @@ http://line.tivi-one.net/live/RLHNCDE/N0iE82ur6Z/373073.m3u8
 #EXTINF:-1,tvg-logo="https://m3u-editor.com/storage/channel-logos/da14b440-b6ba-11ee-a370-b72d30e3f5e7/6075785/1058025841.png"group-title="sohel=ipl",SONY PIX HD AIRTEL 
 http://line.tivi-one.net/live/RLHNCDE/N0iE82ur6Z/373072.m3u8
 
-#EXTINF:-1,SONY BBC EARTH HD AIRTEL 
+#EXTINF:-1,tvg-logo="https://m3u-editor.com/storage/channel-logos/c1f143e0-c249-11ee-b1d1-a7d47c91dad0/6178699/1080025003.png"group-title="sohel=ipl",SONY BBC EARTH HD AIRTEL 
 http://line.tivi-one.net/live/RLHNCDE/N0iE82ur6Z/373071.m3u8
 
-#EXTINF:-1,COLORS HD AIRTEL 
+#EXTINF:-1,tvg-logo="https://m3u-editor.com/storage/channel-logos/c1f143e0-c249-11ee-b1d1-a7d47c91dad0/6178699/1080025885.png"group-title="sohel=ipl",COLORS HD AIRTEL 
 http://line.tivi-one.net/live/RLHNCDE/N0iE82ur6Z/373065.m3u8
 
-#EXTINF:-1,ZOOM MUSIC AIRTEL
+#EXTINF:-1,tvg-logo="https://m3u-editor.com/storage/channel-logos/c1f143e0-c249-11ee-b1d1-a7d47c91dad0/6178699/1080025887.png"group-title="sohel=ipl",ZOOM HD AIRTEL 
 http://line.tivi-one.net/live/RLHNCDE/N0iE82ur6Z/373061.m3u8
 
 #EXTINF:-1,tvg-logo="https://m3u-editor.com/storage/channel-logos/da14b440-b6ba-11ee-a370-b72d30e3f5e7/6075785/1057986312.png"group-title="sohel=ipl",AND PICTURE HD AIRTEL 
@@ -714,16 +714,16 @@ http://line.tivi-one.net/live/RLHNCDE/N0iE82ur6Z/373057.m3u8
 #EXTINF:-1,tvg-logo="https://m3u-editor.com/storage/channel-logos/da14b440-b6ba-11ee-a370-b72d30e3f5e7/6075785/1058025723.png"group-title="sohel=ipl",ZEE ACTION AIRTEL
 http://line.tivi-one.net/live/RLHNCDE/N0iE82ur6Z/671563.m3u8
 
-#EXTINF:-1,AND TV HD AIRTEL 
+#EXTINF:-1,tvg-logo="https://m3u-editor.com/storage/channel-logos/c1f143e0-c249-11ee-b1d1-a7d47c91dad0/6178699/1080025888.png"group-title="sohel=ipl",AND TV HD AIRTEL
 http://line.tivi-one.net/live/RLHNCDE/N0iE82ur6Z/373056.m3u8
 
-#EXTINF:-1,animal Planet hd AIRTEL
+#EXTINF:-1,tvg-logo="https://m3u-editor.com/storage/channel-logos/c1f143e0-c249-11ee-b1d1-a7d47c91dad0/6178699/1080028710.png"group-title="sohel=ipl",ANIMAL PLANET HD AIRTEL
 http://line.tivi-one.net/live/RLHNCDE/N0iE82ur6Z/373055.m3u8
 
 #EXTINF:-1,tvg-logo="https://m3u-editor.com/storage/channel-logos/630599c0-bc73-11ee-9124-2510a949dcf6/6122739/1069215724.png"group-title="sohel=ipl",CINEPLEX HD AIRTEL 
 http://line.tivi-one.net/live/RLHNCDE/N0iE82ur6Z/373051.m3u8
 
-#EXTINF:-1,DISCOVER HD AIRTEL 
+#EXTINF:-1,tvg-logo="https://m3u-editor.com/storage/channel-logos/c1f143e0-c249-11ee-b1d1-a7d47c91dad0/6178699/1080037002.png"group-title="sohel=ipl",DISCOVERY HD AIRTEL
 http://line.tivi-one.net/live/RLHNCDE/N0iE82ur6Z/373036.m3u8
 
 #EXTINF:-1,MINIPILX HD AIRTEL 
