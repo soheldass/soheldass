@@ -279,7 +279,7 @@ http://45.127.56.3:9698/live/Corpus-POL/SRV4/1/STAR-MOVIES-HD/video.m3u8
 #EXTINF:-1,tvg-logo="https://m3u-editor.com/storage/channel-logos/c1f143e0-c249-11ee-b1d1-a7d47c91dad0/6178699/1077265788.png"group-title="sohel=hindi-movies",star movies Select hd
 http://tv.digitalliveonly.xyz:8880/live/arjun068/arjun068/4238.m3u8
 
-#EXTINF:-1,tvg-logo="https://m3u-editor.com/storage/channel-logos/da14b440-b6ba-11ee-a370-b72d30e3f5e7/6075785/1058015722.png"group-title="sohel=hindi-movies",star maa movies
+#EXTINF:-1,tvg-logo="https://m3u-editor.com/storage/channel-logos/c1f143e0-c249-11ee-b1d1-a7d47c91dad0/6178699/1080108318.png"group-title="sohel=hindi-movies",star maa movies
 http://45.127.56.3:6699/live/Corpus-POL1/SRV5/3/STAR-MAA-HD/live.mpd
 
 #EXTINF:-1,tvg-logo="https://m3u-editor.com/storage/channel-logos/da14b440-b6ba-11ee-a370-b72d30e3f5e7/6075785/1058025723.png"group-title="sohel=hindi-movies",zee action
