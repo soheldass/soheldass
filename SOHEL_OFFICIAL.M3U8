@@ -108,8 +108,8 @@ http://tv.digitalliveonly.xyz:8880/live/arjun068/arjun068/15892.m3u8
 #EXTINF:-1,tvg-logo="https://m3u-editor.com/storage/channel-logos/da14b440-b6ba-11ee-a370-b72d30e3f5e7/6075785/1057630425.png"group-title="sohel=bangladeshi",duronto tv
 http://192.168.81.2/hlsHD/DurontoTV/devilBox.m3u8
 
-#EXTINF:-1,tvg-logo="https://m3u-editor.com/storage/channel-logos/da14b440-b6ba-11ee-a370-b72d30e3f5e7/6075785/1057630427.png"group-title="sohel=bangladeshi",gazi tv hd
-http://103.175.242.10:8080/live/gtv/tracks-v1a1/mono.m3u8
+#EXTINF:-1,tvg-logo="https://m3u-editor.com/storage/channel-logos/da14b440-b6ba-11ee-a370-b72d30e3f5e7/6075785/1057630427.png"group-title="sohel=bpl",gazi tv hd
+http://tv.bdvision.live:8080/play/chXzkkaPaXkx2-3idfJ3VZbAp4TrCrmdiDw95YicsJk/m3u8
 
 #EXTINF:-1,tvg-logo="https://m3u-editor.com/storage/channel-logos/da14b440-b6ba-11ee-a370-b72d30e3f5e7/6075785/1057630427.png"group-title="sohel=bangladeshi",gtv hd
 http://192.168.81.2/hlsHD/GaziTv/devilBox.m3u8
@@ -474,16 +474,16 @@ http://tv.bdvision.live:8080/play/chXzkkaPaXkx2-3idfJ3VQK9Q09u_dIWq7JRUpbaZ6I/m3
 #EXTINF:-1,tvg-logo="https://m3u-editor.com/storage/channel-logos/da14b440-b6ba-11ee-a370-b72d30e3f5e7/6075785/1058617227.png"group-title="sohel=sports",t-sport
 http://192.168.81.2/hlsHD/TSPORTS/devilBox.m3u8
 
-#EXTINF:-1,tvg-logo="https://m3u-editor.com/storage/channel-logos/da14b440-b6ba-11ee-a370-b72d30e3f5e7/6075785/1058617227.png"group-title="sohel=sports",t-sports hd
+#EXTINF:-1,tvg-logo="https://m3u-editor.com/storage/channel-logos/da14b440-b6ba-11ee-a370-b72d30e3f5e7/6075785/1058617227.png"group-title="sohel=bpl",t-sports hd
 http://tv.bdvision.live:8080/play/chXzkkaPaXkx2-3idfJ3VWVh7lrd8FaUrUEJZ2WPErQ/m3u8
 
-#EXTINF:-1,tvg-logo="https://m3u-editor.com/storage/channel-logos/da14b440-b6ba-11ee-a370-b72d30e3f5e7/6075785/1058617227.png"group-title="sohel=sports",t-sports bdix
+#EXTINF:-1,tvg-logo="https://m3u-editor.com/storage/channel-logos/da14b440-b6ba-11ee-a370-b72d30e3f5e7/6075785/1058617227.png"group-title="sohel=bpl",t-sports bdix
 http://103.109.56.116/live/skyfeed1005/index.m3u8
 
-#EXTINF:-1,tvg-logo="https://m3u-editor.com/storage/channel-logos/da14b440-b6ba-11ee-a370-b72d30e3f5e7/6075785/1058612520.png"group-title="sohel=sports",bpl hd
+#EXTINF:-1,tvg-logo="https://m3u-editor.com/storage/channel-logos/da14b440-b6ba-11ee-a370-b72d30e3f5e7/6075785/1058612520.png"group-title="sohel=bpl",gazi tv bdix
 http://103.109.56.116/live/skyfeed1006/index.m3u8
 
-#EXTINF:-1,tvg-logo="https://m3u-editor.com/storage/channel-logos/630599c0-bc73-11ee-9124-2510a949dcf6/6122739/1069256335.png"group-title="sohel=sports",Ten sports hd
+#EXTINF:-1,tvg-logo="https://m3u-editor.com/storage/channel-logos/630599c0-bc73-11ee-9124-2510a949dcf6/6122739/1069256335.png"group-title="sohel=bpl",Ten sports hd
 http://tv.bdvision.live:8080/play/chXzkkaPaXkx2-3idfJ3VSAo6VJQ0IK7gQYZ4HE3VgA/m3u8
 
 #EXTINF:-1,tvg-logo="https://m3u-editor.com/storage/channel-logos/630599c0-bc73-11ee-9124-2510a949dcf6/6122739/1069256335.png"group-title="sohel=sports",Ten sports hd bdix
