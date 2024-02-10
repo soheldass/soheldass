@@ -109,7 +109,7 @@ http://tv.digitalliveonly.xyz:8880/live/arjun068/arjun068/15892.m3u8
 http://192.168.81.2/hlsHD/DurontoTV/devilBox.m3u8
 
 #EXTINF:-1,tvg-logo="https://m3u-editor.com/storage/channel-logos/da14b440-b6ba-11ee-a370-b72d30e3f5e7/6075785/1057630427.png"group-title="sohel=bpl",gazi tv hd
-http://tv.bdvision.live:8080/play/chXzkkaPaXkx2-3idfJ3VZbAp4TrCrmdiDw95YicsJk/m3u8
+http://starshare.live:8080/live/ColinBooysen/ColinBooysenCB/767.m3u8
 
 #EXTINF:-1,tvg-logo="https://m3u-editor.com/storage/channel-logos/da14b440-b6ba-11ee-a370-b72d30e3f5e7/6075785/1057630427.png"group-title="sohel=bangladeshi",gtv hd
 http://192.168.81.2/hlsHD/GaziTv/devilBox.m3u8
@@ -167,6 +167,9 @@ http://tv.digitalliveonly.xyz:8880/live/arjun068/arjun068/2351.m3u8
 
 #EXTINF:-1,tvg-logo="https://m3u-editor.com/storage/channel-logos/da14b440-b6ba-11ee-a370-b72d30e3f5e7/6075785/1057658614.png"group-title="sohel=kolkata",zee bangla cinema sd
 http://tv.bdvision.live:8080/play/chXzkkaPaXkx2-3idfJ3VWQiVY74puNtVvwzOPirprA/m3u8
+
+#EXTINF:-1,tvg-logo="https://m3u-editor.com/storage/channel-logos/da14b440-b6ba-11ee-a370-b72d30e3f5e7/6075785/1057658615.png"group-title="sohel=kolkata",colors bangla cinema bdix
+http://starshare.live:8080/live/ColinBooysen/ColinBooysenCB/271038.m3u8
 
 #EXTINF:-1,tvg-logo="https://m3u-editor.com/storage/channel-logos/da14b440-b6ba-11ee-a370-b72d30e3f5e7/6075785/1057658615.png"group-title="sohel=kolkata",colors bangla cinema
 http://tv.bdvision.live:8080/play/chXzkkaPaXkx2-3idfJ3VWRGWpbZdvo-WHZAjMPgYIw/m3u8
