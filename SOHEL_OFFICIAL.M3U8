@@ -301,7 +301,7 @@ http://idvd.multitvsolution.com/idvo/bflixmovies.m3u8
 http://192.168.81.2/hlsHD/ColorsTVHD/devilBox.m3u8
 
 #EXTINF:-1,tvg-logo="https://m3u-editor.com/storage/channel-logos/da14b440-b6ba-11ee-a370-b72d30e3f5e7/6075785/1058258600.png"group-title="sohel=entertainment",colors hd
-http://tv.bdvision.live:8080/play/chXzkkaPaXkx2-3idfJ3Vd67wbo5FqRtEGztZnRIIS4/m3u8
+http://pgplex.net:8080/ColorsHD/index.m3u8
 
 #EXTINF:-1,tvg-logo="https://m3u-editor.com/storage/channel-logos/da14b440-b6ba-11ee-a370-b72d30e3f5e7/6075785/1058269415.png"group-title="sohel=entertainment",star plus hd
 http://192.168.81.2/hlsHD/StarPlusHD/devilBox.m3u8
@@ -328,7 +328,7 @@ http://tv.bdvision.live:8080/play/chXzkkaPaXkx2-3idfJ3VYZHbSG7qWt2Icq8i-H92Vg/m3
 http://192.168.81.2/hlsHD/SonyEntertainmentHD/devilBox.m3u8
 
 #EXTINF:-1,tvg-logo="https://m3u-editor.com/storage/channel-logos/da14b440-b6ba-11ee-a370-b72d30e3f5e7/6075785/1058292221.png"group-title="sohel=entertainment",sony hd
-http://tv.bdvision.live:8080/play/chXzkkaPaXkx2-3idfJ3Vf2yPBn3TVIXAKEcClOeakA/m3u8
+http://pgplex.net:8080/SonyTVHD/index.m3u8
 
 #EXTINF:-1,tvg-logo="https://m3u-editor.com/storage/channel-logos/da14b440-b6ba-11ee-a370-b72d30e3f5e7/6075785/1058298530.png"group-title="sohel=entertainment",sony sab hd
 http://tv.bdvision.live:8080/play/chXzkkaPaXkx2-3idfJ3Ve_cfzMV03DYRn60wOCRfog/m3u8
