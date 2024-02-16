@@ -490,7 +490,7 @@ http://192.168.81.2/hlsHD/TSPORTS/devilBox.m3u8
 http://38.96.178.201/live/TSports/index.m3u8
 
 #EXTINF:-1,tvg-logo="https://m3u-editor.com/storage/channel-logos/da14b440-b6ba-11ee-a370-b72d30e3f5e7/6075785/1058617227.png"group-title="sohel=bpl",t-sports bdix
-http://pgplex.net:8080/BPL2024/index.m3u8
+http://38.96.178.201/live/TSports/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1,tvg-logo="https://m3u-editor.com/storage/channel-logos/da14b440-b6ba-11ee-a370-b72d30e3f5e7/6075785/1058612520.png"group-title="sohel=bpl",gazi tv bdix
 http://103.142.80.22:8080/Channel-1/index.m3u8
