@@ -4,7 +4,7 @@
 http://192.168.81.2/hlsHD/BTVWorld/devilBox.m3u8
 
 #EXTINF:-1,tvg-logo="https://m3u-editor.com/storage/channel-logos/630599c0-bc73-11ee-9124-2510a949dcf6/6122739/1065170384.png"group-title="sohel=bangladeshi",btv national hd
-http://cdn01.palki.tv/live/BTV-M/index.m3u8
+https://eamintalukdar.xyz/bioscope.php?id=btv-hd
 
 #EXTINF:-1,tvg-logo="https://m3u-editor.com/storage/channel-logos/da14b440-b6ba-11ee-a370-b72d30e3f5e7/6075785/1057008704.png"group-title="sohel=bangladeshi",somoy tv
 http://192.168.81.2/hlsHD/SOMOYTV/devilBox.m3u8
@@ -148,7 +148,7 @@ https://uniflixbd.xyz/unuse/payplay/live.php?id=a994bb5a55fc&e=.m3u8
 http://192.168.81.2/hlsHD/ZEEBANGLAHD/devilBox.m3u8
 
 #EXTINF:-1,tvg-logo="https://m3u-editor.com/storage/channel-logos/da14b440-b6ba-11ee-a370-b72d30e3f5e7/6075785/1057657893.png"group-title="sohel=kolkata",colors bangla
-http://pgplex.net:8080/ColorsBangla/index.m3u8
+https://eamintalukdar.xyz/bioscope.php?id=colors-bangla
 
 #EXTINF:-1,tvg-logo="https://m3u-editor.com/storage/channel-logos/da14b440-b6ba-11ee-a370-b72d30e3f5e7/6075785/1057657894.png"group-title="sohel=kolkata",colors bangla hd
 http://192.168.81.2/hlsHD/ColorsBanglaHD/devilBox.m3u8
@@ -175,7 +175,7 @@ http://tv.digitalliveonly.xyz:8880/live/arjun068/arjun068/2351.m3u8
 http://tv.bdvision.live:8080/play/chXzkkaPaXkx2-3idfJ3VWQiVY74puNtVvwzOPirprA/m3u8
 
 #EXTINF:-1,tvg-logo="https://m3u-editor.com/storage/channel-logos/da14b440-b6ba-11ee-a370-b72d30e3f5e7/6075785/1057658615.png"group-title="sohel=kolkata",colors bangla cinema bdix
-http://starshare.live:8080/live/ColinBooysen/ColinBooysenCB/271038.m3u8
+https://eamintalukdar.xyz/bioscope.php?id=colors-bangla-cinema
 
 #EXTINF:-1,tvg-logo="https://m3u-editor.com/storage/channel-logos/da14b440-b6ba-11ee-a370-b72d30e3f5e7/6075785/1057658615.png"group-title="sohel=kolkata",colors bangla cinema
 http://tv.bdvision.live:8080/play/chXzkkaPaXkx2-3idfJ3VWRGWpbZdvo-WHZAjMPgYIw/m3u8
@@ -334,10 +334,10 @@ http://tv.bdvision.live:8080/play/chXzkkaPaXkx2-3idfJ3VYZHbSG7qWt2Icq8i-H92Vg/m3
 http://192.168.81.2/hlsHD/SonyEntertainmentHD/devilBox.m3u8
 
 #EXTINF:-1,tvg-logo="https://m3u-editor.com/storage/channel-logos/da14b440-b6ba-11ee-a370-b72d30e3f5e7/6075785/1058292221.png"group-title="sohel=entertainment",sony hd
-http://pgplex.net:8080/SonyTVHD/index.m3u8
+https://eamintalukdar.xyz/bioscope.php?id=sony-hd-live
 
 #EXTINF:-1,tvg-logo="https://m3u-editor.com/storage/channel-logos/da14b440-b6ba-11ee-a370-b72d30e3f5e7/6075785/1058298530.png"group-title="sohel=entertainment",sony sab hd
-http://tv.bdvision.live:8080/play/chXzkkaPaXkx2-3idfJ3Ve_cfzMV03DYRn60wOCRfog/m3u8
+https://eamintalukdar.xyz/bioscope.php?id=sony-sab-tv-live
 
 #EXTINF:-1,tvg-logo="https://m3u-editor.com/storage/channel-logos/da14b440-b6ba-11ee-a370-b72d30e3f5e7/6075785/1058298530.png"group-title="sohel=entertainment",sony sab hd bdix
 http://tv.digitalliveonly.xyz:8880/live/arjun068/arjun068/1385.m3u8
@@ -376,7 +376,7 @@ http://192.168.81.2/hlsHD/NATIONALGEOGRAPHICHD/devilBox.m3u8
 http://mag.premiumplus.tv/play/live.php?mac=00:1A:79:61:4F:5D&stream=155989&extension=ts
 
 #EXTINF:-1,tvg-logo="https://m3u-editor.com/storage/channel-logos/da14b440-b6ba-11ee-a370-b72d30e3f5e7/6075785/1058413472.png"group-title="sohel=ducoment",sony bbc earth
-http://tv.bdvision.live:8080/play/Fv9Q7rUIs_2IjMLCvGCDNiV9WAM1z0KFae7DKCBpvSw/m3u8
+https://eamintalukdar.xyz/bioscope.php?id=colors-bangla
 
 #EXTINF:-1,tvg-logo="https://m3u-editor.com/storage/channel-logos/da14b440-b6ba-11ee-a370-b72d30e3f5e7/6075785/1058413499.png"group-title="sohel=ducoment",travelxp
 http://tv.bdvision.live:8080/play/chXzkkaPaXkx2-3idfJ3VfnoR2ch0oX5s_T_p6icEko/m3u8
