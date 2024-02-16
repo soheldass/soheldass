@@ -109,7 +109,7 @@ http://tv.digitalliveonly.xyz:8880/live/arjun068/arjun068/15892.m3u8
 http://192.168.81.2/hlsHD/DurontoTV/devilBox.m3u8
 
 #EXTINF:-1,tvg-logo="https://m3u-editor.com/storage/channel-logos/da14b440-b6ba-11ee-a370-b72d30e3f5e7/6075785/1057630427.png"group-title="sohel=bpl",gazi tv hd
-http://103.77.218.14:8082/Gazitv/index.m3u8
+http://bcdn.bdixsports.live:1935/event/cric4.stream/chunklist_w1430134853.m3u8
 
 #EXTINF:-1,tvg-logo="https://m3u-editor.com/storage/channel-logos/da14b440-b6ba-11ee-a370-b72d30e3f5e7/6075785/1057630427.png"group-title="sohel=bangladeshi",gtv hd
 http://192.168.81.2/hlsHD/GaziTv/devilBox.m3u8
