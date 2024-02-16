@@ -393,6 +393,9 @@ http://192.168.81.2/hlsHD/Masti/devilBox.m3u8
 #EXTINF:-1,tvg-logo="https://m3u-editor.com/storage/channel-logos/da14b440-b6ba-11ee-a370-b72d30e3f5e7/6075785/1058471725.png"group-title="sohel=music",mtv beats
 http://192.168.81.2/hlsHD/MTVBeats/devilBox.m3u8
 
+#EXTINF:-1,tvg-logo="https://m3u-editor.com/storage/channel-logos/cfe1d570-c9a6-11ee-9011-cf1e67da6a0e/6243657/1087415341.png"group-title="sohel=music",Mtv India 
+https://uniflixbd.xyz/unuse/payplay/live.php?id=915b9492fc1d&e=.m3u8
+
 #EXTINF:-1,tvg-logo="https://m3u-editor.com/storage/channel-logos/da14b440-b6ba-11ee-a370-b72d30e3f5e7/6075785/1058471724.png"group-title="sohel=music",b4u music
 http://192.168.81.2/hlsHD/B4UMusic/devilBox.m3u8
 
