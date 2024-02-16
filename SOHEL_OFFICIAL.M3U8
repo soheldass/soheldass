@@ -67,7 +67,7 @@ http://192.168.81.2/hlsHD/DeeptoTVHD/devilBox.m3u8
 http://192.168.81.2/hlsHD/EkattorTVHD/devilBox.m3u8
 
 #EXTINF:-1,tvg-logo="https://m3u-editor.com/storage/channel-logos/630599c0-bc73-11ee-9124-2510a949dcf6/6122739/1067384264.png"group-title="sohel=bangladeshi",nagorik tv
-http://tv.bdvision.live:8080/play/chXzkkaPaXkx2-3idfJ3VTQITrTavAgk1lrA7n6ACb0/m3u8
+https://bd-sajib924.000webhostapp.com/api.php?id=1113
 
 #EXTINF:-1,tvg-logo="https://m3u-editor.com/storage/channel-logos/da14b440-b6ba-11ee-a370-b72d30e3f5e7/6075785/1057010846.png"group-title="sohel=bangladeshi",asian tv
 http://192.168.81.2/hlsHD/asiantvHD/devilBox.m3u8
@@ -109,10 +109,10 @@ http://tv.digitalliveonly.xyz:8880/live/arjun068/arjun068/15892.m3u8
 http://192.168.81.2/hlsHD/DurontoTV/devilBox.m3u8
 
 #EXTINF:-1,tvg-logo="https://m3u-editor.com/storage/channel-logos/da14b440-b6ba-11ee-a370-b72d30e3f5e7/6075785/1057630427.png"group-title="sohel=bpl",gazi tv hd
-http://bcdn.bdixsports.live:1935/event/cric4.stream/chunklist_w1430134853.m3u8
+https://bd-sajib924.000webhostapp.com/api.php?id=1102
 
 #EXTINF:-1,tvg-logo="https://m3u-editor.com/storage/channel-logos/da14b440-b6ba-11ee-a370-b72d30e3f5e7/6075785/1057630427.png"group-title="sohel=bangladeshi",gtv hd
-http://192.168.81.2/hlsHD/GaziTv/devilBox.m3u8
+http://103.142.80.22:8080/GAZI/index.m3u8
 
 #EXTINF:-1,tvg-logo="https://m3u-editor.com/storage/channel-logos/da14b440-b6ba-11ee-a370-b72d30e3f5e7/6075785/1058627619.png"group-title="sohel=bangladeshi",amar bangla
 https://live-stream.utkalbongo.com/utkalbongo/stream10/hls/amarbangla.m3u8
@@ -487,7 +487,7 @@ http://tv.bdvision.live:8080/play/chXzkkaPaXkx2-3idfJ3VQK9Q09u_dIWq7JRUpbaZ6I/m3
 http://192.168.81.2/hlsHD/TSPORTS/devilBox.m3u8
 
 #EXTINF:-1,tvg-logo="https://m3u-editor.com/storage/channel-logos/da14b440-b6ba-11ee-a370-b72d30e3f5e7/6075785/1058617227.png"group-title="sohel=bpl",t-sports HD
-http://38.96.178.201/live/TSports/index.m3u8
+https://bd-sajib924.000webhostapp.com/api.php?id=1101
 
 #EXTINF:-1,tvg-logo="https://m3u-editor.com/storage/channel-logos/da14b440-b6ba-11ee-a370-b72d30e3f5e7/6075785/1058617227.png"group-title="sohel=bpl",t-sports bdix
 http://38.96.178.201/live/TSports/tracks-v1a1/mono.m3u8
