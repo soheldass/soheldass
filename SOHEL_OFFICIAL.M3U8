@@ -286,7 +286,7 @@ http://192.168.81.2/hlsHD/DDNATIONALHD/devilBox.m3u8
 http://45.127.56.3:9698/live/Corpus-POL/SRV4/1/STAR-MOVIES-HD/video.m3u8
 
 #EXTINF:-1,tvg-logo="https://m3u-editor.com/storage/channel-logos/c1f143e0-c249-11ee-b1d1-a7d47c91dad0/6178699/1077265788.png"group-title="sohel=hindi-movies",star movies Select hd
-http://tv.digitalliveonly.xyz:8880/live/arjun068/arjun068/4238.m3u8
+http://103.131.214.129:9985/stream/channelid/39622498
 
 #EXTINF:-1,tvg-logo="https://m3u-editor.com/storage/channel-logos/c1f143e0-c249-11ee-b1d1-a7d47c91dad0/6178699/1080108318.png"group-title="sohel=hindi-movies",star maa movies
 http://45.127.56.3:6699/live/Corpus-POL1/SRV5/3/STAR-MAA-HD/live.mpd
@@ -354,11 +354,11 @@ https://uniflixbd.xyz/unuse/payplay/live.php?id=edf7ba617dc5&e=.m3u8
 #EXTINF:-1,tvg-logo="https://m3u-editor.com/storage/channel-logos/da14b440-b6ba-11ee-a370-b72d30e3f5e7/6075785/1058369761.png"group-title="sohel=kids",cartoon network
 http://192.168.81.2/hlsHD/CartoonNetwork/devilBox.m3u8
 
-#EXTINF:-1,tvg-logo="https://m3u-editor.com/storage/channel-logos/da14b440-b6ba-11ee-a370-b72d30e3f5e7/6075785/1058369822.png"group-title="sohel=kids",pogo
-http://103.109.56.116/live/skyfeed1019/index.m3u8
+#EXTINF:-1,tvg-logo="https://m3u-editor.com/storage/channel-logos/da14b440-b6ba-11ee-a370-b72d30e3f5e7/6075785/1058369822.png"group-title="sohel=kids",sonic hd
+http://103.131.214.129:9985/stream/channelid/702787524
 
 #EXTINF:-1,tvg-logo="https://m3u-editor.com/storage/channel-logos/da14b440-b6ba-11ee-a370-b72d30e3f5e7/6075785/1058369822.png"group-title="sohel=kids",pogo hd
-http://tv.bdvision.live:8080/play/chXzkkaPaXkx2-3idfJ3VRhw9ClXifjofgyQkLo9CpE/m3u8
+http://103.131.214.129:9985/stream/channelid/1081678798
 
 #EXTINF:-1,tvg-logo="https://m3u-editor.com/storage/channel-logos/da14b440-b6ba-11ee-a370-b72d30e3f5e7/6075785/1058379823.png"group-title="sohel=kids",khushboo bangla
 http://idvd.multitvsolution.com/idvo/khushboo.m3u8
@@ -373,7 +373,7 @@ https://dplus.gammacdn.workers.dev/videos/99.m3u8
 http://192.168.81.2/hlsHD/NATIONALGEOGRAPHICHD/devilBox.m3u8
 
 #EXTINF:-1,tvg-logo="https://m3u-editor.com/storage/channel-logos/da14b440-b6ba-11ee-a370-b72d30e3f5e7/6075785/1058408330.png"group-title="sohel=ducoment",wild hd
-http://mag.premiumplus.tv/play/live.php?mac=00:1A:79:61:4F:5D&stream=155989&extension=ts
+http://103.131.214.129:9985/stream/channelid/1668726065
 
 #EXTINF:-1,tvg-logo="https://m3u-editor.com/storage/channel-logos/da14b440-b6ba-11ee-a370-b72d30e3f5e7/6075785/1058413472.png"group-title="sohel=ducoment",sony bbc earth
 https://eamintalukdar.xyz/bioscope.php?id=bbc-earth-hd-live
@@ -381,8 +381,8 @@ https://eamintalukdar.xyz/bioscope.php?id=bbc-earth-hd-live
 #EXTINF:-1,tvg-logo="https://m3u-editor.com/storage/channel-logos/da14b440-b6ba-11ee-a370-b72d30e3f5e7/6075785/1058413499.png"group-title="sohel=ducoment",travelxp
 http://tv.bdvision.live:8080/play/chXzkkaPaXkx2-3idfJ3VfnoR2ch0oX5s_T_p6icEko/m3u8
 
-#EXTINF:-1,tvg-logo="https://m3u-editor.com/storage/channel-logos/da14b440-b6ba-11ee-a370-b72d30e3f5e7/6075785/1058482128.png"group-title="sohel=music",9xm
-http://tv.bdvision.live:8080/play/chXzkkaPaXkx2-3idfJ3VV6ws2cRa0RhqxyOxu_LmpM/m3u8
+#EXTINF:-1,tvg-logo="https://m3u-editor.com/storage/channel-logos/da14b440-b6ba-11ee-a370-b72d30e3f5e7/6075785/1058482128.png"group-title="sohel=music",8xm
+http://103.131.214.129:9985/stream/channelid/198950354
 
 #EXTINF:-1,tvg-logo="https://m3u-editor.com/storage/channel-logos/da14b440-b6ba-11ee-a370-b72d30e3f5e7/6075785/1058471796.png"group-title="sohel=music",9xm 2
 http://192.168.81.2/hlsHD/9XM/devilBox.m3u8
@@ -412,13 +412,16 @@ http://longstream-03.ajaah.com/PlayBoxTV/SangeetBangla/playlist.m3u8
 http://192.168.81.2/hlsHD/Zing/devilBox.m3u8
 
 #EXTINF:-1,tvg-logo="https://m3u-editor.com/storage/channel-logos/da14b440-b6ba-11ee-a370-b72d30e3f5e7/6075785/1058468832.png"group-title="sohel=music",music india
-https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Musicindia/default/index.m3u8
+http://103.131.214.129:9985/stream/channelid/625173234
 
 #EXTINF:-1,tvg-logo="https://m3u-editor.com/storage/channel-logos/da14b440-b6ba-11ee-a370-b72d30e3f5e7/6075785/1058468831.png"group-title="sohel=music",e24 music
 http://longstream-04.ajaah.com/PlayBoxTV/E24/playlist.m3u8
 
 #EXTINF:-1,tvg-logo="https://m3u-editor.com/storage/channel-logos/da14b440-b6ba-11ee-a370-b72d30e3f5e7/6075785/1058468830.png"group-title="sohel=music",9x jalwa
-http://tv.digitalliveonly.xyz:8880/live/arjun068/arjun068/1359.m3u8
+http://103.131.214.129:9985/stream/channelid/793745484
+
+#EXTINF:-1,tvg-logo="https://m3u-editor.com/storage/channel-logos/da14b440-b6ba-11ee-a370-b72d30e3f5e7/6075785/1058468830.png"group-title="sohel=music",jalwa hd
+http://103.131.214.129:9985/stream/channelid/888194103
 
 #EXTINF:-1,tvg-logo="https://m3u-editor.com/storage/channel-logos/da14b440-b6ba-11ee-a370-b72d30e3f5e7/6075785/1058468829.png"group-title="sohel=music",bdvision music
 http://tv.digitalliveonly.xyz:8880/live/arjun068/arjun068/15745.m3u8
@@ -442,10 +445,10 @@ http://192.168.81.2/hlsHD/StarSports2HD/devilBox.m3u8
 http://tv.bdvision.live:8080/play/chXzkkaPaXkx2-3idfJ3VXBmsFXJhsrDDKLUju-sqXc/m3u8
 
 #EXTINF:-1,tvg-logo="https://m3u-editor.com/storage/channel-logos/da14b440-b6ba-11ee-a370-b72d30e3f5e7/6075785/1058627382.png"group-title="sohel=sports",star sport select 1
-http://pgplex.net:8080/StarSportsSelect1/index.m3u8
+http://103.131.214.129:9985/stream/channelid/1868629603
 
 #EXTINF:-1,tvg-logo="https://m3u-editor.com/storage/channel-logos/da14b440-b6ba-11ee-a370-b72d30e3f5e7/6075785/1058627379.png"group-title="sohel=sports",star sports select 2hd bdix
-http://pgplex.net:8080/StarSportsSelect2/index.m3u8
+http://103.131.214.129:9985/stream/channelid/2094485147
 
 #EXTINF:-1,tvg-logo="https://m3u-editor.com/storage/channel-logos/da14b440-b6ba-11ee-a370-b72d30e3f5e7/6075785/1058627381.png"group-title="sohel=sports",star sports select 1hd
 http://192.168.81.2/hlsHD/StarSportsSelect1HD/devilBox.m3u8
@@ -454,13 +457,13 @@ http://192.168.81.2/hlsHD/StarSportsSelect1HD/devilBox.m3u8
 http://192.168.81.2/hlsHD/StarSportsSelect2HD/devilBox.m3u8
 
 #EXTINF:-1,tvg-logo="https://m3u-editor.com/storage/channel-logos/da14b440-b6ba-11ee-a370-b72d30e3f5e7/6075785/1058627378.png"group-title="sohel=sports",star sports 1bdix
-http://103.109.56.116/live/skyfeed1002/index.m3u8
+http://103.131.214.129:9985/stream/channelid/174631324
 
 #EXTINF:-1,tvg-logo="https://m3u-editor.com/storage/channel-logos/da14b440-b6ba-11ee-a370-b72d30e3f5e7/6075785/1058627376.png"group-title="sohel=sports",star sports 2bdix
-http://pgplex.net:8080/StarSports2HD/index.m3u8
+http://103.131.214.129:9985/stream/channelid/920885750
 
 #EXTINF:-1,tvg-logo="https://m3u-editor.com/storage/channel-logos/da14b440-b6ba-11ee-a370-b72d30e3f5e7/6075785/1058627368.png"group-title="sohel=sports",star sports hd
-http://pgplex.net:8080/StarSports1HD/index.m3u8
+http://103.131.214.129:9985/stream/channelid/758267740
 
 #EXTINF:-1,tvg-logo="https://m3u-editor.com/storage/channel-logos/da14b440-b6ba-11ee-a370-b72d30e3f5e7/6075785/1058617367.png"group-title="sohel=sports",sony sports 1bdix
 http://103.109.56.116/live/skyfeed1007/index.m3u8
@@ -478,7 +481,7 @@ http://103.2.153.38/trans1sd/smil:tensports2.smil/chunklist.m3u8
 http://103.2.153.38/trans1sd/smil:tensports5.smil/chunklist.m3u8
 
 #EXTINF:-1,tvg-logo="https://m3u-editor.com/storage/channel-logos/da14b440-b6ba-11ee-a370-b72d30e3f5e7/6075785/1058617364.png"group-title="sohel=sports",sony sports 3hd
-http://tv.bdvision.live:8080/play/chXzkkaPaXkx2-3idfJ3Vfs0SGCFVNsy_IOWX9XV7SE/m3u8
+http://103.131.214.129:9985/stream/channelid/1236898777
 
 #EXTINF:-1,tvg-logo="https://m3u-editor.com/storage/channel-logos/da14b440-b6ba-11ee-a370-b72d30e3f5e7/6075785/1058617363.png"group-title="sohel=sports",star sports hindi
 http://tv.bdvision.live:8080/play/chXzkkaPaXkx2-3idfJ3VQK9Q09u_dIWq7JRUpbaZ6I/m3u8
@@ -496,7 +499,7 @@ http://38.96.178.201/live/TSports/tracks-v1a1/mono.m3u8
 http://103.142.80.22:8080/Channel-1/index.m3u8
 
 #EXTINF:-1,tvg-logo="https://m3u-editor.com/storage/channel-logos/630599c0-bc73-11ee-9124-2510a949dcf6/6122739/1069256335.png"group-title="sohel=bpl",Ten sports hd
-http://tv.bdvision.live:8080/play/chXzkkaPaXkx2-3idfJ3VSAo6VJQ0IK7gQYZ4HE3VgA/m3u8
+http://103.131.214.129:9985/stream/channelid/1036861532
 
 #EXTINF:-1,tvg-logo="https://m3u-editor.com/storage/channel-logos/630599c0-bc73-11ee-9124-2510a949dcf6/6122739/1069256335.png"group-title="sohel=sports",Ten sports hd bdix
 http://tv.digitalliveonly.xyz:8880/live/arjun068/arjun068/1553.m3u8
@@ -505,7 +508,7 @@ http://tv.digitalliveonly.xyz:8880/live/arjun068/arjun068/1553.m3u8
 http://tv.digitalliveonly.xyz:8880/live/arjun068/arjun068/4164.m3u8
 
 #EXTINF:-1,tvg-logo="https://m3u-editor.com/storage/channel-logos/da14b440-b6ba-11ee-a370-b72d30e3f5e7/6075785/1058612519.png"group-title="sohel=sports",Ilt t20 hd
-http://pgplex.net:8080/AndPicturesHD/index.m3u8
+http://103.131.214.129:9985/stream/channelid/528483227
 
 #EXTINF:-1,tvg-logo="https://m3u-editor.com/storage/channel-logos/da14b440-b6ba-11ee-a370-b72d30e3f5e7/6075785/1058612518.png"group-title="sohel=sports",sports 18khel
 http://192.168.81.2/hlsHD/Sports18Khel/devilBox.m3u8
@@ -523,7 +526,7 @@ http://192.168.81.2/hlsHD/sasaSA/devilBox.m3u8
 https://hls.streambtw.com/live/stream_1.m3u8
 
 #EXTINF:-1,tvg-logo="https://m3u-editor.com/storage/channel-logos/c1f143e0-c249-11ee-b1d1-a7d47c91dad0/6178699/1077228704.png"group-title="sohel=sports",A sports hd
-http://tv.digitalliveonly.xyz:8880/live/arjun068/arjun068/2496.m3u8
+http://103.131.214.129:9985/stream/channelid/868069455
 
 #EXTINF:-1,tvg-logo="https://m3u-editor.com/storage/channel-logos/630599c0-bc73-11ee-9124-2510a949dcf6/6122739/1069256378.png"group-title="sohel=sports",astro cricket hd
 https://bolt.toxic-gang.xyz/apiz/star/index.php?id=1104670&e=.m3u8
