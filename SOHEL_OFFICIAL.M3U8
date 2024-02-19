@@ -319,7 +319,7 @@ http://tv.digitalliveonly.xyz:8880/live/arjun068/arjun068/1485.m3u8
 http://192.168.81.2/hlsHD/ZeeTVHD/devilBox.m3u8
 
 #EXTINF:-1,tvg-logo="https://m3u-editor.com/storage/channel-logos/da14b440-b6ba-11ee-a370-b72d30e3f5e7/6075785/1058277358.png"group-title="sohel=entertainment",zee tv
-http://sohel-zeetvhd.ttu.cc
+http://38.96.178.201/live/ZEETV/index.m3u8
 
 #EXTINF:-1,tvg-logo="https://m3u-editor.com/storage/channel-logos/da14b440-b6ba-11ee-a370-b72d30e3f5e7/6075785/1058285010.png"group-title="sohel=entertainment",star bharat
 http://tv.digitalliveonly.xyz:8880/live/arjun068/arjun068/1566.m3u8
@@ -385,7 +385,7 @@ https://eamintalukdar.xyz/bioscope.php?id=bbc-earth-hd-live
 http://tv.bdvision.live:8080/play/chXzkkaPaXkx2-3idfJ3VfnoR2ch0oX5s_T_p6icEko/m3u8
 
 #EXTINF:-1,tvg-logo="https://m3u-editor.com/storage/channel-logos/da14b440-b6ba-11ee-a370-b72d30e3f5e7/6075785/1058482128.png"group-title="sohel=music",8xm
-http://103.131.214.129:9985/stream/channelid/198950354
+http://38.96.178.201/live/9XM/index.m3u8
 
 #EXTINF:-1,tvg-logo="https://m3u-editor.com/storage/channel-logos/da14b440-b6ba-11ee-a370-b72d30e3f5e7/6075785/1058471796.png"group-title="sohel=music",9xm 2
 http://192.168.81.2/hlsHD/9XM/devilBox.m3u8
