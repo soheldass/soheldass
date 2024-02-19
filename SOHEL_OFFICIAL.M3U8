@@ -334,7 +334,7 @@ http://tv.bdvision.live:8080/play/chXzkkaPaXkx2-3idfJ3VYZHbSG7qWt2Icq8i-H92Vg/m3
 http://192.168.81.2/hlsHD/SonyEntertainmentHD/devilBox.m3u8
 
 #EXTINF:-1,tvg-logo="https://m3u-editor.com/storage/channel-logos/da14b440-b6ba-11ee-a370-b72d30e3f5e7/6075785/1058292221.png"group-title="sohel=entertainment",sony tv bdix
-http://38.96.178.201/live/SONY/index.m3u8
+http://38.96.178.201/live/SONY/tracks-v3a1/mono.m3u8
 
 #EXTINF:-1,tvg-logo="https://m3u-editor.com/storage/channel-logos/da14b440-b6ba-11ee-a370-b72d30e3f5e7/6075785/1058292221.png"group-title="sohel=entertainment",sony hd
 https://eamintalukdar.xyz/bioscope.php?id=sony-hd-live
@@ -496,10 +496,10 @@ http://192.168.81.2/hlsHD/TSPORTS/devilBox.m3u8
 https://bd-sajib924.000webhostapp.com/api.php?id=1101
 
 #EXTINF:-1,tvg-logo="https://m3u-editor.com/storage/channel-logos/da14b440-b6ba-11ee-a370-b72d30e3f5e7/6075785/1058617227.png"group-title="sohel=bpl",t-sports bdix
-http://38.96.178.201/live/TSports/tracks-v1a1/mono.m3u8
+http://38.96.178.201/live/TSports/tracks-v3a1/mono.m3u8
 
 #EXTINF:-1,tvg-logo="https://m3u-editor.com/storage/channel-logos/da14b440-b6ba-11ee-a370-b72d30e3f5e7/6075785/1058612520.png"group-title="sohel=bpl",gazi tv bdix
-http://38.96.178.201/live/GaziTV/index.m3u8
+http://38.96.178.201/live/GaziTV/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1,tvg-logo="https://m3u-editor.com/storage/channel-logos/630599c0-bc73-11ee-9124-2510a949dcf6/6122739/1069256335.png"group-title="sohel=bpl",Ten sports hd
 http://103.131.214.129:9985/stream/channelid/1036861532
