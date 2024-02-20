@@ -448,10 +448,10 @@ http://192.168.81.2/hlsHD/StarSports2HD/devilBox.m3u8
 http://tv.bdvision.live:8080/play/chXzkkaPaXkx2-3idfJ3VXBmsFXJhsrDDKLUju-sqXc/m3u8
 
 #EXTINF:-1,tvg-logo="https://m3u-editor.com/storage/channel-logos/da14b440-b6ba-11ee-a370-b72d30e3f5e7/6075785/1058627382.png"group-title="sohel=sports",star sport select 1
-http://103.131.214.129:9985/stream/channelid/1868629603
+http://pgplex.net:8080/StarSportsSelect1HD/index.m3u8
 
 #EXTINF:-1,tvg-logo="https://m3u-editor.com/storage/channel-logos/da14b440-b6ba-11ee-a370-b72d30e3f5e7/6075785/1058627379.png"group-title="sohel=sports",star sports select 2hd bdix
-http://103.131.214.129:9985/stream/channelid/2094485147
+http://pgplex.net:8080/StarSportsSelect2/index.m3u8
 
 #EXTINF:-1,tvg-logo="https://m3u-editor.com/storage/channel-logos/da14b440-b6ba-11ee-a370-b72d30e3f5e7/6075785/1058627381.png"group-title="sohel=sports",star sports select 1hd
 http://192.168.81.2/hlsHD/StarSportsSelect1HD/devilBox.m3u8
@@ -460,13 +460,13 @@ http://192.168.81.2/hlsHD/StarSportsSelect1HD/devilBox.m3u8
 http://192.168.81.2/hlsHD/StarSportsSelect2HD/devilBox.m3u8
 
 #EXTINF:-1,tvg-logo="https://m3u-editor.com/storage/channel-logos/da14b440-b6ba-11ee-a370-b72d30e3f5e7/6075785/1058627378.png"group-title="sohel=sports",star sports 1bdix
-http://103.131.214.129:9985/stream/channelid/174631324
+http://pgplex.net:8080/StarSports1HD/index.m3u8
 
 #EXTINF:-1,tvg-logo="https://m3u-editor.com/storage/channel-logos/da14b440-b6ba-11ee-a370-b72d30e3f5e7/6075785/1058627376.png"group-title="sohel=sports",star sports 2bdix
-http://103.131.214.129:9985/stream/channelid/920885750
+http://pgplex.net:8080/StarSports2HD/index.m3u8
 
-#EXTINF:-1,tvg-logo="https://m3u-editor.com/storage/channel-logos/da14b440-b6ba-11ee-a370-b72d30e3f5e7/6075785/1058627368.png"group-title="sohel=sports",star sports hd
-http://103.131.214.129:9985/stream/channelid/758267740
+#EXTINF:-1,tvg-logo="https://m3u-editor.com/storage/channel-logos/da14b440-b6ba-11ee-a370-b72d30e3f5e7/6075785/1058627368.png"group-title="sohel=sports",GeoTV
+http://pgplex.net:8080/GeoTV/index.m3u8
 
 #EXTINF:-1,tvg-logo="https://m3u-editor.com/storage/channel-logos/da14b440-b6ba-11ee-a370-b72d30e3f5e7/6075785/1058617367.png"group-title="sohel=sports",sony sports 1bdix
 http://103.109.56.116/live/skyfeed1007/index.m3u8
