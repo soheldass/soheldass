@@ -448,7 +448,7 @@ http://192.168.81.2/hlsHD/StarSports2HD/devilBox.m3u8
 http://tv.bdvision.live:8080/play/chXzkkaPaXkx2-3idfJ3VXBmsFXJhsrDDKLUju-sqXc/m3u8
 
 #EXTINF:-1,tvg-logo="https://m3u-editor.com/storage/channel-logos/da14b440-b6ba-11ee-a370-b72d30e3f5e7/6075785/1058627382.png"group-title="sohel=sports",star sport select 1
-http://pgplex.net:8080/StarSportsSelect1HD/index.m3u8
+http://pgplex.net:8080/StarSportsSelect1/index.m3u8
 
 #EXTINF:-1,tvg-logo="https://m3u-editor.com/storage/channel-logos/da14b440-b6ba-11ee-a370-b72d30e3f5e7/6075785/1058627379.png"group-title="sohel=sports",star sports select 2hd bdix
 http://pgplex.net:8080/StarSportsSelect2/index.m3u8
