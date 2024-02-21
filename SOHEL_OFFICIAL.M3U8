@@ -550,7 +550,7 @@ https://bolt.toxic-gang.xyz/apiz/star/index.php?id=1104670&e=.m3u8
 https://bolt.toxic-gang.xyz/apiz/star/index.php?id=1104677&e=.m3u8
 
 #EXTINF:-1,tvg-logo="https://m3u-editor.com/storage/channel-logos/da14b440-b6ba-11ee-a370-b72d30e3f5e7/6075785/1058608067.png"group-title="sohel=sports",tnt sports 1hd
-https://247b.mrgamingstreams.com/mrgamingbtsport1.m3u8
+http://38.96.178.201/live/TNTHD/index.m3u8
 
 #EXTINF:-1,tvg-logo="https://m3u-editor.com/storage/channel-logos/da14b440-b6ba-11ee-a370-b72d30e3f5e7/6075785/1058607960.png"group-title="sohel=sports",tnt sports 2
 https://247b.mrgamingstreams.com/mrgamingbtsport2.m3u8
@@ -561,17 +561,17 @@ https://247b.mrgamingstreams.com/mrgamingbtsport3.m3u8
 #EXTINF:-1,tvg-logo="https://m3u-editor.com/storage/channel-logos/da14b440-b6ba-11ee-a370-b72d30e3f5e7/6075785/1058597812.png"group-title="sohel=sports",ssc sports
 http://tv.digitalliveonly.xyz:8880/live/arjun068/arjun068/2314.m3u8
 
-#EXTINF:-1,tvg-logo="https://m3u-editor.com/storage/channel-logos/da14b440-b6ba-11ee-a370-b72d30e3f5e7/6075785/1058597802.png"group-title="sohel=sports",sky sports 2
-https://freehdgames.lol/chunklist/hlsch12.m3u8
+#EXTINF:-1,tvg-logo="https://m3u-editor.com/storage/channel-logos/da14b440-b6ba-11ee-a370-b72d30e3f5e7/6075785/1058597802.png"group-title="sohel=sports",Fox sports 1hd
+http://38.96.178.201/live/FS1/index.m3u8
 
 #EXTINF:-1,tvg-logo="https://m3u-editor.com/storage/channel-logos/da14b440-b6ba-11ee-a370-b72d30e3f5e7/6075785/1058597799.png"group-title="sohel=sports",sports 2
-https://freehdgames.lol/chunklist/hlsch17.m3u8
+http://38.96.178.201/live/FOXSPORTS2/index.m3u8
 
 #EXTINF:-1,tvg-logo="https://m3u-editor.com/storage/channel-logos/da14b440-b6ba-11ee-a370-b72d30e3f5e7/6075785/1058597608.png"group-title="sohel=sports",sky sports cricket
 https://streambanglaapp.xyz/proximity/auto/skyscric&e.m3u8
 
 #EXTINF:-1,tvg-logo="https://m3u-editor.com/storage/channel-logos/da14b440-b6ba-11ee-a370-b72d30e3f5e7/6075785/1058588098.png"group-title="sohel=sports",bein sports hd
-https://freehdgames.lol/chunklist/hlsch20.m3u8
+http://38.96.178.201/live/ESPNHD/index.m3u8
 
 #EXTINF:-1,tvg-logo="https://m3u-editor.com/storage/channel-logos/da14b440-b6ba-11ee-a370-b72d30e3f5e7/6075785/1058587795.png"group-title="sohel=sports",bein sports 2
 https://freehdgames.lol/chunklist/hlsch21.m3u8
