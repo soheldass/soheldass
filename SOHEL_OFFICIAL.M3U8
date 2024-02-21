@@ -345,6 +345,9 @@ https://eamintalukdar.xyz/bioscope.php?id=sony-hd-live
 #EXTINF:-1,tvg-logo="https://m3u-editor.com/storage/channel-logos/da14b440-b6ba-11ee-a370-b72d30e3f5e7/6075785/1058298530.png"group-title="sohel=entertainment",sony sab hd
 https://eamintalukdar.xyz/bioscope.php?id=sony-sab-tv-live
 
+#EXTINF:-1,tvg-logo="https://m3u-editor.com/storage/channel-logos/f2c6c300-d082-11ee-912a-2de08ce888b4/6293270/1092640101.png"group-title="sohel=entertainment",sony pal
+http://45.127.56.3:9698/live/Corpus-POL/SRV4/2/SONY-PAL/video.m3u8
+
 #EXTINF:-1,tvg-logo="https://m3u-editor.com/storage/channel-logos/da14b440-b6ba-11ee-a370-b72d30e3f5e7/6075785/1058298530.png"group-title="sohel=entertainment",sony sab hd bdix
 http://tv.digitalliveonly.xyz:8880/live/arjun068/arjun068/1385.m3u8
 
