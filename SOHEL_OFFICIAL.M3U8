@@ -481,7 +481,7 @@ http://pgplex.net:8080/StarSports1HD/index.m3u8
 http://pgplex.net:8080/StarSports2HD/index.m3u8
 
 #EXTINF:-1,tvg-logo="https://m3u-editor.com/storage/channel-logos/da14b440-b6ba-11ee-a370-b72d30e3f5e7/6075785/1058617367.png"group-title="sohel=sports",sony sports 1bdix
-http://103.109.56.116/live/skyfeed1007/index.m3u8
+http://38.96.178.201/live/Sports1/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1,tvg-logo="https://m3u-editor.com/storage/channel-logos/da14b440-b6ba-11ee-a370-b72d30e3f5e7/6075785/1058617366.png"group-title="sohel=sports",sony sports 2bdix
 http://38.96.178.201/live/Sports2/index.m3u8
@@ -499,7 +499,7 @@ http://103.2.153.38/trans1sd/smil:tensports5.smil/chunklist.m3u8
 http://103.131.214.129:9985/stream/channelid/1236898777
 
 #EXTINF:-1,tvg-logo="https://m3u-editor.com/storage/channel-logos/da14b440-b6ba-11ee-a370-b72d30e3f5e7/6075785/1058617363.png"group-title="sohel=sports",star sports hindi
-http://tv.bdvision.live:8080/play/chXzkkaPaXkx2-3idfJ3VQK9Q09u_dIWq7JRUpbaZ6I/m3u8
+http://38.96.178.201/live/Sports3/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1,tvg-logo="https://m3u-editor.com/storage/channel-logos/da14b440-b6ba-11ee-a370-b72d30e3f5e7/6075785/1058617227.png"group-title="sohel=sports",t-sport
 http://192.168.81.2/hlsHD/TSPORTS/devilBox.m3u8
