@@ -522,14 +522,11 @@ http://tv.digitalliveonly.xyz:8880/live/arjun068/arjun068/1553.m3u8
 #EXTINF:-1,tvg-logo="https://m3u-editor.com/storage/channel-logos/c1f143e0-c249-11ee-b1d1-a7d47c91dad0/6178699/1077218552.png"group-title="sohel=sports",fox sports cricket 
 http://tv.digitalliveonly.xyz:8880/live/arjun068/arjun068/4164.m3u8
 
-#EXTINF:-1,tvg-logo="https://m3u-editor.com/storage/channel-logos/da14b440-b6ba-11ee-a370-b72d30e3f5e7/6075785/1058612519.png"group-title="sohel=sports",Ilt t20 hd
-http://103.131.214.129:9985/stream/channelid/528483227
-
 #EXTINF:-1,tvg-logo="https://m3u-editor.com/storage/channel-logos/da14b440-b6ba-11ee-a370-b72d30e3f5e7/6075785/1058612518.png"group-title="sohel=sports",sports 18khel
 http://192.168.81.2/hlsHD/Sports18Khel/devilBox.m3u8
 
 #EXTINF:-1,tvg-logo="https://m3u-editor.com/storage/channel-logos/630599c0-bc73-11ee-9124-2510a949dcf6/6122739/1069256432.png"group-title="sohel=sports",sports 18 hd
-https://bolt.toxic-gang.xyz/apiz/star/index.php?id=1104676&e=.m3u8
+http://pgplex.net:8080/Sports18HD/index.m3u8
 
 #EXTINF:-1,tvg-logo="https://m3u-editor.com/storage/channel-logos/da14b440-b6ba-11ee-a370-b72d30e3f5e7/6075785/1058612515.png"group-title="sohel=sports",dd sports hd
 http://192.168.81.2/hlsHD/DDSPORTSHD/devilBox.m3u8
