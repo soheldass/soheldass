@@ -133,7 +133,7 @@ http://tv.bdvision.live:8080/play/chXzkkaPaXkx2-3idfJ3VabHDMJc1sQfW5HdlN3XJoE/m3
 http://tv.digitalliveonly.xyz:8880/live/arjun068/arjun068/14614.m3u8
 
 #EXTINF:-1,tvg-logo="https://m3u-editor.com/storage/channel-logos/da14b440-b6ba-11ee-a370-b72d30e3f5e7/6075785/1057657887.png"group-title="sohel=kolkata",star jalsha
-http://103.142.80.22:8080/star-jalsha/index.m3u8
+http://192.168.81.2:8080/CH8110HD01/video.m3u8
 
 #EXTINF:-1,tvg-logo="https://m3u-editor.com/storage/channel-logos/da14b440-b6ba-11ee-a370-b72d30e3f5e7/6075785/1057657888.png"group-title="sohel=kolkata",star jalsha hd
 http://45.127.56.3:9698/live/Corpus-POL/SRV4/3/STAR-JALSHA-HD/video.m3u8
